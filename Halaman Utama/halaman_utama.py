@@ -157,11 +157,11 @@ elif menu == "About Us":
                 "motto_hidup": "Always one step ahead",
             },
             {
-                "nama": "B",
+                "nama": "Luthfia Laila Ramadhani",
                 "sebagai": "Bu Lurah",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "Ya apa ya",
+                "nim": "123450004",
+                "fun_fact": "cinta es batu banget",
+                "motto_hidup": "Jangan takut mencoba",
             },
             {
                 "nama": "Randa Andriana Putra",
