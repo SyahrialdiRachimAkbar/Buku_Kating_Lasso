@@ -199,11 +199,11 @@ elif menu == "About Us":
                 "motto_hidup": "kalo gagal coba lagi",
             },
             {
-                "nama": "E",
+                "nama": "Feby Angelinna",
                 "sebagai": "Anggotaa",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "122450045",
+                "fun_fact": "orang kemiling tapi ngekos",
+                "motto_hidup": "yang penting bisa survive",
             },
             {
                 "nama": "E",
