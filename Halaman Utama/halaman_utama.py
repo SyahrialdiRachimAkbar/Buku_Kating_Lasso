@@ -192,11 +192,11 @@ elif menu == "About Us":
                 "motto_hidup": "segala yang dilakukan ada gamblingnya",
             },
             {
-                "nama": "E",
+                "nama": "Arini Puteri Elandra",
                 "sebagai": "Anggotaa",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450069",
+                "fun_fact": "Bisa bawa motor tapi gabisa belok.",
+                "motto_hidup": "Hidup malas, Mati masih banyak dosa.",
             },
             {
                 "nama": "E",
