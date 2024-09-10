@@ -220,11 +220,11 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin dulu keles",
             },
             {
-                "nama": "E",
-                "sebagai": "Anggotaa",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nama": "Muhammad Ridwan",
+                "sebagai": "Anggota",
+                "nim": "123450091",
+                "fun_fact": "hobi badminton",
+                "motto_hidup": "if you can believe it, you can achieve it",
             },
             {
                 "nama": "Desman Velius Halawa",
