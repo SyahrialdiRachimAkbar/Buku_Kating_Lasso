@@ -227,11 +227,11 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin dulu keles",
             },
             {
-                "nama": "E",
+                "nama": "Desman Velius Halawa",
                 "sebagai": "Anggotaa",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450114",
+                "fun_fact": "BIsa makan mie seminggu tanpa nasi",
+                "motto_hidup": "Kebahagiaan saya yang utama",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
