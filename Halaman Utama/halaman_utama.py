@@ -185,11 +185,11 @@ elif menu == "About Us":
                 "motto_hidup": "Just keep on dreaming and one day you will see",
             },
             {
-                "nama": "E",
+                "nama": "Daffa Hadyan Navista",
                 "sebagai": "Anggotaa",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450025",
+                "fun_fact": "suka baca komik, gak galak mukanya aja yang ketuaan",
+                "motto_hidup": "segala yang dilakukan ada gamblingnya",
             },
             {
                 "nama": "E",
