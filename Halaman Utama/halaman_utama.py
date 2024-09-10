@@ -192,11 +192,11 @@ elif menu == "About Us":
                 "motto_hidup": "segala yang dilakukan ada gamblingnya",
             },
             {
-                "nama": "E",
+                "nama": "Refa Destiny Pranata",
                 "sebagai": "Anggotaa",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450016",
+                "fun_fact": "anak teluk tapi udah pindah",
+                "motto_hidup": "kalo gagal coba lagi",
             },
             {
                 "nama": "E",
