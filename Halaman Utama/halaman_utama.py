@@ -153,7 +153,7 @@ elif menu == "About Us":
                 "nama": "Syahrialdi Rachim Akbar",
                 "sebagai": "Pak Lurah",
                 "nim": "123450093",
-                "fun_fact": "Suka makan geprekk",
+                "fun_fact": "Suka makan geprek",
                 "motto_hidup": "Always one step ahead",
             },
             {
