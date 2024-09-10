@@ -178,11 +178,11 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin dulu aja",
             },
             {
-                "nama": "E",
-                "sebagai": "Anggotaa",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nama": "Raihana Adelia Putri",
+                "sebagai": "Anggota",
+                "nim": "123450041",
+                "fun_fact": "menulis is my laipppp",
+                "motto_hidup": "Just keep on dreaming and one day you will see",
             },
             {
                 "nama": "E",
