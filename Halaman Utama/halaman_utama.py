@@ -171,11 +171,11 @@ elif menu == "About Us":
                 "motto_hidup": "mantap",
             },
             {
-                "nama": "D",
-                "sebagai": "Anggotaa",
-                "nim": "122450000",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "jalanin dulu aja",
+                "nama": "Hanifah Inaya Sani",
+                "sebagai": "Anggota",
+                "nim": "123450123",
+                "fun_fact": "Owner Risol dan Bakso Bakar",
+                "motto_hidup": "Life With a Smile",
             },
             {
                 "nama": "Raihana Adelia Putri",
