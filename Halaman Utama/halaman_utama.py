@@ -235,11 +235,11 @@ elif menu == "About Us":
                 "motto_hidup": "Kebahagiaan saya yang utama",
             },
             {
-                "nama": "X",
+                "nama": "Tarisya Hidayatul Rahmi",
                 "sebagai": "Anggota",
-                "nim": "X",
-                "fun_fact": "BIsa makan mie seminggu tanpa nasi",
-                "motto_hidup": "Kebahagiaan saya yang utama",
+                "nim": "123450052",
+                "fun_fact": "Bisa tidur lebih dari 13 jam hari",
+                "motto_hidup": "Tetaplah hidup",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
