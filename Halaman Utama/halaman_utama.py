@@ -147,6 +147,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
@@ -219,11 +220,11 @@ elif menu == "About Us":
                 "motto_hidup": "jalanin dulu keles",
             },
             {
-                "nama": "E",
+                "nama": "Arini Puteri Elandra",
                 "sebagai": "Anggotaa",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450069",
+                "fun_fact": "Bisa bawa motor tapi gabisa belok.",
+                "motto_hidup": "Hidup malas, Mati masih banyak dosa.",
             },
             {
                 "nama": "Muhammad Ridwan",
@@ -234,8 +235,15 @@ elif menu == "About Us":
             },
             {
                 "nama": "Desman Velius Halawa",
-                "sebagai": "Anggotaa",
+                "sebagai": "Anggota",
                 "nim": "123450114",
+                "fun_fact": "BIsa makan mie seminggu tanpa nasi",
+                "motto_hidup": "Kebahagiaan saya yang utama",
+            },
+            {
+                "nama": "X",
+                "sebagai": "Anggotaa",
+                "nim": "X",
                 "fun_fact": "BIsa makan mie seminggu tanpa nasi",
                 "motto_hidup": "Kebahagiaan saya yang utama",
             },
