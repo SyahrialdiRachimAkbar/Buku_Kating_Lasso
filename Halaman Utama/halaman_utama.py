@@ -192,18 +192,24 @@ elif menu == "About Us":
                 "motto_hidup": "segala yang dilakukan ada gamblingnya",
             },
             {
+
                 "nama": "Arini Puteri Elandra",
                 "sebagai": "Anggotaa",
                 "nim": "123450069",
                 "fun_fact": "Bisa bawa motor tapi gabisa belok.",
                 "motto_hidup": "Hidup malas, Mati masih banyak dosa.",
+                "nama": "Refa Destiny Pranata",
+                "sebagai": "Anggotaa",
+                "nim": "123450016",
+                "fun_fact": "anak teluk tapi udah pindah",
+                "motto_hidup": "kalo gagal coba lagi",
             },
             {
-                "nama": "E",
+                "nama": "Feby Angelinna",
                 "sebagai": "Anggotaa",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "122450045",
+                "fun_fact": "orang kemiling tapi ngekos",
+                "motto_hidup": "yang penting bisa survive",
             },
             {
                 "nama": "E",
