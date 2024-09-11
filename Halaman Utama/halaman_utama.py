@@ -192,6 +192,12 @@ elif menu == "About Us":
                 "motto_hidup": "segala yang dilakukan ada gamblingnya",
             },
             {
+
+                "nama": "Arini Puteri Elandra",
+                "sebagai": "Anggotaa",
+                "nim": "123450069",
+                "fun_fact": "Bisa bawa motor tapi gabisa belok.",
+                "motto_hidup": "Hidup malas, Mati masih banyak dosa.",
                 "nama": "Refa Destiny Pranata",
                 "sebagai": "Anggotaa",
                 "nim": "123450016",
