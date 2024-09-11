@@ -210,8 +210,8 @@ elif menu == "About Us":
                 "nama": "Givaro Ananta",
                 "sebagai": "Anggota",
                 "nim": "123450078",
-                "fun_fact": "gabisa nonton horror",
-                "motto_hidup": "hal-hal sulit bukan berarti mustahil",
+                "fun_fact": "gabisa nonton ",
+                "motto_hidup": "hal-hal sgit ulit bukan berarti mustahil",
             },
             {
                 "nama": "Arini Puteri Elandra",
