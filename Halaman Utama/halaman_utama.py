@@ -231,7 +231,11 @@ elif menu == "About Us":
                 "sebagai": "Anggota",
                 "nim": "123450114",
                 "fun_fact": "Bisa makan mie seminggu tanpa nasi",
-                "motto_hidup": "Kebahagiaan saya yang utama",
+desmanlagi
+                "motto_hidup": "Kebahagiaan saya yang utama dan paling utama, kebahagiaan orang lain bukan tanggungjawab saya",
+=======
+             
+ main
             },
             {
                 "nama": "Tarisya Hidayatul Rahmi",
