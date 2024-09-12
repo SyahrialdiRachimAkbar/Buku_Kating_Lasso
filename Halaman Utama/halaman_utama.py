@@ -75,7 +75,7 @@ def streamlit_menu():
         default_index=0,
         orientation="horizontal",
         styles={
-            "container": {"padding": "0!important", "background-color": "#fafafa"},
+            "container": {"padding": "0!important", "background-color": "#C96868"},
             "icon": {"color": "black", "font-size": "19px"},
             "nav-link": {
                 "font-size": "15px",
@@ -83,7 +83,7 @@ def streamlit_menu():
                 "margin": "0px",
                 "--hover-color": "#eee",
             },
-            "nav-link-selected": {"background-color": "#3FBAD8"},
+            "nav-link-selected": {"background-color": "#FADFA1"},
         },
     )
     return selected
@@ -127,7 +127,6 @@ if menu == "Home":
     home_page()
 
 elif menu == "About Us":
-
     def about_page():
         st.markdown(
             """<style>.centered-title {text-align: center;}</style>""",
@@ -135,7 +134,7 @@ elif menu == "About Us":
         )
         st.markdown("<h1 class='centered-title'>About Us</h1>", unsafe_allow_html=True)
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1aKgGYHML81d3_zF3uYM_BVcfA5iUJgmu",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1z6O81ggVUo5r0bSVnKnJT3zJi9fjC6W-",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -161,7 +160,7 @@ elif menu == "About Us":
                 "nama": "Luthfia Laila Ramadhani",
                 "sebagai": "Bu Lurah",
                 "nim": "123450004",
-                "fun_fact": "cinta es batu banget",
+                "fun_fact": "Cinta es batu banget",
                 "motto_hidup": "Jangan takut mencoba",
             },
             {
@@ -182,40 +181,40 @@ elif menu == "About Us":
                 "nama": "Raihana Adelia Putri",
                 "sebagai": "Anggota",
                 "nim": "123450041",
-                "fun_fact": "menulis is my laipppp",
+                "fun_fact": "Menulis is my laipppp",
                 "motto_hidup": "Just keep on dreaming and one day you will see",
             },
             {
                 "nama": "Daffa Hadyan Navista",
-                "sebagai": "Anggotaa",
+                "sebagai": "Anggota",
                 "nim": "123450025",
-                "fun_fact": "suka baca komik, gak galak mukanya aja yang ketuaan",
-                "motto_hidup": "segala yang dilakukan ada gamblingnya",
+                "fun_fact": "Suka baca komik, gak galak mukanya aja yang ketuaan",
+                "motto_hidup": "Segala yang dilakukan ada gamblingnya",
             },
             {
                 "nama": "Refa Destiny Pranata",
-                "sebagai": "Anggotaa",
+                "sebagai": "Anggota",
                 "nim": "123450016",
-                "fun_fact": "anak teluk tapi udah pindah",
-                "motto_hidup": "kalo gagal coba lagi",
+                "fun_fact": "Anak teluk tapi udah pindah",
+                "motto_hidup": "Kalo gagal coba lagi",
             },
             {
                 "nama": "Feby Angelinna",
-                "sebagai": "Anggotaa",
+                "sebagai": "Anggota",
                 "nim": "122450045",
-                "fun_fact": "orang kemiling tapi ngekos",
-                "motto_hidup": "yang penting bisa survive",
+                "fun_fact": "Orang kemiling tapi ngekos",
+                "motto_hidup": "Yang penting bisa survive",
             },
             {
-                "nama": "E",
-                "sebagai": "Anggotaa",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nama": "Givaro Ananta",
+                "sebagai": "Anggota",
+                "nim": "123450078",
+                "fun_fact": "gabisa nonton horror",
+                "motto_hidup": "hal-hal sulit bukan berarti mustahil",
             },
             {
                 "nama": "Arini Puteri Elandra",
-                "sebagai": "Anggotaa",
+                "sebagai": "Anggota",
                 "nim": "123450069",
                 "fun_fact": "Bisa bawa motor tapi gabisa belok.",
                 "motto_hidup": "Hidup malas, Mati masih banyak dosa.",
@@ -224,22 +223,22 @@ elif menu == "About Us":
                 "nama": "Muhammad Ridwan",
                 "sebagai": "Anggota",
                 "nim": "123450091",
-                "fun_fact": "hobi badminton",
-                "motto_hidup": "if you can believe it, you can achieve it",
+                "fun_fact": "Hobi badminton",
+                "motto_hidup": "If you can believe it, you can achieve it",
             },
             {
                 "nama": "Desman Velius Halawa",
                 "sebagai": "Anggota",
                 "nim": "123450114",
-                "fun_fact": "BIsa makan mie seminggu tanpa nasi",
+                "fun_fact": "Bisa makan mie seminggu tanpa nasi",
                 "motto_hidup": "Kebahagiaan saya yang utama",
             },
             {
-                "nama": "X",
-                "sebagai": "Anggotaa",
-                "nim": "X",
-                "fun_fact": "BIsa makan mie seminggu tanpa nasi",
-                "motto_hidup": "Kebahagiaan saya yang utama",
+                "nama": "Tarisya Hidayatul Rahmi",
+                "sebagai": "Anggota",
+                "nim": "123450052",
+                "fun_fact": "Bisa tidur lebih dari 13 jam hari",
+                "motto_hidup": "Tetaplah hidup",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
