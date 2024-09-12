@@ -217,7 +217,7 @@ elif menu == "About Us":
                 "sebagai": "Anggota",
                 "nim": "123450069",
                 "fun_fact": "Bisa bawa motor tapi gabisa belok.",
-                "motto_hidup": "Hidup malas, Mati masih banyak dosa.",
+                "motto_hidup": "To Infinity And Beyond.",
             },
             {
                 "nama": "Muhammad Ridwan",
