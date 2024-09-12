@@ -207,11 +207,11 @@ elif menu == "About Us":
                 "motto_hidup": "Yang penting bisa survive",
             },
             {
-                "nama": "E",
+                "nama": "Givaro Ananta",
                 "sebagai": "Anggota",
-                "nim": "122450100",
-                "fun_fact": "nyemilin es bata, kiko",
-                "motto_hidup": "jalanin dulu keles",
+                "nim": "123450078",
+                "fun_fact": "gabisa nonton horror",
+                "motto_hidup": "hal-hal sulit bukan berarti mustahil",
             },
             {
                 "nama": "Arini Puteri Elandra",
