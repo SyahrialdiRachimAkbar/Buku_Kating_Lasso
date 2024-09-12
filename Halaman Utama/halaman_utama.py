@@ -230,8 +230,8 @@ elif menu == "About Us":
                 "nama": "Desman Velius Halawa",
                 "sebagai": "Anggotaa",
                 "nim": "123450114",
-                "fun_fact": "BIsa makan mie seminggu tanpa nasi",
-                "motto_hidup": "Kebahagiaan saya yang utama",
+                "fun_fact": "Bisa makan mie seminggu tanpa nasi",
+                "motto_hidup": "Kebahagiaan saya yang utama dan paling utama, kebahagiaan orang lain bukan tanggungjawab saya",
             },
         ]
         display_images_with_data(gambar_urls, data_list)
