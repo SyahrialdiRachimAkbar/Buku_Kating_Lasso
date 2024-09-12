@@ -154,7 +154,7 @@ elif menu == "About Us":
                 "sebagai": "Pak Lurah",
                 "nim": "123450093",
                 "fun_fact": "Suka makan geprek",
-                "motto_hidup": "Always one step aheadd",
+                "motto_hidup": "Always one step ahead",
             },
             {
                 "nama": "Luthfia Laila Ramadhani",
