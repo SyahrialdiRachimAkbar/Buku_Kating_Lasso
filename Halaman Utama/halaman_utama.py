@@ -138,15 +138,16 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1z6O81ggVUo5r0bSVnKnJT3zJi9fjC6W-",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1UfvUH89_cX37P47pO47GGKhLnqocEyIY",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1SxLAxycX64ZjlACAqQWxEnZ3tKEzqRKK",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1Xgr4r69s6TzbjyI4QPjXk0MrVwa-D09a",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+
         ]
         data_list = [
             {
@@ -161,14 +162,14 @@ elif menu == "About Us":
                 "sebagai": "Bu Lurah",
                 "nim": "123450004",
                 "fun_fact": "Cinta es batu banget",
-                "motto_hidup": "Jangan takut mencoba",
+                "motto_hidup": "Jangan takut untuk mencoba",
             },
             {
-                "nama": "Randa Andriana Putra",
+                "nama": "Akeyla Fairuz Shafi",
                 "sebagai": "Anggota",
-                "nim": "122450083",
-                "fun_fact": "nyemilin es bata",
-                "motto_hidup": "mantap",
+                "nim": "123450119",
+                "fun_fact": "Suka berenang, tapi gak jago renang",
+                "motto_hidup": "Tidak ada kesuksesan tanpa usaha dan doa",
             },
             {
                 "nama": "Hanifah Inaya Sani",
@@ -209,15 +210,15 @@ elif menu == "About Us":
                 "nama": "Givaro Ananta",
                 "sebagai": "Anggota",
                 "nim": "123450078",
-                "fun_fact": "gabisa nonton horror",
-                "motto_hidup": "hal-hal sulit bukan berarti mustahil",
+                "fun_fact": "Gak bisa nonton horror",
+                "motto_hidup": "Hal-hal sulit bukan berarti mustahil",
             },
             {
                 "nama": "Arini Puteri Elandra",
                 "sebagai": "Anggota",
                 "nim": "123450069",
                 "fun_fact": "Bisa bawa motor tapi gabisa belok.",
-                "motto_hidup": "Hidup malas, Mati masih banyak dosa.",
+                "motto_hidup": "To Infinity And Beyond.",
             },
             {
                 "nama": "Muhammad Ridwan",
