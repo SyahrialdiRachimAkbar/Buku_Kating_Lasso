@@ -135,7 +135,7 @@ elif menu == "About Us":
         st.markdown("<h1 class='centered-title'>About Us</h1>", unsafe_allow_html=True)
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1aKgGYHML81d3_zF3uYM_BVcfA5iUJgmu",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=137heKwmLXr_7wamKCV3s-o0TJPewNPO",
             "https://drive.google.com/uc?export=view&id=1z6O81ggVUo5r0bSVnKnJT3zJi9fjC6W-",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1UfvUH89_cX37P47pO47GGKhLnqocEyIY",
@@ -145,9 +145,8 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1Xgr4r69s6TzbjyI4QPjXk0MrVwa-D09a",
+            "https://drive.google.com/uc?export=view&id=12rDP1bZ5rl5uM--JeI521GKuF4U83e2V",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-
         ]
         data_list = [
             {
