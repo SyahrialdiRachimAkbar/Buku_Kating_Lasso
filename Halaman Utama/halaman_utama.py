@@ -136,7 +136,7 @@ elif menu == "About Us":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1aKgGYHML81d3_zF3uYM_BVcfA5iUJgmu",
             "https://drive.google.com/uc?export=view&id=137heKwmLXr_7wamKCV3s-o0TJPewNPOz",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1IBqxztysrM7MZ50gnq9B2hKcMHRvOwyC",
             "https://drive.google.com/uc?export=view&id=13_82BrUUVdyHLT5yMntXFvH3kuPHaEQs",
             "https://drive.google.com/uc?export=view&id=1ktGnPU5MGDSFmsUogiZ_lPvUNzP_VZOF",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bgdap
