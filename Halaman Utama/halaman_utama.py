@@ -138,7 +138,7 @@ elif menu == "About Us":
             "https://drive.google.com/uc?export=view&id=137heKwmLXr_7wamKCV3s-o0TJPewNPOz",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=13_82BrUUVdyHLT5yMntXFvH3kuPHaEQs",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1ktGnPU5MGDSFmsUogiZ_lPvUNzP_VZOF",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bgdap
             "https://drive.google.com/uc?export=view&id=10M72Db-tdMqJ9RP51CacDqZ1KIlnQRls",
             "https://drive.google.com/uc?export=view&id=1SxLAxycX64ZjlACAqQWxEnZ3tKEzqRKK",
