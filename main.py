@@ -14,13 +14,13 @@ Mahasiswa1 = st.Page(
     icon=":material/person:",
 )
 Mahasiswa2 = st.Page(
-    "Buku Kating/020_Try Yani Rizki Nur Rohmah.py",
-    title="020 - Try Yani Rizki Nur Rohmah",
+    "Buku Kating/004_Luthfia Laila Ramadhani.py",
+    title="004 - Luthfia Laila Ramadhani",
     icon=":material/person:",
 )
 Mahasiswa3 = st.Page(
-    "Buku Kating/001_Eksanty Febriana.py",
-    title="001 - Eksanty Febriana",
+    "Buku Kating/016_Refa Destiny Pranata.py",
+    title="016 - Refa Destiny Pranata",
     icon=":material/person:",
 )
 Mahasiswa4 = st.Page(
