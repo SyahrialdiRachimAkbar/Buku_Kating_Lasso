@@ -102,24 +102,17 @@ if menu == "Home":
             "<h1 class='centered-title'>Deskripsi Kelompok</h1>", unsafe_allow_html=True
         )
         st.markdown(
-            """<div style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                    uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est 
-                    laborum.</div>""",
+            """<div> Lasso berasal dari kata Least Absolute Shrinkage and Selection Operator yang berarti pendektan regresi yang menggunakan regulasi L satu.
+              Lasso merupakan kelompok ke-5 dalam CEO Himpunan Mahasiswa Sains Data 2024. Nama Lasso dapat dilambangkan sebagai kekompakan atau ikatan antar anggota serta focus, kecepatan, 
+              kekuatan dan fleksibilitas.</div>""",
             unsafe_allow_html=True,
         )
         st.write(""" """)
         foto_kelompok = "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_"
         layout(foto_kelompok)
         st.markdown(
-            """<div style="text-align: justify;">Lorem ipsum dolor sit amet, consectetur adipiscing elit, 
-                    sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, 
-                    quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. 
-                    uis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. 
-                    Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est 
-                    laborum.</div>""",
+            """<div style="text-align: justify;">Kelompok Lasso terdiri dari 13 anak yang menggemaskan dan 2 daplok yang sangat kece yaitu bang daris dan kak vita.
+              Kelompok 5 keren, kelompok 5 paham, kelompok 5 NGIHAAA!</div>""",
             unsafe_allow_html=True,
         )
         st.write(""" """)
