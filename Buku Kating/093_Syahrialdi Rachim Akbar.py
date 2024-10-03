@@ -85,7 +85,7 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Umur: {data_list[i]['umur']}")
             st.write(f"Asal: {data_list[i]['asal']}")
             st.write(f"Alamat: {data_list[i]['alamat']}")
-            st.write(f"Hobbi: {data_list[i]['hobbi']}")
+            st.write(f"Hobi: {data_list[i]['hobi']}")
             st.write(f"Sosial Media: {data_list[i]['sosmed']}")
             st.write(f"Kesan: {data_list[i]['kesan']}")
             st.write(f"Pesan: {data_list[i]['pesan']}")
@@ -100,40 +100,76 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1T7fG0hKky8K8nrExkjoIdhjL0s8-LUBX",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
-                "nama": "Kakak A",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Kharisma Gumilang",
+                "nim": "121450142",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Jl. Pulau Damar, Tanjung Senang",
+                "hobi": "Kuliah-rapat, dengerin lagu ",
+                "sosmed": "@gumilangkharisma",
+                "kesan": "Tegas tapi santai",  
+                "pesan":"Semangat jadi kahim bang"# 1
             },
             {
-                "nama": "Kakak B",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Pandra Insani Putra Azwar",
+                "nim": "121450127",
+                "umur": "21",
+                "asal":"Lampung Utara",
+                "alamat": "Jl. Pulau Bawean, Sukarame",
+                "hobi": "Main gitar",
+                "sosmed": "@pndrinsni27",
+                "kesan": "Kesekjenan paling santai",  
+                "pesan":"Semoga cepet lulus"# 1
             },
             {
-                "nama": "Kakak CC",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Meliza Wulandari",
+                "nim": "121450044",
+                "umur": "21",
+                "asal":"Sumatera Selatan",
+                "alamat": "Kota Baru",
+                "hobi": "Nonton Drakor,",
+                "sosmed": "@wulandarimelinza",
+                "kesan": "Tosnya asik",  
+                "pesan":" - "# 1
+            },
+            {
+                "nama": "Putri Maulida Chairani",
+                "nim": "121450050",
+                "umur": "21",
+                "asal":"Payakumbuh, Sumatera Barat",
+                "alamat": "Nangka 4",
+                "hobi": "Dengerin Bang Pandra main gitar",
+                "sosmed": "@ptrimaulidaaa_",
+                "kesan": " - ",  
+                "pesan":" - "# 1
+            },
+            {
+                "nama": "Hartiti Fadilah",
+                "nim": "121450021",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pemda",
+                "hobi": "Baca Webtoon",
+                "sosmed": "@hrdfdlh",
+                "kesan": " - ",  
+                "pesan":" - "# 1
+            },
+            {
+                "nama": "Nadilla Andhara Putri",
+                "nim": "121450003",
+                "umur": "21",
+                "asal":"Metro, Lampung",
+                "alamat": "Kota Baru",
+                "hobi": "Gangguin Kak Liza tidur, baca Wattpad/AU",
+                "sosmed": "@nadillaandr26",
+                "kesan": "-",  
+                "pesan":"-"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -153,7 +189,7 @@ elif menu == "Baleg":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
@@ -164,7 +200,7 @@ elif menu == "Baleg":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -175,7 +211,7 @@ elif menu == "Baleg":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -198,7 +234,7 @@ elif menu == "Senator":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
@@ -209,7 +245,7 @@ elif menu == "Senator":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
@@ -220,7 +256,7 @@ elif menu == "Senator":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
