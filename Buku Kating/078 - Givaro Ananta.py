@@ -103,35 +103,68 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-                "nama": "Kakak A",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Kharisma Gumilang",
+                "nim": "121450142",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Jl. Pulau Damar, Tanjung Senang",
+                "hobi": "Kuliah-rapat, dengerin lagu",
+                "sosmed": "@gumilangkharisma",
+                "kesan": "santai tapi wibawanya dapet banget",  
+                "pesan":"sukses terus bang"# 1
             },
             {
-                "nama": "Kakak B",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Pandra Insani Puutra Azwar",
+                "nim": "121450127",
+                "umur": "21",
+                "asal":"Lampung Utara",
+                "alamat": "Jl. Pulau Bawean 2, Sukarame",
+                "hobi": "Main Gitar",
+                "sosmed": "@pndrinsni27",
+                "kesan": "Sekjen paling asik",  
+                "pesan":"--"# 1
             },
             {
-                "nama": "Kakak C",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "nama": "Meliza Wulandari",
+                "nim": "121450044",
+                "umur": "21",
+                "asal":"Sumatera Selatan",
+                "alamat": "Kota Baru",
+                "hobi": "Nonton Drakor",
+                "sosmed": "@wulandarimeliza",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                
+            },
+            {   "nama": "Putri Maulida Chairani",
+                "nim": "121450050",
+                "umur": "21",
+                "asal":"Payakumbuh, Sumatera Barat",
+                "alamat": "Nangka 4",
+                "hobi": "Dengerin Bang Pandra main gitar",
+                "sosmed": "@ptrimaulidaaa_",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                    
+            },
+            {   "nama": "Hartiti Fadilah",
+                "nim": "121450021",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pemda",
+                "hobi": "Baca Webtoon",
+                "sosmed": "@hrdfdlh",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+
+            },
+            {   "nama": "Hartiti Andhara Putri",
+                "nim": "121450003",
+                "umur": "21",
+                "asal":"Metro, Lampung",
+                "alamat": "Kota Baru",
+                "hobi": "Gangguin Kak Liza Tidur, bawa Wattpad/AU",
+                "sosmed": "@nadillaandr26",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
@@ -178,7 +211,7 @@ elif menu == "Baleg":
                 "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kaka !!!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)

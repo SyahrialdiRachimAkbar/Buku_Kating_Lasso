@@ -103,15 +103,15 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-                "nama": "Kakak A",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Kharisma Gumilang",
+                "nim": "121450142",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Jl. Pulau Damar, Tanjung Senang",
+                "hobi": "Kuliah-rapat, dengerin lagu",
+                "sosmed": "@gumilangkharisma",
+                "kesan": "Keren jadi kahim",  
+                "pesan":"keren bang jadi kahim"# 1
             },
             {
                 "nama": "Kakak B",
