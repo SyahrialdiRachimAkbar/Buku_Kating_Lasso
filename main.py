@@ -34,8 +34,8 @@ Mahasiswa5 = st.Page(
     icon=":material/person:",
 )
 Mahasiswa6 = st.Page(
-    "Buku Kating/Mahasiswa6.py",
-    title="Mahasiswa6",
+    "Buku Kating/025 - Daffa Hadyan Navista.py",
+    title="025 - Daffa Hadyan Navista",
     icon=":material/person:",
 )
 Mahasiswa7 = st.Page(
@@ -44,8 +44,8 @@ Mahasiswa7 = st.Page(
     icon=":material/person:",
 )
 Mahasiswa8 = st.Page(
-    "Buku Kating/Mahasiswa8.py",
-    title="Mahasiswa8",
+    "Buku Kating/039 - Feby Angelina.py",
+    title="039 - Feby Angelina",
     icon=":material/person:",
 )
 Mahasiswa9 = st.Page(
@@ -59,8 +59,8 @@ Mahasiswa10 = st.Page(
     icon=":material/person:",
 )
 Mahasiswa11 = st.Page(
-    "Buku Kating/Mahasiswa11.py",
-    title="Mahasiswa11",
+    "Buku Kating/091 - Muhammad Ridwan.py",
+    title="091 - Muhammad Ridwan",
     icon=":material/person:",
 )
 Mahasiswa12 = st.Page(

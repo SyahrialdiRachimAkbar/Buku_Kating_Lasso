@@ -100,6 +100,9 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
@@ -114,15 +117,15 @@ if menu == "Kesekjenan":
                 "pesan":"Semangat kuliahnyaaa bang gumi!!!"# 1
             },
             {
-                "nama": "Kakak B",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Pandra Insani Putra Azwar",
+                "nim": "121450137",
+                "umur": "21",
+                "asal": "Lampung Utara",
+                "alamat": "Jl Bawean2, Sukarame",
+                "hobi": "Bermain gitar",
+                "sosmed": "@pndrinsni27",
+                "kesan": "Bang pandra asik, tidak terlalu tegang, dan tegas ",  
+                "pesan": "Semangatt semester 7 nya bang pandraa!"# 1
             },
             {
                 "nama": "Meliza Wulandari",
@@ -134,6 +137,39 @@ if menu == "Kesekjenan":
                 "sosmed": "@wulandarimeliza",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
+            },
+            {
+                "nama": "Putri Maulida Chairani",
+                "nim": "121450050",
+                "umur": "21",
+                "asal": "Payakumbuh",
+                "alamat": "Jl Nangka 4",
+                "hobi": "Mendengarkan bang pandra gitaran",
+                "sosmed": "@ptrimaulidaaa_",
+                "kesan": "Murah senyum sekalii kaa putri",  
+                "pesan":"Semangat teruss buat kak putri!"# 1
+            },
+            {
+                "nama": "Hartiti Fadilah",
+                "nim": "121450031",
+                "umur": "21",
+                "asal": "Palembang",
+                "alamat": "Pemda",
+                "hobi": "Baca Webtoon",
+                "sosmed": "@hrtfdlh",
+                "kesan": "Kakaknya pendiam banget",  
+                "pesan": "Semangat kuliah dan mengurus uang-uangnya ka titii!"# 1
+            },
+            {
+                "nama": "Nadilla Andhara Putri",
+                "nim": "121450003",
+                "umur": "21",
+                "asal": "Metro, Lampung",
+                "alamat": "Kota Baru",
+                "hobi": "Baca wattpad dan au",
+                "sosmed": "@nadillaandr26",
+                "kesan": "Senyumnyaa cantik bangett kak",  
+                "pesan": "Semangat terus buat ka nadilla, semangat kuliah dan semangat mengurus uangnya kak !"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
