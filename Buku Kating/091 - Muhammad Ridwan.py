@@ -103,18 +103,18 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-                "nama": "Kakak A",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Kharisma Gumilang",
+                "nim": "121450142",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pulau Damar",
+                "hobi": "Kura-kura, Dengerin Musik",
+                "sosmed": "@gumilangkharisma",
+                "kesan": "Ambisius, tapi asik",  
+                "pesan":"semangat semester 7 nya"# 1
             },
             {
-                "nama": "Kakak B",
+                "nama": "",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
@@ -178,7 +178,7 @@ elif menu == "Baleg":
                 "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "pesan":"semangat terus kuliahnya kaka !!!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
