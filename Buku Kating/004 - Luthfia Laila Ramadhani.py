@@ -125,13 +125,13 @@ if menu == "Kesekjenan":
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak C",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "nama": "Meliza Wulandari",
+                "nim": "121450044",
+                "umur": "21",
+                "asal":"Sumatera Selatan",
+                "alamat": "Kota Baru",
+                "hobi": "Nonton Drakor",
+                "sosmed": "@wulandarimeliza",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
