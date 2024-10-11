@@ -122,7 +122,7 @@ if menu == "Kesekjenan":
                 "hobi": "Main Gitar",
                 "sosmed": "@pndrinsni27",
                 "kesan": "Sekjen paling asik",  
-                "pesan":"-"# 1
+                "pesan":"--"# 1
             },
             {
                 "nama": "Meliza Wulandari",
