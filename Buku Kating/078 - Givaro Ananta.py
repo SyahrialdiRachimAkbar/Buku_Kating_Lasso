@@ -150,7 +150,7 @@ if menu == "Kesekjenan":
             {   "nama": "Hartiti Fadilah",
                 "nim": "121450021",
                 "umur": "21",
-                "asal":"Palembang",
+                "asal":"Palemban",
                 "alamat": "Pemda",
                 "hobi": "Baca Webtoon",
                 "sosmed": "@hrdfdlh",
