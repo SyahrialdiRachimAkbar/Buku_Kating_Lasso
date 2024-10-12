@@ -139,35 +139,35 @@ if menu == "Kesekjenan":
                 "nama": "Putri Maulida Chairani",
                 "nim": "121450050",
                 "umur": "21",
-                "asal":"Payakumbuh, Sumatera Barat",
-                "alamat": "Nangka 4",
-                "hobi": "Dengerin Bang Pandra main gitar",
+                "asal": "Payakumbuh",
+                "alamat": "Jl Nangka 4",
+                "hobi": "Mendengarkan bang pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": " - ",  
+                "kesan": "kakaknya asik banget",  
                 "pesan":"semangat semester 7 nya kak!"# 1
             },
             {
                 "nama": "Hartiti Fadilah",
-                "nim": "121450021",
+                "nim": "121450031",
                 "umur": "21",
-                "asal":"Palembang",
+                "asal": "Palembang",
                 "alamat": "Pemda",
                 "hobi": "Baca Webtoon",
-                "sosmed": "@hrdfdlh",
-                "kesan": "Kakaknya kelitannya kalem",  
-                "pesan":"Semangat semester 7 nya kak!"# 1
+                "sosmed": "@hrtfdlh",
+                "kesan": "Kakaknya keliatan pendiam",  
+                "pesan": "Semangat kuliahnya kak!"# 1
             },
             {
                 "nama": "Nadilla Andhara Putri",
                 "nim": "121450003",
                 "umur": "21",
-                "asal":"Metro, Lampung",
+                "asal": "Metro, Lampung",
                 "alamat": "Kota Baru",
-                "hobi": "Gangguin Kak Liza tidur, baca Wattpad",
+                "hobi": "Baca wattpad dan au",
                 "sosmed": "@nadillaandr26",
-                "kesan": " - ",  
-                "pesan":"semangat semester 7 nya kak!"# 1
-            },
+                "kesan": "kakakny asik",  
+                "pesan": "semangat semester 7 nya kak!"# 1
+            },  
         ]
         display_images_with_data(gambar_urls, data_list)
     kesekjenan()
