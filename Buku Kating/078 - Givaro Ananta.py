@@ -184,7 +184,7 @@ elif menu == "Baleg":
         ]
         data_list = [
             {
-                "nama": "Try Murnia Ningsih",
+                "nama": "Try Murnia",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
