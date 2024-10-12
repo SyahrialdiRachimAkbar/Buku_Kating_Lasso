@@ -100,6 +100,12 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+
+
         ]
         data_list = [
             {
@@ -109,32 +115,65 @@ if menu == "Kesekjenan":
                 "asal":"Palembang",
                 "alamat": "Pulau Damar",
                 "hobi": "Kura - Kura dan Mendengarkan Musik",
-                "sosmed": "@i",
+                "sosmed": "@gumilangkharisma",
                 "kesan": "Abang nya baik dan seru",  
                 "pesan":"semangat bang"# 1
             },
             {
-                "nama": "Pandra",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "nama": "Pandra Insani Putra Adwar",
+                "nim": "121450137",
+                "umur": "21",
+                "asal":"Lampung Utara",
+                "alamat": "Sukarame Bawean Dua",
+                "hobi": "Gitaran",
+                "sosmed": "@pndrinsni",
+                "kesan": "Abangnya baik",  
+                "pesan":"semangat terus kuliahnya bang !!!"# 1
+            },
+            {
+                "nama": "Meliza Wulandari",
+                "nim": "121450065",
+                "umur": "20",
+                "asal":"Sumatera Selatan",
+                "alamat": "Kota Baru",
+                "hobi": "Nonton Drakor",
+                "sosmed": "@wulandarimeliza",
+                "kesan": "Kakak nya baik banget",  
+                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+            },
+            {
+                "nama": "Putri Maulida Chairani",
+                "nim": "121450050",
+                "umur": "21",
+                "asal":"Payakumbuh, Sumatera Barat",
+                "alamat": "Nangka 4",
+                "hobi": "Dengerin Bang Pandra main gitar",
+                "sosmed": "@ptrimaulidaaa_",
+                "kesan": "Kakak nya baik",  
+                "pesan":"semangat terus kakak !!!"# 1
+            },
+            {
+                "nama": "Hartiti Fadilah",
+                "nim": "121450021",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pemda",
+                "hobi": "Baca Webtoon",
+                "sosmed": "@hrdfdlh",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak C",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "nama": "Nadilla Andhara Putri",
+                "nim": "121450003",
+                "umur": "21",
+                "asal":"Metro, Lampung",
+                "alamat": "Kota Baru",
+                "hobi": "Gangguin Kak Liza Tidur, bawa Wattpad/AU",
+                "sosmed": "@nadillaandr26",
+                "kesan": "Kakak nya baik",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
-            },
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
     kesekjenan()
@@ -145,33 +184,36 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "nama": "Anisa Fitriani",
+                "nim": "122450019",
+                "umur": "19",
+                "asal":"Batam",
+                "alamat": "Pesawaran",
+                "hobi": "Nonton drakor",
+                "sosmed": "@ansftynn_",
+                "kesan": "Kakak ini baik sekali",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak E",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "nama": "Feryadi Yulius",
+                "nim": "122450087",
+                "umur": "20",
+                "asal":"Sumatera Selatan",
+                "alamat": "Way Kandis",
+                "hobi": "Baca buku",
+                "sosmed": "@fr.yulius",
+                "kesan": "Kakak ini baik",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
-                "nama": "Kakak D",
-                "nim": "122450000",
+                "nama": "Renisha  Putri Giani",
+                "nim": "",
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",

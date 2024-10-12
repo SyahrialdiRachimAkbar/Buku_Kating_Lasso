@@ -181,6 +181,12 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
@@ -191,8 +197,8 @@ elif menu == "Baleg":
                 "alamat": "Jl Raden Saleh",
                 "hobi": "Searching GPT",
                 "sosmed": "@trimurniaa_",
-                "kesan": "Santai banget kakaknya dan ceria bangett",  
-                "pesan": "Semangattt terus kuliahnyaa ya kak! Jangan patah semangattt"
+                "kesan": "Kak niya ini baik syekali, asik, dan suka bercanda",  
+                "pesan": "Semangat terus kuliahnya kakk! Jangan capek-capek ya"
             },
             {
                 "nama": "Annisa Cahyani Surya",
@@ -202,8 +208,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobi": "Baca buku dan nonton film",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "Sukak sama kakaknyaa dan ceria bangett",  
-                "pesan": "Semangattt kuliah nya ya kakk!"# 1
+                "kesan": "Ka nisa baik betull, dan asik betull",  
+                "pesan": "Semangat terus ya kak kuliahnya! Jangan capek-capek ya"# 1
             },
             {
                 "nama": "Wulan Sabina",
@@ -213,8 +219,8 @@ elif menu == "Baleg":
                 "alamat": "Jl Raden Saleh",
                 "hobi": "Belajar bersama pak tamaro",
                 "sosmed": "@wlsbn0",
-                "kesan": "Lucu kakanya, asik kalau bercanda",  
-                "pesan": "Semangattt teruss ya kakk! Ayok, aku mau ikut belajar bersama pak tamaro"# 1
+                "kesan": "Kakaknya baik sekali, suka bercanda, dan asik",  
+                "pesan": "Semangat terus kuliahnya ya kakak! Jangan capek-capek ya"# 1
             },
             {
                 "nama": "Anisa Dini Amalia",
@@ -239,6 +245,17 @@ elif menu == "Baleg":
                 "pesan": "Semangattt teruss kuliahnya ya kakk! Jangan capek-capek loh"# 1
             },
             {
+                "nama": "Anisa Fitriyani",
+                "nim": "122450019",
+                "umur": "19",
+                "asal": "Batam",
+                "alamat": "Pesawaran",
+                "hobi": "Nonton drakor",
+                "sosmed": "@ansftrynn_",
+                "kesan": "Kakanya pendiam, baik sekalii, dan asik",  
+                "pesan": "Semangat terus kuliahnya ka! Jangan capek-capek ya"# 1
+            },
+            {
                 "nama": "Feryadi Yulius",
                 "nim": "122450087",
                 "umur": "20",
@@ -246,8 +263,8 @@ elif menu == "Baleg":
                 "alamat": "Way Kandis",
                 "hobi": "Baca buku",
                 "sosmed": "@fer_yulius",
-                "kesan": "Abangnya suka banget ketawa dan suka banget ngecengin orang",  
-                "pesan": "Semangattt teruss ya bang! Jangan ngecengin orang terus yaa.."# 1
+                "kesan": "Bang fery ini baik tapi kadang usil, punya senyum yang memiliki banyak makna",  
+                "pesan": "Semangat terus kuliahnya bang! Jangan capek-capek bang"# 1
             },
             {
                 "nama": "Dhea Amelia Putri",
@@ -255,10 +272,10 @@ elif menu == "Baleg":
                 "umur": "20",
                 "asal": "Solo",
                 "alamat": "Natar",
-                "hobi": "Suka ditipu penjual shopee tentang canva premium",
+                "hobi": "Suka ditipu sama penjual akun canva premium di shopee",
                 "sosmed": "@_.dheamelia",
-                "kesan": "Suka bercanda kakaknya, santai, dan asik",  
-                "pesan": "Semangattt teruss kuliahnyaa kak!"# 1
+                "kesan": "Kak dhea ini lucu, asik, suka banget bercanda, dan baik syekalii",  
+                "pesan": "Semangat terus kuliahnya ka! Jangan capek-capek ya"# 1
             },
             {
                 "nama": "Muhammad Fahrul Aditya",
@@ -266,10 +283,10 @@ elif menu == "Baleg":
                 "umur": "22",
                 "asal": "Surakarta, Jawa Tengah",
                 "alamat": "Sukarame",
-                "hobi": "Badminton, hiking, berenang",
+                "hobi": "Badminton, melukis, hiking, dan berenang",
                 "sosmed": "@fhrul.pdf",
-                "kesan": "Abangnya asik, baik sekali, dan suka berolahraga",  
-                "pesan": "Semangattt teruss ya bangg, jangan capek-capek"# 1
+                "kesan": "Bang fahrul baik sekali, asik, dan suka bercanda",  
+                "pesan": "Semangat terus kuliahnya bang! Jangan capek-capek ya!"# 1
             },
             {
                 "nama": "Berliana Enda Putri",
@@ -279,8 +296,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobi": "Make up, nonton podcast, dan dengerin musik",
                 "sosmed": "@berlyyanda",
-                "kesan": "Pendiam banget kakaknya dan baik syekalii",  
-                "pesan": "Semangattt teruss ya kakk"# 1
+                "kesan": "Ka berli pendiam, baik syekalii, dan asikk",  
+                "pesan": "Semangat terus kuliahnya ka! Jangan capek-capek ya"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
