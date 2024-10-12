@@ -85,7 +85,7 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Umur: {data_list[i]['umur']}")
             st.write(f"Asal: {data_list[i]['asal']}")
             st.write(f"Alamat: {data_list[i]['alamat']}")
-            st.write(f"Hobbi: {data_list[i]['hobbi']}")
+            st.write(f"hobi: {data_list[i]['hobi']}")
             st.write(f"Sosial Media: {data_list[i]['sosmed']}")
             st.write(f"Kesan: {data_list[i]['kesan']}")
             st.write(f"Pesan: {data_list[i]['pesan']}")
@@ -100,15 +100,18 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
-            {
+{
                 "nama": "Kakak A",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -119,7 +122,7 @@ if menu == "Kesekjenan":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -130,7 +133,7 @@ if menu == "Kesekjenan":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -153,7 +156,7 @@ elif menu == "Baleg":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
@@ -164,7 +167,7 @@ elif menu == "Baleg":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -175,10 +178,10 @@ elif menu == "Baleg":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kaka !!!"# 1
+                "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)

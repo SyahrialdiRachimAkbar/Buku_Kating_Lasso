@@ -85,7 +85,7 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Umur: {data_list[i]['umur']}")
             st.write(f"Asal: {data_list[i]['asal']}")
             st.write(f"Alamat: {data_list[i]['alamat']}")
-            st.write(f"Hobbi: {data_list[i]['hobbi']}")
+            st.write(f"hobi: {data_list[i]['hobi']}")
             st.write(f"Sosial Media: {data_list[i]['sosmed']}")
             st.write(f"Kesan: {data_list[i]['kesan']}")
             st.write(f"Pesan: {data_list[i]['pesan']}")
@@ -103,24 +103,24 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-                "nama": "Kakak A",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Kharisma Gumilang",
+                "nim": "121450142",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pulau Damar",
+                "hobi": "Kura-kura, denger musik",
+                "sosmed": "@gumilangkharisma",
+                "kesan": "Abangnya tugas, publick speakingnya bagus banget",  
+                "pesan":"semangat bang menjalani semester 7-nya !!!"# 1
             },
             {
-                "nama": "Kakak B",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "nama": "Pandra Insani Putra Adzwar",
+                "nim": "121450137",
+                "umur": "21",
+                "asal":"Lampung utara",
+                "alamat": "Sukarame, Bawean dua",
+                "hobi": "Gitaran",
+                "sosmed": "@pndrinsni",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
@@ -130,7 +130,7 @@ if menu == "Kesekjenan":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -153,7 +153,7 @@ elif menu == "Baleg":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
@@ -164,7 +164,7 @@ elif menu == "Baleg":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
@@ -175,7 +175,7 @@ elif menu == "Baleg":
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
-                "hobbi": "Mainn Bola, Belajar",
+                "hobi": "Mainn Bola, Belajar",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kaka !!!"# 1

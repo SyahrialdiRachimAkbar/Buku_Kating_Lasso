@@ -9,38 +9,68 @@ Homepage = st.Page("Halaman Utama/halaman_utama.py",
     default=True)
 
 Mahasiswa1 = st.Page(
-    "Buku Kating/093_Syahrialdi Rachim Akbar.py",
+    "Buku Kating/093 - Syahrialdi Rachim Akbar.py",
     title="093 - Syahrialdi Rachim Akbar",
     icon=":material/person:",
 )
 Mahasiswa2 = st.Page(
-    "Buku Kating/004_Luthfia Laila Ramadhani.py",
+    "Buku Kating/004 - Luthfia Laila Ramadhani.py",
     title="004 - Luthfia Laila Ramadhani",
     icon=":material/person:",
 )
 Mahasiswa3 = st.Page(
-    "Buku Kating/016_Refa Destiny Pranata.py",
-    title="016 - Refa Destiny Pranata",
+    "Buku Kating/Mahasiswa3.py",
+    title="Mahasiswa3",
     icon=":material/person:",
 )
 Mahasiswa4 = st.Page(
-    "Buku Kating/117_Anwar Muslim.py",
-    title="117 - Anwar Muslim",
+    "Buku Kating/123 - Hanifah Inaya Sani.py",
+    title="123 - Hanifah Inaya Sani",
     icon=":material/person:",
 )
 Mahasiswa5 = st.Page(
-    "Buku Kating/014_Deva Anjani Khayyuninafsyah.py",
-    title="014 - Deva Anjani Khayyuninafsyah",
+    "Buku Kating/041 - Raihana Adelia Putri.py",
+    title="041 - Raihana Adelia Putri",
     icon=":material/person:",
 )
 Mahasiswa6 = st.Page(
-    "Buku Kating/103_Rut Junita Sari Siburian.py",
-    title="103 - Rut Junita Sari Siburian",
+    "Buku Kating/025 - Daffa Hadyan Navista.py",
+    title="025 - Daffa Hadyan Navista",
     icon=":material/person:",
 )
 Mahasiswa7 = st.Page(
-    "Buku Kating/083_Randa Andriana Putra.py",
-    title="083 - Randa Andriana Putra",
+    "Buku Kating/016 - Refa Destiny Pranata.py",
+    title="016 - Refa Destiny Pranata",
+    icon=":material/person:",
+)
+Mahasiswa8 = st.Page(
+    "Buku Kating/039 - Feby Angelina.py",
+    title="039 - Feby Angelina",
+    icon=":material/person:",
+)
+Mahasiswa9 = st.Page(
+    "Buku Kating/078 - Givaro Ananta.py",
+    title="078 - Givaro Ananta",
+    icon=":material/person:",
+)
+Mahasiswa10 = st.Page(
+    "Buku Kating/069 - Arini Puteri Elandra.py",
+    title="069 - Arini Puteri Elandra",
+    icon=":material/person:",
+)
+Mahasiswa11 = st.Page(
+    "Buku Kating/091 - Muhammad Ridwan.py",
+    title="091 - Muhammad Ridwan",
+    icon=":material/person:",
+)
+Mahasiswa12 = st.Page(
+    "Buku Kating/Mahasiswa12.py",
+    title="Mahasiswa12",
+    icon=":material/person:",
+)
+Mahasiswa13 = st.Page(
+    "Buku Kating/052-Tarisya Hidayatul Rahmi.py",
+    title="052-Tarisya Hidayatul Rahmi",
     icon=":material/person:",
 )
 
@@ -53,7 +83,8 @@ if st.session_state.pindah:
     pg = st.navigation(
         {
             "Halaman Utama": [Homepage],
-            "Buku Kating": [Mahasiswa1, Mahasiswa2, Mahasiswa3, Mahasiswa4, Mahasiswa5, Mahasiswa6, Mahasiswa7],
+            "Buku Kating": [Mahasiswa1, Mahasiswa2, Mahasiswa3, Mahasiswa4, Mahasiswa5, Mahasiswa6, Mahasiswa7, 
+                            Mahasiswa8, Mahasiswa9, Mahasiswa10, Mahasiswa11, Mahasiswa12, Mahasiswa13],
             "Try Me !!": [KREASI, KREASII],
         }
     )
