@@ -289,7 +289,7 @@ elif menu == "Baleg":
                 "pesan":"semangat semester 5 nya yaa bang!"# 1
             },
             {
-                "nama": "",
+                "nama": "kakak A",
                 "nim": "",
                 "umur": "",
                 "asal":"",
