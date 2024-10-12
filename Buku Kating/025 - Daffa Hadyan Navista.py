@@ -97,12 +97,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1G5AJN4tuNJcYfElNhwtW_l44aJeH4fCQ",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1GALxe3gqN_qQRCzUDq_PqmQ8phsyN3L9",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1GA2_e9Vy03J4Ln83W260ZDO86s8FqJkj",
+            "https://drive.google.com/uc?export=view&id=1GCAmspaBpCrC-EnSsV5wl2cGfijilZoY",
         ]
         data_list = [
             {
@@ -178,15 +178,15 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1FjvcgIH1JxdPm9KLJnH3sSbH73Vhcdme",
+            "https://drive.google.com/uc?export=view&id=1FXX0b7IpnvUZRE9McF-bL6VyrMmS7bdd",
+            "https://drive.google.com/uc?export=view&id=1FXX3P06Wf5ndn7Uyxl2Ih-80dmN-qlIN",
+            "https://drive.google.com/uc?export=view&id=1FctwxIFojQTi51m8BL-lDmgVX7HEIK3b",
+            "https://drive.google.com/uc?export=view&id=1FWHpNhOMP9LegU4W5YW0n3j7D2SGcLtL",
+            "https://drive.google.com/uc?export=view&id=1FHxLgNXjd6CivXZCEnsQph8vqsTHh7xB",
+            "https://drive.google.com/uc?export=view&id=1FHxLgNXjd6CivXZCEnsQph8vqsTHh7xB",
+            "https://drive.google.com/uc?export=view&id=1FVxogGIVOmNgslzMTH8SDBCtO69Y2cNI",
+            "https://drive.google.com/uc?export=view&id=1FI623y__z2ALytH-xlEgx_J7vTVaApMV",
         ]
         data_list = [
             {
