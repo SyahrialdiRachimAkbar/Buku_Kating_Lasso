@@ -245,17 +245,6 @@ elif menu == "Baleg":
                 "pesan": "Semangattt teruss kuliahnya ya kakk! Jangan capek-capek loh"# 1
             },
             {
-                "nama": "Anisa Fitriyani",
-                "nim": "122450019",
-                "umur": "19",
-                "asal": "Batam",
-                "alamat": "Pesawaran",
-                "hobi": "Nonton drakor",
-                "sosmed": "@ansftrynn_",
-                "kesan": "Kakanya pendiam, baik sekalii, dan asik",  
-                "pesan": "Semangat terus kuliahnya ka! Jangan capek-capek ya"# 1
-            },
-            {
                 "nama": "Feryadi Yulius",
                 "nim": "122450087",
                 "umur": "20",
