@@ -97,12 +97,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/file/d/11bWo2WlbonpYgqwMSftQ2OnOFsSpiLun/view?usp=drivesdk",
+            "https://drive.google.com/file/d/1tkATC2BWNGNfLGm2QT-mK6t20sB4TnNm/view?usp=drivesdk",
+            "https://drive.google.com/file/d/1c3ROsPZaYiSM0hXB_VuqINwlS4MFNVaZ/view?usp=drivesdk",
+            "https://drive.google.com/file/d/1k_7bdYHxD3XUCsMhtZutHM5jrm4DlOOP/view?usp=drivesdk",
+            "https://drive.google.com/file/d/17XdxknS11GLcY5zmixhHKCFmYZ-k5GWi/view?usp=drivesdk",
+            "https://drive.google.com/file/d/1p-O1O-AUfT54RMq5v6abicU-3iAuNY3a/view?usp=drivesdk",
         ]
         data_list = [
             {
@@ -178,15 +178,15 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/file/d/1isqVgo0L5Q15GkWiUqBbevDgCacg63Mf/view?usp=drivesdk",
+            "https://drive.google.com/file/d/1Vc0pUWuhiaQ-ZLktSClRYKbgNPx9LVrj/view?usp=drivesdk",
+            "https://drive.google.com/file/d/1maalzyRfBS9O53vsZ_ex9LJSJVFZQ5Yg/view?usp=drivesdk",
+            "https://drive.google.com/file/d/1bSAvJehOzCEW07hUxsCE8gGjd552z_AC/view?usp=drivesdk",
+            "https://drive.google.com/file/d/1tZ_SKEzJbuovgFv9N8_kKwsG0hy6-uHh/view?usp=drivesdk",
+            "https://drive.google.com/file/d/196zcLVySIFxj7bWw2iH35BaXypApRwRx/view?usp=drivesdk",
+            "https://drive.google.com/file/d/14eDsio-DpnQdVgtV85lEuw38suMhvkP4/view?usp=drivesdk",
+            "https://drive.google.com/file/d/1JBzfyfC0ycwa2cfiITP5uvXmLpVODWqR/view?usp=drivesdk",
+            "https://drive.google.com/file/d/1patICp8Zy8S3ONNypyJ_4yOTIj2P_MDT/view?usp=drivesdk",
         ]
         data_list = [
             {
@@ -287,17 +287,6 @@ elif menu == "Baleg":
                 "sosmed": "@fr_yulius",
                 "kesan": "bang fery pendiam tapi sering ketawa",  
                 "pesan":"semangat semester 5 nya yaa bang!"# 1
-            },
-            {
-                "nama": "kakak A",
-                "nim": "",
-                "umur": "",
-                "asal":"",
-                "alamat": "",
-                "hobi": ".",
-                "sosmed": "@",
-                "kesan": "",  
-                "pesan":""# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
