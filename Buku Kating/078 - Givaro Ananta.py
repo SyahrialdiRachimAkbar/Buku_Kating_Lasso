@@ -184,7 +184,7 @@ elif menu == "Baleg":
         ]
         data_list = [
             {
-                "nama": "AAAA",
+                "nama": "plissss",
                 "nim": "122450000",
                 "umur": "18",
                 "asal":"Bekasi",
