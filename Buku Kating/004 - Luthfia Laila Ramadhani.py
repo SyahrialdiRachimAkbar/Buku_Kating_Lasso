@@ -98,11 +98,11 @@ if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1c7N1pIkSFtcAL-9lVq9HddC7b5xuy8XL", #bg gumi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #bg pandra
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1c1-TgRbJpngxy60jhQ90xjddbekM27tP", #bg pandra
+            "https://drive.google.com/uc?export=view&id=1c36nZBM0IfupJ0ZjsaPwTUZPxU8Ob4Wu", #ka liza
+            "https://drive.google.com/uc?export=view&id=1dqsNzwqrWwGieL5kVSWgK6b05OnZ22lb", #ka putri
+            "https://drive.google.com/uc?export=view&id=1dsw1Jixqz_z4zbXAKt3zTUcsSer425oV", #ka titi
+            "https://drive.google.com/uc?export=view&id=1_vZ19zdmOnJ_f0uapQy2YBrofT3yodC2", #ka nadilah
         ]
         data_list = [
             {
@@ -217,7 +217,7 @@ elif menu == "Baleg":
                 "umur": "21",
                 "asal": "Medan",
                 "alamat": "Jl Raden Saleh",
-                "hobi": "Belajar bersama Pa Tamaro",
+                "hobi": "Belajar bersama pak tamaro",
                 "sosmed": "@wlsbn0",
                 "kesan": "Kakaknya baik sekali, suka bercanda, dan asik",  
                 "pesan": "Semangat terus kuliahnya ya kakak! Jangan capek-capek ya"# 1
@@ -230,8 +230,19 @@ elif menu == "Baleg":
                 "alamat": "Jati Agung",
                 "hobi": "Ngobrol",
                 "sosmed": "@anisadini10",
-                "kesan": "Kakak satu ini asik bangett, suka bercanda juga, baikk banget",  
-                "pesan": "Semangat terus kuliahnya ka! Jangan capek-capek ya"# 1
+                "kesan": "Ceria banget kakaknya, suka bercanda, dan cantik betul",  
+                "pesan": "Semangattt teruss ya kakk! Jangan capek-capek"# 1
+            },
+            {
+                "nama": "Anisa Fitriyani",
+                "nim": "122450019",
+                "umur": "19",
+                "asal": "Batam",
+                "alamat": "Pesawaran",
+                "hobi": "Nonton drakor",
+                "sosmed": "@ansftynn_",
+                "kesan": "Pendiam dan senyumnya manis banget",  
+                "pesan": "Semangattt teruss kuliahnya ya kakk! Jangan capek-capek loh"# 1
             },
             {
                 "nama": "Anisa Fitriyani",
