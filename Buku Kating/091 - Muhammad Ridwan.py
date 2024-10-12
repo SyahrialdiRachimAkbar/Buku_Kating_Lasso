@@ -97,12 +97,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1ySuyjPPHSH8Vb46SxowVuwJyuiCW9jlB", #bang Gumi
-            "https://drive.google.com/uc?export=view&id=1N0TVsK-9fX011qOGiPueBbl6NfK1xiDZ", #bang Pandra
-            "https://drive.google.com/uc?export=view&id=14C9iHedqHQ5viTlCJR2eqpa9DE0ZB1JW", #kak iza
-            "https://drive.google.com/uc?export=view&id=1B4ITJB8ncMW3YTQ7bmGOxuUvBxkno-aE", #Kak Putri
-            "https://drive.google.com/uc?export=view&id=1LNlKTHPrbjV_bshTRY56raoDlduDZqgs", #kak Titi
-            "https://drive.google.com/uc?export=view&id=1LSTVesX6rTrdAgXFnG0cUP3HHvZo3cmD", #kak Nadilla
+            "https://drive.google.com/uc?export=view&id=1sJGEzrIVJuIqLkE-uGtounefAKXBC8fQ", #bang Gumi
+            "https://drive.google.com/uc?export=view&id=1a3L0MES-NCtzYZEiKQdI6wpjqcyePGWb", #bang Pandra
+            "https://drive.google.com/uc?export=view&id=1uMJPiOq1FvdUIDeWkkVVMwZcd36wLHCU", #kak iza
+            "https://drive.google.com/uc?export=view&id=15lNX5gQ8fAIGJD6wrCJ8qhF_sgo8ncLs", #Kak Putri
+            "https://drive.google.com/uc?export=view&id=1tKusakfQcN4S7PqpvcGizzJ7qeALyZPL", #kak Titi
+            "https://drive.google.com/uc?export=view&id=1ngr96ah_gviXa967QmkTU58vwa8WylYX", #kak Nadilla
         ]
         data_list = [
             {
