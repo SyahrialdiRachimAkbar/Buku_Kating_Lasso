@@ -213,7 +213,7 @@ elif menu == "Baleg":
                 "alamat": "Raden Saleh",
                 "hobi": "Belajar bersama Pak Tamaro",
                 "sosmed": "@wlsbn0",
-                "kesan": "Kakaknya asikkk banget",  
+                "kesan": "Kakaknya asik banget",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
