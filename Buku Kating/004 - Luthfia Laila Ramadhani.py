@@ -129,14 +129,14 @@ if menu == "Kesekjenan":
             },
             {
                 "nama": "Meliza Wulandari",
-                "nim": "121450065",
-                "umur": "20",
-                "asal": "Palembang",
+                "nim": "121450044",
+                "umur": "21",
+                "asal":"Sumatera Selatan",
                 "alamat": "Kota Baru",
-                "hobi": "Nonton drakor",
+                "hobi": "Nonton Drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan": "Senyumnya manis banget dan lucu banget kakaknyaa",  
-                "pesan":"Semangat terus ya kakakk!"# 1
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
                 "nama": "Putri Maulida Chairani",
