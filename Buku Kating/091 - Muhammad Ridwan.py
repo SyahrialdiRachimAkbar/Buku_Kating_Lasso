@@ -97,9 +97,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1ySuyjPPHSH8Vb46SxowVuwJyuiCW9jlB", #bang Gumi
+            "https://drive.google.com/uc?export=view&id=1N0TVsK-9fX011qOGiPueBbl6NfK1xiDZ", #bang Pandra
+            "https://drive.google.com/uc?export=view&id=14C9iHedqHQ5viTlCJR2eqpa9DE0ZB1JW", #kak iza
+            "https://drive.google.com/uc?export=view&id=1B4ITJB8ncMW3YTQ7bmGOxuUvBxkno-aE", #Kak Putri
+            "https://drive.google.com/uc?export=view&id=1LNlKTHPrbjV_bshTRY56raoDlduDZqgs", #kak Titi
+            "https://drive.google.com/uc?export=view&id=1LSTVesX6rTrdAgXFnG0cUP3HHvZo3cmD", #kak Nadilla
         ]
         data_list = [
             {
@@ -178,6 +181,13 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+
         ]
         data_list = [
             {
