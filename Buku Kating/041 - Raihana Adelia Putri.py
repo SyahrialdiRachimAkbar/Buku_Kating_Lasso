@@ -157,7 +157,7 @@ if menu == "Kesekjenan":
                 "alamat": "Pemda",
                 "hobi": "Baca webtoon",
                 "sosmed": "@hrtpdlh",
-                "kesan": "Seyumnya maniss banget kak",  
+                "kesan": "Seyumnya manis banget kak",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
             {
