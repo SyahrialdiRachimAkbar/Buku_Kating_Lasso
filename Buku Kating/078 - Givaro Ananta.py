@@ -97,9 +97,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1oL-zeRzcLMGZXpcNJZtI7Da9mSTzx2Tk",
+            "https://drive.google.com/uc?export=view&id=13rIsOZ7axnz7W3fttYw7G0FDGiin3yuh",
+            "https://drive.google.com/uc?export=view&id=14xBBdb1FmaJxATLcZ1cOSRCMKp_OCghJ",
+            "https://drive.google.com/uc?export=view&id=18sbqryNffSdl14vLCE6iLw5t4S0OtvcJ",
+            "https://drive.google.com/uc?export=view&id=13rIsOZ7axnz7W3fttYw7G0FDGiin3yuh",
+            "https://drive.google.com/uc?export=view&id=13sL2D0s6VU90hAiWUocQXcTV383ngcZ3",
         ]
         data_list = [
             {
@@ -122,7 +125,7 @@ if menu == "Kesekjenan":
                 "hobi": "Main Gitar",
                 "sosmed": "@pndrinsni27",
                 "kesan": "Sekjen paling asik",  
-                "pesan":"--"# 1
+                "pesan": "Semangat kuliahnya bang"# 2
             },
             {
                 "nama": "Meliza Wulandari",
@@ -132,8 +135,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobi": "Nonton Drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "Humble abis",  
+                "pesan":"Semangat kak"# 3
                 
             },
             {   "nama": "Putri Maulida Chairani",
@@ -143,8 +146,8 @@ if menu == "Kesekjenan":
                 "alamat": "Nangka 4",
                 "hobi": "Dengerin Bang Pandra main gitar",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "Kakak baik",  
+                "pesan":"semangat kuliahnya kak"# 4
                     
             },
             {   "nama": "Hartiti Fadilah",
@@ -154,19 +157,19 @@ if menu == "Kesekjenan":
                 "alamat": "Pemda",
                 "hobi": "Baca Webtoon",
                 "sosmed": "@hrdfdlh",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "Logatnya minang banget",  
+                "pesan":"semangat kak"# 5
 
             },
-            {   "nama": "Hartiti Andhara Putri",
+            {   "nama": "Nadilla Andhara Putri",
                 "nim": "121450003",
                 "umur": "21",
                 "asal":"Metro, Lampung",
                 "alamat": "Kota Baru",
                 "hobi": "Gangguin Kak Liza Tidur, bawa Wattpad/AU",
                 "sosmed": "@nadillaandr26",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "Murah senyum banget",  
+                "pesan":"Jangan berenti murah senyum ya kak"# 6
             },
         ]
         display_images_with_data(gambar_urls, data_list)
