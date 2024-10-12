@@ -114,26 +114,59 @@ if menu == "Kesekjenan":
                 "pesan":"keren bang jadi kahim"# 1
             },
             {
-                "nama": "Kakak B",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Pandra Insani Putra Azwar",
+                "nim": "121450127",
+                "umur": "21",
+                "asal":"Lampung Utara",
+                "alamat": "Jl. Pulau Bawean, Sukarame",
+                "hobi": "Main gitar",
+                "sosmed": "@pndrinsni27",
+                "kesan": "Keresahan abang keren sehingga bisa jadi sekjen",  
+                "pesan":"Semangat bang sekjen"# 1
             },
             {
-                "nama": "Kakak C",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Meliza Wulandari",
+                "nim": "121450044",
+                "umur": "21",
+                "asal":"Sumatera Selatan",
+                "alamat": "Kota Baru",
+                "hobi": "Nonton Drakor",
+                "sosmed": "@wulandarimelinza",
+                "kesan": "kakanya vibesnya seketaris sekali",  
+                "pesan":"Semoga makin cool"# 1
+            },
+             {
+                "nama": "Putri Maulida Chairani",
+                "nim": "121450050",
+                "umur": "21",
+                "asal":"Payakumbuh, Sumatera Barat",
+                "alamat": "Nangka 4",
+                "hobi": "Dengerin Bang Pandra main gitar",
+                "sosmed": "@ptrimaulidaaa_",
+                "kesan": " hebat banget  ",  
+                "pesan":"Semoga makin kiyowo "# 1
+            },
+            {
+                "nama": "Hartiti Fadilah",
+                "nim": "121450021",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pemda",
+                "hobi": "Baca Webtoon",
+                "sosmed": "@hrdfdlh",
+                "kesan": " Lucu bendahara ternyata baca webtoon ",  
+                "pesan":"rekomendasi webtoon kak "# 1
+            },
+            {
+                "nama": "Nadilla Andhara Putri",
+                "nim": "121450003",
+                "umur": "21",
+                "asal":"Metro, Lampung",
+                "alamat": "Kota Baru",
+                "hobi": "Gangguin Kak Liza tidur, baca Wattpad/AU",
+                "sosmed": "@nadillaandr26",
+                "kesan": "Waw Kakak bendahara baca Au",  
+                "pesan":"info dong kak au yang seru"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
