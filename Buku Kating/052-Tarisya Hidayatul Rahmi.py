@@ -103,24 +103,24 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-                "nama": "Kakak A",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "nama": "Kharisma Gumilang",
+                "nim": "121450142",
+                "umur": "21",
+                "asal":"Palembang",
+                "alamat": "Pulau Damar",
+                "hobi": "Kura-kura, denger musik",
+                "sosmed": "@gumilangkharisma",
+                "kesan": "Abangnya tugas, publick speakingnya bagus banget",  
+                "pesan":"semangat bang menjalani semester 7-nya !!!"# 1
             },
             {
-                "nama": "Kakak B",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
+                "nama": "Pandra Insani Putra Adzwar",
+                "nim": "121450137",
+                "umur": "21",
+                "asal":"Lampung utara",
+                "alamat": "Sukarame, Bawean dua",
+                "hobi": "Gitaran",
+                "sosmed": "@pndrinsni",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
