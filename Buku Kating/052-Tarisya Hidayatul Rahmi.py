@@ -100,7 +100,7 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=18AaDc-KVHDMt2XLPpaFykc136rFFjuWZ",
             "https://drive.google.com/uc?export=view&id=1PS7Pb82BkKKCXHBFuX_WrXRTD5dJLo4S",
             "https://drive.google.com/uc?export=view&id=1EZKP62tA5o4db3tcqUBjXDsp9M4pZjzz",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1mIV2SPn1tIVUXSqBXYTI13cCnuhM6tzT",
             "https://drive.google.com/uc?export=view&id=1vZRY_0kZSpWYOdaPNWygOEodJZWawv1o",
             "https://drive.google.com/uc?export=view&id=1LHzU9sQG8Qk5SeaFrsouV8cQRDR5fqjm",
         ]
