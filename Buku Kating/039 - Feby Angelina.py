@@ -220,7 +220,7 @@ elif menu == "Baleg":
                 "hobi": "Belajar bersama Pa Tamaro",
                 "sosmed": "@wlsbn0",
                 "kesan": "acik banget kakanya",  
-                "pesan": "Semoga bisa belajar bersama pa Tamoro tiap semester"# 1
+                "pesan": "Semoga bisa belajar bersama pak Tamoro tiap semester"# 1
             },
             {
                 "nama": "Anisa Dini Amalia",
