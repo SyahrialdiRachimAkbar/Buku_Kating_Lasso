@@ -179,11 +179,11 @@ elif menu == "Baleg":
     def baleg():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1q4Hi6CGmg8AT2YJ7DwIBSx6851fBTi8r", #kak Tri
-            "https://drive.google.com/uc?export=view&id=1ywY4tBGgtH_GiKZMj0KkfmLA5yMZM6bd", #Kak Cahyani
+            "https://drive.google.com/uc?export=view&id=1RQl3Hnd2BY45FmDxBu8oVHWr-amUYu80", #Kak Cahyani
             "https://drive.google.com/uc?export=view&id=1eKoIc-ov6qa8Xp-9asVAAizZFhkGwJ7N", #Kak Wulan
             "https://drive.google.com/uc?export=view&id=10HsFxDy1A4tshSPjfOEXQvBDdlLZBDF7", #Kak Dini
             "https://drive.google.com/uc?export=view&id=1ywY4tBGgtH_GiKZMj0KkfmLA5yMZM6bd", #Nisa Fitriyani
-            "https://drive.google.com/uc?export=view&id=1sJGEzrIVJuIqLkE-uGtounefAKXBC8fQ", #Bang Feryadi
+            "https://drive.google.com/uc?export=view&id=1b75-4qcTgUpJgKKeUtbMkCF7UHgYj7OE", #Bang Feryadi
             "https://drive.google.com/uc?export=view&id=1AZqXjtKf2GBfQDgStEuVgw0kAURt_7cX", #Kak Dhea
             "https://drive.google.com/uc?export=view&id=1m_ZhNj0le7W4MEwlYuU6CfZ8TgwE1iGc", #Bang Fahrul
             "https://drive.google.com/uc?export=view&id=1_bLblX9yRBh7gWT_KxEsjyjvkwEYkkIM", #Kak Berli
