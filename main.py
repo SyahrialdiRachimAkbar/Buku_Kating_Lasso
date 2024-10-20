@@ -24,28 +24,28 @@ Mahasiswa3 = st.Page(
     icon=":material/person:",
 )
 Mahasiswa4 = st.Page(
-    "Buku Kating/123 - Hanifah Inaya Sani.py",
-    title="123 - Hanifah Inaya Sani",
+    "Buku Kating/Mahasiswa4.py",
+    title="Mahasiswa4",
     icon=":material/person:",
 )
 Mahasiswa5 = st.Page(
-    "Buku Kating/041 - Raihana Adelia Putri.py",
-    title="041 - Raihana Adelia Putri",
+    "Buku Kating/Mahasiswa5.py",
+    title="Mahasiswa5",
     icon=":material/person:",
 )
 Mahasiswa6 = st.Page(
-    "Buku Kating/025 - Daffa Hadyan Navista.py",
-    title="025 - Daffa Hadyan Navista",
+    "Buku Kating/Mahasiswa6.py",
+    title="Mahasiswa6",
     icon=":material/person:",
 )
 Mahasiswa7 = st.Page(
-    "Buku Kating/016 - Refa Destiny Pranata.py",
-    title="016 - Refa Destiny Pranata",
+    "Buku Kating/Mahasiswa7.py",
+    title="Mahasiswa7",
     icon=":material/person:",
 )
 Mahasiswa8 = st.Page(
-    "Buku Kating/039 - Feby Angelina.py",
-    title="039 - Feby Angelina",
+    "Buku Kating/Mahasiswa8.py",
+    title="Mahasiswa8",
     icon=":material/person:",
 )
 Mahasiswa9 = st.Page(
@@ -54,13 +54,13 @@ Mahasiswa9 = st.Page(
     icon=":material/person:",
 )
 Mahasiswa10 = st.Page(
-    "Buku Kating/069 - Arini Puteri Elandra.py",
-    title="069 - Arini Puteri Elandra",
+    "Buku Kating/Mahasiswa10.py",
+    title="Mahasiswa10",
     icon=":material/person:",
 )
 Mahasiswa11 = st.Page(
-    "Buku Kating/091 - Muhammad Ridwan.py",
-    title="091 - Muhammad Ridwan",
+    "Buku Kating/Mahasiswa11.py",
+    title="Mahasiswa11",
     icon=":material/person:",
 )
 Mahasiswa12 = st.Page(
@@ -69,8 +69,8 @@ Mahasiswa12 = st.Page(
     icon=":material/person:",
 )
 Mahasiswa13 = st.Page(
-    "Buku Kating/052-Tarisya Hidayatul Rahmi.py",
-    title="052-Tarisya Hidayatul Rahmi",
+    "Buku Kating/Mahasiswa13.py",
+    title="Mahasiswa13",
     icon=":material/person:",
 )
 
