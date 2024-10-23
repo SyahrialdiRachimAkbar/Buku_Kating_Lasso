@@ -97,9 +97,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1-rhPJ2Aq28UsQm7p6d1-2VHH68BKrZVU", 
+            "https://drive.google.com/uc?export=view&id=1UJVH7TN7iV84uMzxY2OfxuqZI_7AXeZK", 
+            "https://drive.google.com/uc?export=view&id=1m_fMDhv109z18sE_33_RMNV1GtwWhAHu", 
+            "https://drive.google.com/uc?export=view&id=1oFTkPf3WmDMfCGzUmi7OZXRONPikt3oU", 
+            "https://drive.google.com/uc?export=view&id=1oYGtadtTd_if4i2Oy7QsPWWW7IrqY6Kc", 
+            "https://drive.google.com/uc?export=view&id=19zK3MBcSHX7X3dbiZt1GZEjYTt0-z0Yn", 
         ]
         data_list = [
             {
@@ -111,7 +114,7 @@ if menu == "Kesekjenan":
                 "hobi": "Kuliah-rapat, dengerin lagu",
                 "sosmed": "@gumilangkharisma",
                 "kesan": "Keren jadi kahim",  
-                "pesan":"keren bang jadi kahim"# 1
+                "pesan":"keren bang jadi kahim, semoga kuliahnya lancar"# 1
             },
             {
                 "nama": "Pandra Insani Putra Azwar",
@@ -121,7 +124,7 @@ if menu == "Kesekjenan":
                 "alamat": "Jl. Pulau Bawean, Sukarame",
                 "hobi": "Main gitar",
                 "sosmed": "@pndrinsni27",
-                "kesan": "Keresahan abang keren sehingga bisa jadi sekjen",  
+                "kesan": " semoga kuliahnya lancar terus",  
                 "pesan":"Semangat bang sekjen"# 1
             },
             {
@@ -133,7 +136,7 @@ if menu == "Kesekjenan":
                 "hobi": "Nonton Drakor",
                 "sosmed": "@wulandarimelinza",
                 "kesan": "kakanya vibesnya seketaris sekali",  
-                "pesan":"Semoga makin cool"# 1
+                "pesan":"Semoga makin cooll"# 1
             },
              {
                 "nama": "Putri Maulida Chairani",
@@ -144,7 +147,7 @@ if menu == "Kesekjenan":
                 "hobi": "Dengerin Bang Pandra main gitar",
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": " hebat banget  ",  
-                "pesan":"Semoga makin kiyowo "# 1
+                "pesan":"Semoga di pelancar kuliahnya "# 1
             },
             {
                 "nama": "Hartiti Fadilah",
@@ -155,7 +158,7 @@ if menu == "Kesekjenan":
                 "hobi": "Baca Webtoon",
                 "sosmed": "@hrdfdlh",
                 "kesan": " Lucu bendahara ternyata baca webtoon ",  
-                "pesan":"rekomendasi webtoon kak "# 1
+                "pesan":"Lancar terus kak kuliahnya terus rekomendasi webtoon kak "# 1
             },
             {
                 "nama": "Nadilla Andhara Putri",
@@ -166,7 +169,7 @@ if menu == "Kesekjenan":
                 "hobi": "Gangguin Kak Liza tidur, baca Wattpad/AU",
                 "sosmed": "@nadillaandr26",
                 "kesan": "Waw Kakak bendahara baca Au",  
-                "pesan":"info dong kak au yang seru"# 1
+                "pesan":"Lancar terus kuliahnya, info dong kak au yang seru"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -175,9 +178,15 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1yxnOv0Y0-C2FiNSwgfTe46yROPKAWyEg",
+            "https://drive.google.com/uc?export=view&id=1bzuCyHUsTrSikhFMUVfEqmouWF1JwuKp",
+            "https://drive.google.com/uc?export=view&id=1DhHkKZG1NYhKyuq3ZohyPI0qNK9pPDER",
+            "https://drive.google.com/uc?export=view&id=1uUfJ1y2bVyAc6YVa0BwJcfL8vGy1RZy2",
+            "https://drive.google.com/uc?export=view&id=10gbWG7ZzYR2XljFlkskL-AINHIkNtpJC",
+            "https://drive.google.com/uc?export=view&id=1raan97SZ7_5b-KpR3EEhfT_D9P-MkmmP",
+            "https://drive.google.com/uc?export=view&id=1p28S75h3JlYBq4ejbYUwFOk-rwaFHWqm",
+            "https://drive.google.com/uc?export=view&id=1m9ZwgrsvwjTzg_NDpjs2PD7xcQrN_hyN",
+            "https://drive.google.com/uc?export=view&id=1eeRe6cFozJpna_8VEM1ZildYi_8UrMUO",
         ]
         data_list = [
             {
@@ -211,7 +220,7 @@ elif menu == "Baleg":
                 "hobi": "Belajar bersama Pa Tamaro",
                 "sosmed": "@wlsbn0",
                 "kesan": "acik banget kakanya",  
-                "pesan": "Semoga bisa belajar bersama pa Tamoro tiap semester"# 1
+                "pesan": "Semoga bisa belajar bersama pak Tamoro tiap semester"# 1
             },
             {
                 "nama": "Anisa Dini Amalia",
@@ -222,7 +231,7 @@ elif menu == "Baleg":
                 "hobi": "Ngobrol",
                 "sosmed": "@anisadini10",
                 "kesan": "Lucu banget kakanya suka ngobrol TT",  
-                "pesan": "Semoga dapet temen ngobrol tiap hari, jam, menit hehehe"# 1
+                "pesan": "Lancar Terus kuliahnya sama Semoga dapet temen ngobrol tiap hari, jam, menit, detik hehehe"# 1
             },
             {
                 "nama": "Anisa Fitriyani",
@@ -233,7 +242,7 @@ elif menu == "Baleg":
                 "hobi": "Nonton drakor",
                 "sosmed": "@ansftrynn_",
                 "kesan": " wah kakanya ternyata masuk divisi baleg",  
-                "pesan": " keren kak bisa jadi anggota baleg" # 1
+                "pesan": " Lancar terus kak kuliahnya Kak" # 1
             },
             {
                 "nama": "Feryadi Yulius",
@@ -255,7 +264,7 @@ elif menu == "Baleg":
                 "hobi": "Suka ditipu sama penjual akun canva premium di shopee",
                 "sosmed": "@_.dheamelia",
                 "kesan": "unik hobinya",  
-                "pesan": "Semoga dapet berkah canva pro"# 1
+                "pesan": "Semoga dapet berkah  untuk canva pro"# 1
             },
             {
                 "nama": "Muhammad Fahrul Aditya",
