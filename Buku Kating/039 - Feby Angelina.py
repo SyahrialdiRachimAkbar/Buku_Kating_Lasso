@@ -97,7 +97,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-          ,
+            "https://drive.google.com/uc?export=view&id=1Ql3dMy9j3TXTOC7MEEt0ZDAKWwFzeJv7",
+            "https://drive.google.com/uc?export=view&id=1UJVH7TN7iV84uMzxY2OfxuqZI_7AXeZK",
+            "https://drive.google.com/uc?export=view&id=1m_fMDhv109z18sE_33_RMNV1GtwWhAHu",
+            "https://drive.google.com/uc?export=view&id=1oFTkPf3WmDMfCGzUmi7OZXRONPikt3oU",
+            "https://drive.google.com/uc?export=view&id=1oYGtadtTd_if4i2Oy7QsPWWW7IrqY6Kc",
+            "https://drive.google.com/uc?export=view&id=19zK3MBcSHX7X3dbiZt1GZEjYTt0-z0Yn",
         ]
         data_list = [
             {
@@ -173,9 +178,15 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1yxnOv0Y0-C2FiNSwgfTe46yROPKAWyEg",
+            "https://drive.google.com/uc?export=view&id=1bzuCyHUsTrSikhFMUVfEqmouWF1JwuKp",
+            "https://drive.google.com/uc?export=view&id=1DhHkKZG1NYhKyuq3ZohyPI0qNK9pPDER",
+            "https://drive.google.com/uc?export=view&id=1uUfJ1y2bVyAc6YVa0BwJcfL8vGy1RZy2",
+            "https://drive.google.com/uc?export=view&id=10gbWG7ZzYR2XljFlkskL-AINHIkNtpJC",
+            "https://drive.google.com/uc?export=view&id=1raan97SZ7_5b-KpR3EEhfT_D9P-MkmmP",
+            "https://drive.google.com/uc?export=view&id=1p28S75h3JlYBq4ejbYUwFOk-rwaFHWqm",
+            "https://drive.google.com/uc?export=view&id=1m9ZwgrsvwjTzg_NDpjs2PD7xcQrN_hyN",
+            "https://drive.google.com/uc?export=view&id=1eeRe6cFozJpna_8VEM1ZildYi_8UrMUO",
         ]
         data_list = [
             {
@@ -249,11 +260,11 @@ elif menu == "Baleg":
                 "nim": "122450004",
                 "umur": "20",
                 "asal": "Solo",
-                "alamat": "Natar",
+                "alamat": "Natar, lampung Selatan",
                 "hobi": "Suka ditipu sama penjual akun canva premium di shopee",
                 "sosmed": "@_.dheamelia",
                 "kesan": "unik hobinya",  
-                "pesan": "Semoga dapet berkah canva pro"# 1
+                "pesan": "Semoga dapet berkah canva pro gratis kak"# 1
             },
             {
                 "nama": "Muhammad Fahrul Aditya",
@@ -264,56 +275,21 @@ elif menu == "Baleg":
                 "hobi": "Badminton, melukis, hiking, dan berenang",
                 "sosmed": "@fhrul.pdf",
                 "kesan": "Banyak sekali hobinya",  
-                "pesan": "Lancar terus bang kuliah sambil melakukan hobi"# 1
+                "pesan": "Lancar terus bang kuliahnya" # 1
             },
             {
                 "nama": "Berliana Enda Putri",
                 "nim": "122450065",
                 "umur": "20",
                 "asal": "Sumatera Barat",
-                "alamat": "Way Huwi",
+                "alamat": "Way Huwi, Bandar Lampung",
                 "hobi": "Make up, nonton podcast, dan dengerin musik",
                 "sosmed": "@berlyyanda",
-                "kesan": "mungkin kakaknya makeup-an sambil denegerin podcast",  
-                "pesan": "Lacar ya kak kuliahnya, spill dong makeup yang kakak pake"# 1
+                "kesan": "mungkin kakaknya suka makeup-an sambil denegerin podcast",  
+                "pesan": "Lacar ya kak kuliahnya, spil dong makeup yang kakak pake"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
-
-elif menu == "Senator":
-    def Senator():
-        gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=14gxDYTTlE-x5LRG_6eEZWydErINtW95c",
-            "https://drive.google.com/uc?export=view&id=1TCteAgyuSXBXHeoxdweg0DOMG5MCoU3i",
-            
-        ]
-        data_list = [
-            {
-                "nama": "Anissa Luthfi Alifia",
-                "nim": "121450098",
-                "umur": "22",
-                "asal": "Lampung Tengah",
-                "alamat": "kost Putri Rahayu",
-                "hobi": "Nyanyi",
-                "sosmed": "@anissaluthfi_",
-                "kesan": "Keren banget kakanya",  
-                "pesan": "Lancar-lancar Kak kuliahnya"
-            },
-            {
-                "nama": "Rian Bintang Wijaya",
-                "nim": "122450094",
-                "umur": "21",
-                "asal": "Palembang",
-                "alamat": "Kota Baru",
-                "hobi": "Mendengarkan Lagu",
-                "sosmed": "@bintangtwinkle",
-                "kesan": "keren abangnya jadi senator",  
-                "pesan": "Semoga lanjar terus kulianya bang" # 1
-            },    
-        ]
-        display_images_with_data(gambar_urls, data_list)
-    Senator()
-
 
 # Tambahkan menu lainnya sesuai kebutuhan
