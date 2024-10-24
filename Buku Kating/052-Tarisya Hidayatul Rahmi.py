@@ -1223,7 +1223,7 @@ elif menu == "Departemen Eksternal":
                 "hobi": " ",
                 "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kaka !!!"# 1
+                "pesan":"semangat terus ya kak !!!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
