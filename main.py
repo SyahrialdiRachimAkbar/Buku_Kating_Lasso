@@ -19,43 +19,43 @@ Mahasiswa2 = st.Page(
     icon=":material/person:",
 )
 Mahasiswa3 = st.Page(
+    "Buku Kating/Mahasiswa3.py",
+    title="Mahasiswa3",
+    icon=":material/person:",
+)
+Mahasiswa4 = st.Page(
+    "Buku Kating/123 - Hanifah Inaya Sani.py",
+    title="123 - Hanifah Inaya Sani",
+    icon=":material/person:",
+)
+Mahasiswa5 = st.Page(
+    "Buku Kating/041 - Raihana Adelia Putri.py",
+    title="041 - Raihana Adelia Putri",
+    icon=":material/person:",
+)
+Mahasiswa6 = st.Page(
+    "Buku Kating/025 - Daffa Hadyan Navista.py",
+    title="025 - Daffa Hadyan Navista",
+    icon=":material/person:",
+)
+Mahasiswa7 = st.Page(
+    "Buku Kating/016 - Refa Destiny Pranata.py",
+    title="016 - Refa Destiny Pranata",
+    icon=":material/person:",
+)
+Mahasiswa8 = st.Page(
+    "Buku Kating/039 - Feby Angelina.py",
+    title="039 - Feby Angelina",
+    icon=":material/person:",
+)
+Mahasiswa9 = st.Page(
     "Buku Kating/078 - Givaro Ananta.py",
     title="078 - Givaro Ananta",
     icon=":material/person:",
 )
-Mahasiswa4 = st.Page(
-    "Buku Kating/Mahasiswa4.py",
-    title="Mahasiswa4",
-    icon=":material/person:",
-)
-Mahasiswa5 = st.Page(
-    "Buku Kating/Mahasiswa5.py",
-    title="Mahasiswa5",
-    icon=":material/person:",
-)
-Mahasiswa6 = st.Page(
-    "Buku Kating/Mahasiswa6.py",
-    title="Mahasiswa6",
-    icon=":material/person:",
-)
-Mahasiswa7 = st.Page(
-    "Buku Kating/Mahasiswa7.py",
-    title="Mahasiswa7",
-    icon=":material/person:",
-)
-Mahasiswa8 = st.Page(
-    "Buku Kating/Mahasiswa8.py",
-    title="Mahasiswa8",
-    icon=":material/person:",
-)
-Mahasiswa9 = st.Page(
-    "Buku Kating/Mahasiswa9.py",
-    title="Mahasiswa9",
-    icon=":material/person:",
-)
 Mahasiswa10 = st.Page(
-    "Buku Kating/Mahasiswa10.py",
-    title="Mahasiswa10",
+    "Buku Kating/069 - Arini Puteri Elandra.py",
+    title="069 - Arini Puteri Elandra",
     icon=":material/person:",
 )
 Mahasiswa11 = st.Page(
@@ -69,8 +69,8 @@ Mahasiswa12 = st.Page(
     icon=":material/person:",
 )
 Mahasiswa13 = st.Page(
-    "Buku Kating/Mahasiswa13.py",
-    title="Mahasiswa13",
+    "Buku Kating/052 - Tarisya Hidayatul Rahmi.py",
+    title="052 - Tarisya Hidayatul Rahmi",
     icon=":material/person:",
 )
 

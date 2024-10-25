@@ -85,7 +85,7 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Umur: {data_list[i]['umur']}")
             st.write(f"Asal: {data_list[i]['asal']}")
             st.write(f"Alamat: {data_list[i]['alamat']}")
-            st.write(f"hobi: {data_list[i]['hobi']}")
+            st.write(f"Hobi: {data_list[i]['hobi']}")
             st.write(f"Sosial Media: {data_list[i]['sosmed']}")
             st.write(f"Kesan: {data_list[i]['kesan']}")
             st.write(f"Pesan: {data_list[i]['pesan']}")
@@ -97,12 +97,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1sJGEzrIVJuIqLkE-uGtounefAKXBC8fQ", #bang Gumi
-            "https://drive.google.com/uc?export=view&id=1a3L0MES-NCtzYZEiKQdI6wpjqcyePGWb", #bang Pandra
-            "https://drive.google.com/uc?export=view&id=1uMJPiOq1FvdUIDeWkkVVMwZcd36wLHCU", #kak iza
-            "https://drive.google.com/uc?export=view&id=15lNX5gQ8fAIGJD6wrCJ8qhF_sgo8ncLs", #Kak Putri
-            "https://drive.google.com/uc?export=view&id=1tKusakfQcN4S7PqpvcGizzJ7qeALyZPL", #kak Titi
-            "https://drive.google.com/uc?export=view&id=1ngr96ah_gviXa967QmkTU58vwa8WylYX", #kak Nadilla
+            "https://drive.google.com/uc?export=view&id=1UL6ouOZm_IM4ScGhBrCi_pO9CO5gLZQo",
+            "https://drive.google.com/uc?export=view&id=1Vzelw2Kq2eeK27UOB8DCKc7I08MV9GbI",
+            "https://drive.google.com/uc?export=view&id=1WGXIPrs7E0EBXAYWs0tyV_e60VrtU1vn",
+            "https://drive.google.com/uc?export=view&id=1WIiENdUDZCBLg3ryX34V8vrqlMUWtLcy",
+            "https://drive.google.com/uc?export=view&id=1W4RTg878q7LQKCrIzJHgTrNZD06-lH8k",
+            "https://drive.google.com/uc?export=view&id=1W-bhle0Wkc8BzFDViT_QIKI7EogkcKVx",
         ]
         data_list = [
             {
@@ -110,33 +110,33 @@ if menu == "Kesekjenan":
                 "nim": "121450142",
                 "umur": "21",
                 "asal":"Palembang",
-                "alamat": "Pulau Damar",
-                "hobi": "Kura-kura, Dengerin Musik",
+                "alamat": "Jl.Pulau Damar, Tanjung Senang",
+                "hobi": "kuliah-rapat, dengerin lagu",
                 "sosmed": "@gumilangkharisma",
-                "kesan": "Ambisius, tapi asik",  
-                "pesan":"semangat semester 7 nya"# 1
+                "kesan": "Terlihat kepemimpinannya yang keren",  
+                "pesan":"semoga nambah keren dan diperlancar segala urusannya"# 1
             },
             {
                 "nama": "Pandra Insani Putra Azwar",
                 "nim": "121450137",
                 "umur": "21",
-                "asal":"Lampung Utara",
-                "alamat": "Jl. Pulau Bawean, Sukarame",
-                "hobi": "Main gitar",
+                "asal": "Lampung Utara",
+                "alamat": "Jl Bawean2, Sukarame",
+                "hobi": "Bermain gitar",
                 "sosmed": "@pndrinsni27",
-                "kesan": "Abangnya lucu, tapi ambisinya banyak",  
-                "pesan":"semangat semester 7 nya bang"# 1
+                "kesan": "bang pandra seru dan sepintas mirip aldi palu lasso",  
+                "pesan": "semangat kuliahnya banggg"# 1
             },
             {
                 "nama": "Meliza Wulandari",
-                "nim": "121450044",
+                "nim": "121450065",
                 "umur": "20",
                 "asal":"Palembang",
-                "alamat": "Kota Baru",
-                "hobi": "Nonton drakor",
-                "sosmed": "@wulandarimelinza",
-                "kesan": "Kakak nya ramah banget",  
-                "pesan":"semangat semester 7 nya kak!"# 1
+                "alamat": "Kota baru",
+                "hobi": "Nonton Drakor",
+                "sosmed": "@wulandarimeliza",
+                "kesan": "Suka sama public speaking ka liza",  
+                "pesan":"Semoga semua urusan diperlancar dan semangat kuliahnya"# 1
             },
             {
                 "nama": "Putri Maulida Chairani",
@@ -146,8 +146,8 @@ if menu == "Kesekjenan":
                 "alamat": "Jl Nangka 4",
                 "hobi": "Mendengarkan bang pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": "kakaknya asik banget",  
-                "pesan":"semangat semester 7 nya kak!"# 1
+                "kesan": "Ramah banget kak",  
+                "pesan":"semangat kuliahnya kakk dan dimudahkan segala urusannya!"# 1
             },
             {
                 "nama": "Hartiti Fadilah",
@@ -157,8 +157,8 @@ if menu == "Kesekjenan":
                 "alamat": "Pemda",
                 "hobi": "Baca Webtoon",
                 "sosmed": "@hrtfdlh",
-                "kesan": "Kakaknya keliatan pendiam",  
-                "pesan": "Semangat kuliahnya kak!"# 1
+                "kesan": "Kalem dan keliatan jiwa bendaharanya",  
+                "pesan": "semangat kuliahnya kak dan semangat mengurus duid"# 1
             },
             {
                 "nama": "Nadilla Andhara Putri",
@@ -168,9 +168,10 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobi": "Baca wattpad dan au",
                 "sosmed": "@nadillaandr26",
-                "kesan": "kakakny asik",  
-                "pesan": "semangat semester 7 nya kak!"# 1
-            },  
+                "kesan": "asik banget kalo cerita",  
+                "pesan": "semangat kuliahnya kak dan semangat mengurus duid"# 1
+            },
+            
         ]
         display_images_with_data(gambar_urls, data_list)
     kesekjenan()
@@ -178,50 +179,49 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1q4Hi6CGmg8AT2YJ7DwIBSx6851fBTi8r", #kak Tri
-            "https://drive.google.com/uc?export=view&id=1RQl3Hnd2BY45FmDxBu8oVHWr-amUYu80", #Kak Cahyani
-            "https://drive.google.com/uc?export=view&id=1eKoIc-ov6qa8Xp-9asVAAizZFhkGwJ7N", #Kak Wulan
-            "https://drive.google.com/uc?export=view&id=10HsFxDy1A4tshSPjfOEXQvBDdlLZBDF7", #Kak Dini
-            "https://drive.google.com/uc?export=view&id=1ywY4tBGgtH_GiKZMj0KkfmLA5yMZM6bd", #Nisa Fitriyani
-            "https://drive.google.com/uc?export=view&id=1b75-4qcTgUpJgKKeUtbMkCF7UHgYj7OE", #Bang Feryadi
-            "https://drive.google.com/uc?export=view&id=1AZqXjtKf2GBfQDgStEuVgw0kAURt_7cX", #Kak Dhea
-            "https://drive.google.com/uc?export=view&id=1m_ZhNj0le7W4MEwlYuU6CfZ8TgwE1iGc", #Bang Fahrul
-            "https://drive.google.com/uc?export=view&id=1_bLblX9yRBh7gWT_KxEsjyjvkwEYkkIM", #Kak Berli
-
+            "https://drive.google.com/uc?export=view&id=1UrVWUK4J9I-BxkF3jlX2hlxr664B5IJp",
+            "https://drive.google.com/uc?export=view&id=1VMfOQoLn5-1CyVcKbr6dcm4aLScOh0GX",
+            "https://drive.google.com/uc?export=view&id=1VBhpzd3tpBpoHjnRxInFc_QuE0T2UipM",
+            "https://drive.google.com/uc?export=view&id=1VAKUboUqQxZ9oODv4HRKhhgy1nxeI-F-",
+            "https://drive.google.com/uc?export=view&id=1VOrYDSRiKCb2F20UmPEUEPQk0kuoDnvw",
+            "https://drive.google.com/uc?export=view&id=1VcliDJk8UNgcJXJtOYAxoYHVkzSYQSst",
+            "https://drive.google.com/uc?export=view&id=1VXOpvMuALM722i9ZwgEWqJxMtBUf8Nyq",
+            "https://drive.google.com/uc?export=view&id=1VcliDJk8UNgcJXJtOYAxoYHVkzSYQSst",
+            "https://drive.google.com/uc?export=view&id=1VUEYwGMNXnwiHLML-pSyqBnC7CfssjOv",
         ]
         data_list = [
             {
-                "nama": "Tri Murniya Ningsih",
+               "nama": "Tri Murniya Ningsih",
                 "nim": "121450038",
                 "umur": "21",
-                "asal":"Bogor",
-                "alamat": "Jl. Raden Saleh",
+                "asal": "Bogor",
+                "alamat": "Jl Raden Saleh",
                 "hobi": "Searching GPT",
                 "sosmed": "@trimurniaa_",
-                "kesan": "Kakaknya ramah dan suka becanda",  
-                "pesan":"semangat semester 7 nya kak!"
+                "kesan": "Seruu banget kak niyaa, ceriaa parahh",  
+                "pesan": "semoga semua urusannya dipermudah ya kak!"
             },
             {
                 "nama": "Annisa Cahyani Surya",
                 "nim": "121450114",
                 "umur": "21",
-                "asal":"Tanggerang Selatan",
+                "asal": "Tangerang Selatan",
                 "alamat": "Way Huwi",
                 "hobi": "Baca buku dan nonton film",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "Kakaknya asik",  
-                "pesan":"semangat semester 7 nya kak!"# 1
+                "kesan": "mukanya kayak kalem gitu tapi seruu",  
+                "pesan": "semoga semua urusannya dipermudah ya kak!"# 1
             },
             {
                 "nama": "Wulan Sabina",
                 "nim": "121450150",
                 "umur": "21",
-                "asal":"Medan",
-                "alamat": "Jl. Raden Saleh",
-                "hobi": "Belajar sama pak Tamaro",
+                "asal": "Medan",
+                "alamat": "Jl Raden Saleh",
+                "hobi": "Belajar bersama pak tamaro",
                 "sosmed": "@wlsbn0",
-                "kesan": "Kakaknya asik",  
-                "pesan":"semangat semester 7 nya kak!"# 1
+                "kesan": "Asikk kak dan ramah bangett",  
+                "pesan": "semoga semua urusannya dipermudah ya kak!"# 1
             },
             {
                 "nama": "Anisa Dini Amalia",
@@ -231,8 +231,8 @@ elif menu == "Baleg":
                 "alamat": "Jati Agung",
                 "hobi": "Ngobrol",
                 "sosmed": "@anisadini10",
-                "kesan": "Kakaknya asik",  
-                "pesan": "Semangat Kuliahnya kak"# 1
+                "kesan": "lucuuu, asikk bangetttt",  
+                "pesan": "semoga semua urusannya dipermudah ya kak!"# 1
             },
             {
                 "nama": "Anisa Fitriyani",
@@ -241,9 +241,9 @@ elif menu == "Baleg":
                 "asal": "Batam",
                 "alamat": "Pesawaran",
                 "hobi": "Nonton drakor",
-                "sosmed": "@ansftrynn_",
-                "kesan": "kakaknya asik",  
-                "pesan": "Semangat Kuliahnya kak"# 1
+                "sosmed": "@ansftynn_",
+                "kesan": "kalem bangett kak",  
+                "pesan": "semoga semua urusannya dipermudah ya kak!"# 1
             },
             {
                 "nama": "Feryadi Yulius",
@@ -253,8 +253,8 @@ elif menu == "Baleg":
                 "alamat": "Way Kandis",
                 "hobi": "Baca buku",
                 "sosmed": "@fer_yulius",
-                "kesan": "abangnya asik, tapi keliatan jail",  
-                "pesan": "Semangat Kuliahnya bang"# 1
+                "kesan": "senyumnya penuh misterii",  
+                "pesan": "semoga semua urusannya dipermudah ya bang!"# 1
             },
             {
                 "nama": "Dhea Amelia Putri",
@@ -264,8 +264,8 @@ elif menu == "Baleg":
                 "alamat": "Natar",
                 "hobi": "Suka ditipu sama penjual akun canva premium di shopee",
                 "sosmed": "@_.dheamelia",
-                "kesan": "kakaknya asik",  
-                "pesan": "Semangat Kuliahnya kak"# 1
+                "kesan": "seruu bangett, ramahhh",  
+                "pesan": "semoga semua urusannya dipermudah ya kak!"# 1
             },
             {
                 "nama": "Muhammad Fahrul Aditya",
@@ -275,8 +275,8 @@ elif menu == "Baleg":
                 "alamat": "Sukarame",
                 "hobi": "Badminton, melukis, hiking, dan berenang",
                 "sosmed": "@fhrul.pdf",
-                "kesan": "Abangnya keliatan kalem",  
-                "pesan": "Semangat Kuliahnya bang"# 1
+                "kesan": "bang fahrul kayak pendiem gitu",  
+                "pesan": "semoga semua urusannya dipermudah ya kak!"# 1
             },
             {
                 "nama": "Berliana Enda Putri",
@@ -286,11 +286,44 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobi": "Make up, nonton podcast, dan dengerin musik",
                 "sosmed": "@berlyyanda",
-                "kesan":" kakaknya asik ",  
-                "pesan": "Semangat semester 7 nya kak"# 1
+                "kesan": "keliatannya kayak pendiem kalem gitu",  
+                "pesan": "semoga semua urusannya dipermudah ya kak!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
+
+elif menu == "Senator":
+    def senator():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "nama": "Kakak D",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+            {
+                "nama": "Kakak E",
+                "nim": "122450000",
+                "umur": "18",
+                "asal":"Bekasi",
+                "alamat": "Gg.sakum",
+                "hobi": "Mainn Bola, Belajar",
+                "sosmed": "@i",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    senator()
 
 # Tambahkan menu lainnya sesuai kebutuhan
