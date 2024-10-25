@@ -226,7 +226,9 @@ elif menu == "Baleg":
                 "pesan":"semangat terus kuliahnya kaka !!!"# 1
             },
             {
+
                 "nama": "Wulan Sabina",
+
                 "nim": " ",
                 "umur": " ",
                 "asal":" ",
@@ -630,6 +632,7 @@ elif menu == "Departemen PSDA":
                 "pesan":"semangat terus kuliahnya kaka !!!"# 1
             },
             {
+
                 "nama": "Jaclin Alcavella",
                 "nim": " ",
                 "umur": " ",
@@ -664,6 +667,7 @@ elif menu == "Departemen PSDA":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
+
     departemen_psda()
 elif menu == "Departemen MIKFES":
     def departemen_mikfes():
@@ -687,7 +691,8 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_","https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
             {
