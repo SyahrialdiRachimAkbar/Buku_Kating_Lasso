@@ -291,7 +291,7 @@ elif menu == "Baleg":
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
-    
+
 elif menu == "Senator":
     def Senator():
         gambar_urls = [
