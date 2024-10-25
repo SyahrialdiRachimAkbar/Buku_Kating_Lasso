@@ -244,6 +244,7 @@ elif menu == "Baleg":
                 "asal": "Sumatera Selatan",
                 "alamat": "Way Kandis",
                 "hobi": "Baca buku",
+                "sosmed": "@fer_yulius",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
