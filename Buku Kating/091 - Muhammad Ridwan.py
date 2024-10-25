@@ -97,9 +97,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1sJGEzrIVJuIqLkE-uGtounefAKXBC8fQ", #bang Gumi
+            "https://drive.google.com/uc?export=view&id=1a3L0MES-NCtzYZEiKQdI6wpjqcyePGWb", #bang Pandra
+            "https://drive.google.com/uc?export=view&id=1uMJPiOq1FvdUIDeWkkVVMwZcd36wLHCU", #kak iza
+            "https://drive.google.com/uc?export=view&id=15lNX5gQ8fAIGJD6wrCJ8qhF_sgo8ncLs", #Kak Putri
+            "https://drive.google.com/uc?export=view&id=1tKusakfQcN4S7PqpvcGizzJ7qeALyZPL", #kak Titi
+            "https://drive.google.com/uc?export=view&id=1ngr96ah_gviXa967QmkTU58vwa8WylYX", #kak Nadilla
         ]
         data_list = [
             {
@@ -139,35 +142,35 @@ if menu == "Kesekjenan":
                 "nama": "Putri Maulida Chairani",
                 "nim": "121450050",
                 "umur": "21",
-                "asal":"Payakumbuh, Sumatera Barat",
-                "alamat": "Nangka 4",
-                "hobi": "Dengerin Bang Pandra main gitar",
+                "asal": "Payakumbuh",
+                "alamat": "Jl Nangka 4",
+                "hobi": "Mendengarkan bang pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": " - ",  
+                "kesan": "kakaknya asik banget",  
                 "pesan":"semangat semester 7 nya kak!"# 1
             },
             {
                 "nama": "Hartiti Fadilah",
-                "nim": "121450021",
+                "nim": "121450031",
                 "umur": "21",
-                "asal":"Palembang",
+                "asal": "Palembang",
                 "alamat": "Pemda",
                 "hobi": "Baca Webtoon",
-                "sosmed": "@hrdfdlh",
-                "kesan": "Kakaknya kelitannya kalem",  
-                "pesan":"Semangat semester 7 nya kak!"# 1
+                "sosmed": "@hrtfdlh",
+                "kesan": "Kakaknya keliatan pendiam",  
+                "pesan": "Semangat kuliahnya kak!"# 1
             },
             {
                 "nama": "Nadilla Andhara Putri",
                 "nim": "121450003",
                 "umur": "21",
-                "asal":"Metro, Lampung",
+                "asal": "Metro, Lampung",
                 "alamat": "Kota Baru",
-                "hobi": "Gangguin Kak Liza tidur, baca Wattpad",
+                "hobi": "Baca wattpad dan au",
                 "sosmed": "@nadillaandr26",
-                "kesan": " - ",  
-                "pesan":"semangat semester 7 nya kak!"# 1
-            },
+                "kesan": "kakakny asik",  
+                "pesan": "semangat semester 7 nya kak!"# 1
+            },  
         ]
         display_images_with_data(gambar_urls, data_list)
     kesekjenan()
@@ -175,9 +178,16 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1q4Hi6CGmg8AT2YJ7DwIBSx6851fBTi8r", #kak Tri
+            "https://drive.google.com/uc?export=view&id=1RQl3Hnd2BY45FmDxBu8oVHWr-amUYu80", #Kak Cahyani
+            "https://drive.google.com/uc?export=view&id=1eKoIc-ov6qa8Xp-9asVAAizZFhkGwJ7N", #Kak Wulan
+            "https://drive.google.com/uc?export=view&id=10HsFxDy1A4tshSPjfOEXQvBDdlLZBDF7", #Kak Dini
+            "https://drive.google.com/uc?export=view&id=1ywY4tBGgtH_GiKZMj0KkfmLA5yMZM6bd", #Nisa Fitriyani
+            "https://drive.google.com/uc?export=view&id=1b75-4qcTgUpJgKKeUtbMkCF7UHgYj7OE", #Bang Feryadi
+            "https://drive.google.com/uc?export=view&id=1AZqXjtKf2GBfQDgStEuVgw0kAURt_7cX", #Kak Dhea
+            "https://drive.google.com/uc?export=view&id=1m_ZhNj0le7W4MEwlYuU6CfZ8TgwE1iGc", #Bang Fahrul
+            "https://drive.google.com/uc?export=view&id=1_bLblX9yRBh7gWT_KxEsjyjvkwEYkkIM", #Kak Berli
+
         ]
         data_list = [
             {
