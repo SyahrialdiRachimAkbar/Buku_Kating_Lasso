@@ -332,7 +332,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1npu72Bsy_AJepQ9ZbZ7mkdWFSEEJ0SnH", # bg econ 1
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka abet 2
             "https://drive.google.com/uc?export=view&id=1nVHHuU1VrcBeyScxi0TBxwZkctwM_NdF", # ka pipah 3
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka allya 4
+            "https://drive.google.com/uc?export=view&id=1uB2k9pxH4N8o3rNk-Different_ID", # ka allya 4 (link diganti)
             "https://drive.google.com/uc?export=view&id=1nkbnr0mzDf4cKlCXpOxBmULP3HSVFSlF", # ka eksanty 5
             "https://drive.google.com/uc?export=view&id=1nT7UG99x5e_aiF3NLFGztI_L7WimDdv5", # ka hanum 6
             "https://drive.google.com/uc?export=view&id=1npaBh2Ih87rS95-PShzNhnUrrYLnSCDT", # bg ferdy 7
@@ -348,7 +348,6 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1nNkycHEtdBBKF4bxY9ni0IA3le-fhWuE", # bg gede 17
             "https://drive.google.com/uc?export=view&id=1nXh8G3m2DRiyuL3WL47hIDejS-xJhWDN", # ka jaclin 18
             "https://drive.google.com/uc?export=view&id=1nSjN_lLPgB9Udkjh59TFXLc3Rla8HZdx", # bg rafly 19
-            
         ]
         data_list = [
             {
@@ -357,9 +356,9 @@ elif menu == "Departemen PSDA":
                 "umur": "21",
                 "asal": "Bekasi",
                 "alamat": "Khobam",
-                "hobbi": "Travelling",
+                "hobi": "Travelling",
                 "sosmed": "@ericsonchandra99",
-                "kesan": "Abangnya tegas",  
+                "kesan": "Abangnya tegas",
                 "pesan": "Semoga lancar terus kuliahnya" # 1
             },
             {
@@ -368,10 +367,10 @@ elif menu == "Departemen PSDA":
                 "umur": "18",
                 "asal": "Tangerang",
                 "alamat": "Kemiling",
-                "hobbi": "Bernafas",
+                "hobi": "Bernafas",
                 "sosmed": "@celisabethh_",
-                "kesan": " Kakaknya cakep ",  
-                "pesan":"lancar terus kuliahnya kak  " # 2
+                "kesan": "Kakaknya cakep",
+                "pesan": "Lancar terus kuliahnya kak" # 2
             },
             {
                 "nama": "Nisrina Nur Afifah",
@@ -379,10 +378,10 @@ elif menu == "Departemen PSDA":
                 "umur": "19",
                 "asal": "Jawa Barat",
                 "alamat": "Sukarame",
-                "hobbi": "Minum kopi",
+                "hobi": "Minum kopi",
                 "sosmed": "@afifahhnsrn",
-                "kesan": "keren kak jadi ketua komdis  ",  
-                "pesan":" lancar-lacar kuliahnya kak " # 3
+                "kesan": "Keren kak jadi ketua komdis",
+                "pesan": "Lancar-lancar kuliahnya kak" # 3
             },
             {
                 "nama": "Allya Nurul Islami Pasha",
@@ -390,10 +389,10 @@ elif menu == "Departemen PSDA":
                 "umur": "20",
                 "asal": "Sumatera Barat",
                 "alamat": "Gang Perwira Belwis",
-                "hobbi": "Ngukur bandar lampung",
+                "hobi": "Ngukur bandar lampung",
                 "sosmed": "@allyaislami_",
-                "kesan": "kakaknya tegas sesuai job   ",  
-                "pesan":"Lancar terus kuliahnya  " # 4
+                "kesan": "Kakaknya tegas sesuai job",
+                "pesan": "Lancar terus kuliahnya" # 4
             },
             {
                 "nama": "Eksanty Febriana Sugma Islamiaty",
@@ -401,10 +400,10 @@ elif menu == "Departemen PSDA":
                 "umur": "20",
                 "asal": "Lampung tengah",
                 "alamat": "Rajabasa",
-                "hobbi": "Ngeroasting orang",
+                "hobi": "Ngeroasting orang",
                 "sosmed": "@eksantyfebriana",
-                "kesan": " Kakaknya juga tegas  ",  
-                "pesan": " Lancar kuliahnya kakk " # 5
+                "kesan": "Kakaknya juga tegas",
+                "pesan": "Lancar kuliahnya kak" # 5
             },
             {
                 "nama": "Farahanum Afifah Ardiansyah",
@@ -412,10 +411,10 @@ elif menu == "Departemen PSDA":
                 "umur": "20",
                 "asal": "Padang",
                 "alamat": "Sukarame",
-                "hobbi": "Baca webtoon",
+                "hobi": "Baca webtoon",
                 "sosmed": "@farahanumafifahh",
-                "kesan": " waw ada juga kakak-kakak dari psda baca webtoon ",  
-                "pesan": " lancar terus kuliahnyaa " # 6
+                "kesan": "Waw ada juga kakak-kakak dari psda baca webtoon",
+                "pesan": "Lancar terus kuliahnya" # 6
             },
             {
                 "nama": "Ferdy Kevin Naibaho",
@@ -423,10 +422,10 @@ elif menu == "Departemen PSDA":
                 "umur": "20",
                 "asal": "Medan",
                 "alamat": "Jl pangeran senopati raya, gerbang barat",
-                "hobbi": "Baca buku dan Futsal",
+                "hobi": "Baca buku dan Futsal",
                 "sosmed": "@ferdy_kevin",
-                "kesan": " keren bang komdis ",  
-                "pesan": " semoga kuliahnya lancar terus bang " # 7
+                "kesan": "Keren bang komdis",
+                "pesan": "Semoga kuliahnya lancar terus bang" # 7
             },
             {
                 "nama": "M. Deriansyah Okutra",
@@ -434,10 +433,10 @@ elif menu == "Departemen PSDA":
                 "umur": "19",
                 "asal": "Raya Agung",
                 "alamat": "Jl. Pagar Alam, Kedaton",
-                "hobbi": "Bakar-bakar",
+                "hobi": "Bakar-bakar",
                 "sosmed": "@dransyh_",
-                "kesan": " wih keren hobi bakar-bakar ",  
-                "pesan": " semoga kuliahnya berjalan dengan baik  " # 8
+                "kesan": "Wih keren hobi bakar-bakar",
+                "pesan": "Semoga kuliahnya berjalan dengan baik" # 8
             },
             {
                 "nama": "Oktavia Nurwenda Puspita Sari",
@@ -445,10 +444,10 @@ elif menu == "Departemen PSDA":
                 "umur": "20",
                 "asal": "Lampung Timur",
                 "alamat": "Way Huwi",
-                "hobbi": "Ngeliatin tingkah orang",
+                "hobi": "Ngeliatin tingkah orang",
                 "sosmed": "@_oktavianrwnda_",
-                "kesan": " unik kak hobinya ",  
-                "pesan": " semoga kuliahnya berjalan dengan lancar terus kak " # 9
+                "kesan": "Unik kak hobinya",
+                "pesan": "Semoga kuliahnya berjalan dengan lancar terus kak" # 9
             },
             {
                 "nama": "Devyan Loxefal",
@@ -456,10 +455,10 @@ elif menu == "Departemen PSDA":
                 "umur": "21",
                 "asal": "Duri, Riau",
                 "alamat": "Kobam Pulau Damar",
-                "hobbi": "Belajar",
+                "hobi": "Belajar",
                 "sosmed": "@depanloo",
-                "kesan": " username ignya unik   ",  
-                "pesan": " lancar terus bang kuliahnya " # 10
+                "kesan": "Username ignya unik",
+                "pesan": "Lancar terus bang kuliahnya" # 10
             },
             {
                 "nama": "Johannes Krisjon Silitonga",
@@ -467,10 +466,10 @@ elif menu == "Departemen PSDA":
                 "umur": "19",
                 "asal": "Tangerang",
                 "alamat": "Jalan lapas",
-                "hobbi": "Ngeasprak",
+                "hobi": "Ngeasprak",
                 "sosmed": "@johanneskrisjonn",
-                "kesan": "abangnya keren  ",  
-                "pesan": " lancar terus bang ngeaspraknya  " # 11
+                "kesan": "Abangnya keren",
+                "pesan": "Lancar terus bang ngeaspraknya" # 11
             },
             {
                 "nama": "Kemas Veriandra Ramadhan",
@@ -478,10 +477,10 @@ elif menu == "Departemen PSDA":
                 "umur": "19",
                 "asal": "Bekasi",
                 "alamat": "Kojo Golf Asri",
-                "hobbi": "Ngetik print halo dunia",
+                "hobi": "Ngetik print halo dunia",
                 "sosmed": "@kemasverii",
-                "kesan": "keren, pernah tutorin saat pra-kader ",  
-                "pesan": "Lancar terus bang kuliahnya  " # 12
+                "kesan": "Keren, pernah tutorin saat pra-kader",
+                "pesan": "Lancar terus bang kuliahnya" # 12
             },
             {
                 "nama": "Presilia",
@@ -489,10 +488,10 @@ elif menu == "Departemen PSDA":
                 "umur": "20",
                 "asal": "Bekasi",
                 "alamat": "Kota Baru",
-                "hobbi": "Dengar JPP worship",
+                "hobi": "Dengar JPP worship",
                 "sosmed": "@presiliamg",
-                "kesan": "nama kakaknya cakep  ",  
-                "pesan": "semoga kuliahnya berjalan lancar terus  " #13
+                "kesan": "Nama kakaknya cakep",
+                "pesan": "Semoga kuliahnya berjalan lancar terus" # 13
             },
             {
                 "nama": "Rafa Aqilla Jungjunan",
@@ -500,10 +499,10 @@ elif menu == "Departemen PSDA":
                 "umur": "20",
                 "asal": "Pekan Baru",
                 "alamat": "Belwis",
-                "hobbi": "Baca Webtoon",
+                "hobi": "Baca Webtoon",
                 "sosmed": "@rafaaqilla",
-                "kesan": " hobbinya sama bang  ",  
-                "pesan": " lancar terus bang kuliahnya  " # 14
+                "kesan": "Hobbinya sama bang",
+                "pesan": "Lancar terus bang kuliahnya" # 14
             },
             {
                 "nama": "Sahid Maulana",
@@ -511,10 +510,10 @@ elif menu == "Departemen PSDA":
                 "umur": "21",
                 "asal": "Depok",
                 "alamat": "Airan Raya",
-                "hobbi": "Nonton resilore id",
+                "hobi": "Nonton resilore id",
                 "sosmed": "@sahid_maulana",
-                "kesan": " kece bang ",  
-                "pesan": " lacar terus ya bang kuliahnya " # 15
+                "kesan": "Kece bang",
+                "pesan": "Lancar terus ya bang kuliahnya" # 15
             },
             {
                 "nama": "M. Farhan Athaulloh",
@@ -522,10 +521,10 @@ elif menu == "Departemen PSDA":
                 "umur": "21",
                 "asal": "Lampung",
                 "alamat": "Kota Baru",
-                "hobbi": "Menolong",
+                "hobi": "Menolong",
                 "sosmed": "@mfarhan.ath",
-                "kesan": " hobbinya beda darri yang lain   ",  
-                "pesan": " semoga ga lelah menolong terus bang " # 16
+                "kesan": "Hobbinya beda dari yang lain",
+                "pesan": "Semoga ga lelah menolong terus bang" # 16
             },
             {
                 "nama": "Gede Moana",
@@ -533,10 +532,10 @@ elif menu == "Departemen PSDA":
                 "umur": "21",
                 "asal": "Bekasi",
                 "alamat": "Korpri Raya",
-                "hobbi": "Belajar, Game, Baca Komik",
+                "hobi": "Belajar, Game, Baca Komik",
                 "sosmed": "@gedemoenaa",
-                "kesan": " abangnya asik  ",  
-                "pesan": " lancar terus kuliahnya bang " # 217
+                "kesan": "Abangnya asik",
+                "pesan": "Lancar terus kuliahnya bang" # 17
             },
             {
                 "nama": "Jaclin Alcavella",
@@ -544,10 +543,10 @@ elif menu == "Departemen PSDA":
                 "umur": "19",
                 "asal": "Sumatera Selatan",
                 "alamat": "Korpri",
-                "hobbi": "Berenang",
+                "hobi": "Berenang",
                 "sosmed": "@jaclinaclcv_",
-                "kesan": " wih hobbinya berenang  ",  
-                "pesan": " semoga itera punya kolam renang biar kakak bisa berenangya ga jauh  " # 18
+                "kesan": "Wih hobbinya berenang",
+                "pesan": "Semoga ITERA punya kolam renang biar kakak bisa berenang ga jauh" # 18
             },
             {
                 "nama": "Rafly Prabu Darmawan",
@@ -555,13 +554,13 @@ elif menu == "Departemen PSDA":
                 "umur": "20",
                 "asal": "Bangka Belitung",
                 "alamat": "Sukarame",
-                "hobbi": "Main Game",
+                "hobi": "Main Game",
                 "sosmed": "@raflyy_pd2684",
-                "kesan": " asik abangnya ",  
-                "pesan": " lancar yaaa bang kuliahnya " # 19
-            },
-            
+                "kesan": "Asik abangnya",
+                "pesan": "Lancar ya bang kuliahnya" # 19
+            }
         ]
         display_images_with_data(gambar_urls, data_list)
-    psda()
->>>>>>> 5fd244ceea4ec06f2e604c5eea2b01fe01b48e61
+    psda()    
+
+
