@@ -563,5 +563,5 @@ elif menu == "Departemen PSDA":
             
         ]
         display_images_with_data(gambar_urls, data_list)
-    psda()    
-# Tambahkan menu lainnya sesuai kebutuhan
+    psda()
+>>>>>>> 5fd244ceea4ec06f2e604c5eea2b01fe01b48e61
