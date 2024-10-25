@@ -97,12 +97,12 @@ menu = streamlit_menu()
 if menu == "Kesekjenan":
     def kesekjenan():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1UF13tjIGOnVsOOj3avRNaeP-WjIs96Am",
-            "https://drive.google.com/uc?export=view&id=1UF13tjIGOnVsOOj3avRNaeP-WjIs96Am",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1UF13tjIGOnVsOOj3avRNaeP-WjIs96Am",
-            "https://drive.google.com/uc?export=view&id=1UF13tjIGOnVsOOj3avRNaeP-WjIs96Am",
-            "https://drive.google.com/uc?export=view&id=1UN22bEmSkFguiGSA-Ah3cpT7ndIw6-UE",
+            "https://drive.google.com/uc?export=view&id=1UL6ouOZm_IM4ScGhBrCi_pO9CO5gLZQo",
+            "https://drive.google.com/uc?export=view&id=1Vzelw2Kq2eeK27UOB8DCKc7I08MV9GbI",
+            "https://drive.google.com/uc?export=view&id=1WGXIPrs7E0EBXAYWs0tyV_e60VrtU1vn",
+            "https://drive.google.com/uc?export=view&id=1WIiENdUDZCBLg3ryX34V8vrqlMUWtLcy",
+            "https://drive.google.com/uc?export=view&id=1W4RTg878q7LQKCrIzJHgTrNZD06-lH8k",
+            "https://drive.google.com/uc?export=view&id=1W-bhle0Wkc8BzFDViT_QIKI7EogkcKVx",
         ]
         data_list = [
             {
@@ -113,19 +113,19 @@ if menu == "Kesekjenan":
                 "alamat": "Jl.Pulau Damar, Tanjung Senang",
                 "hobi": "kuliah-rapat, dengerin lagu",
                 "sosmed": "@gumilangkharisma",
-                "kesan": "Terlihat kepemimpinannya yang keren",  
-                "pesan":"semoga nambah keren dan diperlancar segala urusannya"# 1
+                "kesan": "Terlihat kepemimpinannya keren",  
+                "pesan":"semoga nambah keren bang !!!"# 1
             },
             {
                 "nama": "Pandra Insani Putra Azwar",
                 "nim": "121450137",
                 "umur": "21",
-                "asal":"Lampung Utara",
-                "alamat": "Sukarame, Bawean dua",
-                "hobi": "Main Gitar",
-                "sosmed": "@pndrinsni",
-                "kesan": "Bang Pandra asik, seru, dan sepintas mirip pa lurah lasso",  
-                "pesan":"semoga kuliah dan kegiatan lainnya dilancarkan!"# 1
+                "asal": "Lampung Utara",
+                "alamat": "Jl Bawean2, Sukarame",
+                "hobi": "Bermain gitar",
+                "sosmed": "@pndrinsni27",
+                "kesan": "bang pandra seru dan sepintas mirip aldi palu lasso",  
+                "pesan": "semangat kuliahnya banggg"# 1
             },
             {
                 "nama": "Meliza Wulandari",
@@ -142,34 +142,34 @@ if menu == "Kesekjenan":
                 "nama": "Putri Maulida Chairani",
                 "nim": "121450050",
                 "umur": "21",
-                "asal":"Payakumbuh",
-                "alamat": "Jl. Nangka 4",
-                "hobi": "Dengerin bang pandra main gitar",
+                "asal": "Payakumbuh",
+                "alamat": "Jl Nangka 4",
+                "hobi": "Mendengarkan bang pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": "Ka putri asik dan seru ",  
-                "pesan":"Semoga selalu diberi kemudahan"# 1
+                "kesan": "Ramah banget kak",  
+                "pesan":"semangat kuliahnya kakk dan dimudahkan segala urusannya!"# 1
             },
             {
                 "nama": "Hartiti Fadilah",
                 "nim": "121450031",
                 "umur": "21",
-                "asal":"Palembang",
+                "asal": "Palembang",
                 "alamat": "Pemda",
                 "hobi": "Baca Webtoon",
-                "sosmed": "@hrtpdlh",
-                "kesan": "Seru karena jadi tau tentang bagaimana menjadi bendahara",  
-                "pesan":"semangat terus kak ngurusin perduitannya"# 1
+                "sosmed": "@hrtfdlh",
+                "kesan": "Kalem dan keliatan jiwa bendaharanya",  
+                "pesan": "semangat kuliahnya kak dan semangat mengurus duid"# 1
             },
             {
                 "nama": "Nadilla Andhara Putri",
                 "nim": "121450003",
                 "umur": "21",
-                "asal":"Metro",
-                "alamat": "Kota baru",
+                "asal": "Metro, Lampung",
+                "alamat": "Kota Baru",
                 "hobi": "Baca wattpad dan au",
-                "sosmed": "@nadhillahand26",
-                "kesan": "Seru dan menyenangkan",  
-                "pesan":"semangat terus kak ngurusin perduitannya"# 1
+                "sosmed": "@nadillaandr26",
+                "kesan": "asik banget kalo cerita",  
+                "pesan": "semangat kuliahnya kak dan semangat mengurus duid"# 1
             },
             
         ]
@@ -179,119 +179,115 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1UrVWUK4J9I-BxkF3jlX2hlxr664B5IJp",
+            "https://drive.google.com/uc?export=view&id=1VMfOQoLn5-1CyVcKbr6dcm4aLScOh0GX",
+            "https://drive.google.com/uc?export=view&id=1VBhpzd3tpBpoHjnRxInFc_QuE0T2UipM",
+            "https://drive.google.com/uc?export=view&id=1VAKUboUqQxZ9oODv4HRKhhgy1nxeI-F-",
+            "https://drive.google.com/uc?export=view&id=1VOrYDSRiKCb2F20UmPEUEPQk0kuoDnvw",
+            "https://drive.google.com/uc?export=view&id=1VcliDJk8UNgcJXJtOYAxoYHVkzSYQSst",
+            "https://drive.google.com/uc?export=view&id=1VXOpvMuALM722i9ZwgEWqJxMtBUf8Nyq",
+            "https://drive.google.com/uc?export=view&id=1VcliDJk8UNgcJXJtOYAxoYHVkzSYQSst",
+            "https://drive.google.com/uc?export=view&id=1VUEYwGMNXnwiHLML-pSyqBnC7CfssjOv",
         ]
         data_list = [
             {
-                "nama": "Tri Murniya Ningsih",
+               "nama": "Tri Murniya Ningsih",
                 "nim": "121450038",
                 "umur": "21",
-                "asal":"Bogor",
-                "alamat": "Jl. Raden Saleh",
+                "asal": "Bogor",
+                "alamat": "Jl Raden Saleh",
                 "hobi": "Searching GPT",
-                "sosmed": "@trimurniyaa_",
-                "kesan": "Ka niya seru dan asik bangetttt ",  
-                "pesan":"semoga kebahagiaan selalu datang ke kakak"
+                "sosmed": "@trimurniaa_",
+                "kesan": "Seruu banget kak niyaa, ceriaa parahh",  
+                "pesan": "semoga semua urusannya dipermudah ya kak!"
             },
             {
                 "nama": "Annisa Cahyani Surya",
                 "nim": "121450114",
                 "umur": "21",
-                "asal":"Tangerang selatan",
+                "asal": "Tangerang Selatan",
                 "alamat": "Way Huwi",
                 "hobi": "Baca buku dan nonton film",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "Seru bangett kak",  
-                "pesan":"semangat terus kak menjalani kuliahnya"# 1
+                "kesan": "mukanya kayak kalem gitu tapi seruu",  
+                "pesan": "semoga semua urusannya dipermudah ya kak!"# 1
             },
             {
                 "nama": "Wulan Sabina",
                 "nim": "121450150",
                 "umur": "21",
-                "asal":"Medan",
-                "alamat": "Jl. Raden Saleh",
-                "hobi": "Belajar bersama Pak Tamaro",
-                "sosmed": "@wlnsbn0",
-                "kesan": "Seruu dan pembawaannya asik",  
-                "pesan":"semoga kuliahnya dilancarinn"# 1
+                "asal": "Medan",
+                "alamat": "Jl Raden Saleh",
+                "hobi": "Belajar bersama pak tamaro",
+                "sosmed": "@wlsbn0",
+                "kesan": "Asikk kak dan ramah bangett",  
+                "pesan": "semoga semua urusannya dipermudah ya kak!"# 1
             },
             {
                 "nama": "Anisa Dini Amalia",
                 "nim": "121450081",
                 "umur": "20",
-                "asal":"Tangerang",
+                "asal": "Tangerang",
                 "alamat": "Jati Agung",
                 "hobi": "Ngobrol",
                 "sosmed": "@anisadini10",
-                "kesan": "Asikk banget kak dan seru obrolannya",  
-                "pesan":"semoga semua hal atau kegiatan dilancarin"# 1
+                "kesan": "lucuuu, asikk bangetttt",  
+                "pesan": "semoga semua urusannya dipermudah ya kak!"# 1
             },
             {
-                "nama": "Anisa fitriyani",
+                "nama": "Anisa Fitriyani",
                 "nim": "122450019",
                 "umur": "19",
-                "asal":"Batam",
+                "asal": "Batam",
                 "alamat": "Pesawaran",
-                "hobi": "nonton drakor",
-                "sosmed": "@ansftynni_",
-                "kesan": "Sangat menyenangkann",  
-                "pesan":"semoga semua urusan dipermudah ya kak"# 1
+                "hobi": "Nonton drakor",
+                "sosmed": "@ansftynn_",
+                "kesan": "kalem bangett kak",  
+                "pesan": "semoga semua urusannya dipermudah ya kak!"# 1
             },
             {
                 "nama": "Feryadi Yulius",
                 "nim": "122450087",
                 "umur": "20",
-                "asal":"Sumatera Selatan",
+                "asal": "Sumatera Selatan",
                 "alamat": "Way Kandis",
                 "hobi": "Baca buku",
-                "sosmed": "@fr_yulius",
-                "kesan": "Abangnya seru dan banyak membantu",  
-                "pesan":"semangat terus ngaspraknya bang"# 1
+                "sosmed": "@fer_yulius",
+                "kesan": "senyumnya penuh misterii",  
+                "pesan": "semoga semua urusannya dipermudah ya bang!"# 1
             },
             {
-                "nama": "Dhea Amelia Puti",
+                "nama": "Dhea Amelia Putri",
                 "nim": "122450004",
                 "umur": "20",
-                "asal":"Solo",
+                "asal": "Solo",
                 "alamat": "Natar",
-                "hobi": "Suka ditipu jual akun canva premium",
+                "hobi": "Suka ditipu sama penjual akun canva premium di shopee",
                 "sosmed": "@_.dheamelia",
-                "kesan": "Ka dhea seruu dan menyenangkan",  
-                "pesan":"semangat menjalani kehidupan kak dan semoga dilancarkan semua urusan"# 1
+                "kesan": "seruu bangett, ramahhh",  
+                "pesan": "semoga semua urusannya dipermudah ya kak!"# 1
             },
             {
                 "nama": "Muhammad Fahrul Aditya",
                 "nim": "121450156",
                 "umur": "22",
-                "asal":"Surakarta, Jawa Tengah",
+                "asal": "Surakarta, Jawa Tengah",
                 "alamat": "Sukarame",
                 "hobi": "Badminton, melukis, hiking, dan berenang",
                 "sosmed": "@fhrul.pdf",
-                "kesan": "Bang fahrul terlihat ramah",  
-                "pesan":"semangat terus kuliahnya bang dan semoga dipermudah"# 1
+                "kesan": "bang fahrul kayak pendiem gitu",  
+                "pesan": "semoga semua urusannya dipermudah ya kak!"# 1
             },
             {
                 "nama": "Berliana Enda Putri",
                 "nim": "122450065",
                 "umur": "20",
-                "asal":"Sumatera Barat",
+                "asal": "Sumatera Barat",
                 "alamat": "Way Huwi",
-                "hobi": "Makeup, nonton podcast, dan denger musik",
-                "sosmed": "@berlyyanaa",
-                "kesan": "Kakak nya terlihat kalem",  
-                "pesan":"semangat terus kuliahnya ka dan semooga selalu dilancarkan"# 1
+                "hobi": "Make up, nonton podcast, dan dengerin musik",
+                "sosmed": "@berlyyanda",
+                "kesan": "keliatannya kayak pendiem kalem gitu",  
+                "pesan": "semoga semua urusannya dipermudah ya kak!"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
