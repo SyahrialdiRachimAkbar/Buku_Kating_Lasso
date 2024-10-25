@@ -561,3 +561,4 @@ elif menu == "Departemen PSDA":
             }
         ]
         display_images_with_data(gambar_urls, data_list)
+    psda()
