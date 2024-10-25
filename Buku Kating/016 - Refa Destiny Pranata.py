@@ -129,14 +129,14 @@ if menu == "Kesekjenan":
             },
             {
                 "nama": "Meliza Wulandari",
-                "nim": "121450044",
-                "umur": "21",
-                "asal":"Sumatera Selatan",
-                "alamat": "Kota Baru",
+                "nim": "121450065",
+                "umur": "20",
+                "asal":"Palembang",
+                "alamat": "Kota baru",
                 "hobi": "Nonton Drakor",
                 "sosmed": "@wulandarimeliza",
                 "kesan": "Suka sama public speaking ka liza",  
-                "pesan":"semangat kuliahnya kakk dan dimudahkan segala urusannya"# 1
+                "pesan":"Semoga semua urusan diperlancar dan semangat kuliahnya"# 1
             },
             {
                 "nama": "Putri Maulida Chairani",
@@ -171,6 +171,7 @@ if menu == "Kesekjenan":
                 "kesan": "asik banget kalo cerita",  
                 "pesan": "semangat kuliahnya kak dan semangat mengurus duid"# 1
             },
+            
         ]
         display_images_with_data(gambar_urls, data_list)
     kesekjenan()

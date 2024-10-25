@@ -106,7 +106,7 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-                "nama": "Kharisma Gumilang",
+                "nama": "Kharisma Gumilan",
                 "nim": "121450142",
                 "umur": "21",
                 "asal":"Palembang",
@@ -195,8 +195,8 @@ elif menu == "Baleg":
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
-                "nama": "Kakak E",
-                "nim": "122450000",
+                "nama": "Kakk E",
+                "nim": "12000",
                 "umur": "18",
                 "asal":"Bekasi",
                 "alamat": "Gg.sakum",
