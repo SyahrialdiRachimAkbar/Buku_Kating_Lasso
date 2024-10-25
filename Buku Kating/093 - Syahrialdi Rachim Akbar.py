@@ -223,6 +223,8 @@ elif menu == "Baleg":
                 "alamat": "Jl Raden Saleh",
                 "hobi": "Belajar bersama pak tamaro",
                 "sosmed": "@wlsbn0",
+                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
+                "pesan":"semangat terus kuliahnya kakak !!!"
             },
             {
                 "nama": "Anisa Dini Amalia",
