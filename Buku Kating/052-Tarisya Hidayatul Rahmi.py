@@ -171,17 +171,6 @@ if menu == "Kesekjenan":
                 "kesan": "Kakaknya seru banget, banyak bantu jawab dan jelasin semua pertanyaan dari kami",  
                 "pesan":"semangat menjalani semester 7-nya kakak !!!"# 1
             },
-            {
-                "nama": "Meliza Wulandari",
-                "nim": "121450015",
-                "umur": "20",
-                "asal":"Palembang",
-                "alamat": "Kota Baru",
-                "hobi": "nonton drakor",
-                "sosmed": "@wulandarimeliza",
-                "kesan": "Kakaknya positif vibes banget",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
-            },
         ]
         display_images_with_data(gambar_urls, data_list)
     kesekjenan()
@@ -237,7 +226,7 @@ elif menu == "Baleg":
                 "pesan":"semangat terus kuliahnya kaka !!!"# 1
             },
             {
-                "nama": "Renisha Putri Giani",
+                "nama": "Wulan Sabina",
                 "nim": " ",
                 "umur": " ",
                 "asal":" ",
@@ -292,7 +281,7 @@ elif menu == "Baleg":
                 "pesan":"semangat terus kuliahnya kaka !!!"# 1
             },
             {
-                "nama": "Miraan Yusuf Rabbani",
+                "nama": "Mirzan Yusuf Rabbani",
                 "nim": " ",
                 "umur": " ",
                 "asal":" ",
@@ -357,58 +346,14 @@ elif menu == "Baleg":
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kaka !!!"# 1
             },
-            {
-                "nama": "Renisha Putri Giani",
-                "nim": " ",
-                "umur": " ",
-                "asal":" ",
-                "alamat": " ",
-                "hobi": " ",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kaka !!!"# 1
-            },
-            {
-                "nama": "Renisha Putri Giani",
-                "nim": " ",
-                "umur": " ",
-                "asal":" ",
-                "alamat": " ",
-                "hobi": " ",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kaka !!!"# 1
-            },
-            {
-                "nama": "Renisha Putri Giani",
-                "nim": " ",
-                "umur": " ",
-                "asal":" ",
-                "alamat": " ",
-                "hobi": " ",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kaka !!!"# 1
-            },
-            {
-                "nama": "Renisha Putri Giani",
-                "nim": " ",
-                "umur": " ",
-                "asal":" ",
-                "alamat": " ",
-                "hobi": " ",
-                "sosmed": "@i",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kaka !!!"# 1
-            },
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
 elif menu == "Senator":
     def senator():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1CDiESBmSwk3Ll1SaJCc5RnmURGVrsHuR",
+            "https://drive.google.com/uc?export=view&id=1LZTtWrkvp8wQbFV18BD21T5gwFNHuF-F",
         ]
         data_list = [
             {
@@ -439,8 +384,8 @@ elif menu == "Senator":
 elif menu == "Departemen PSDA":
     def departemen_psda():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1CDiESBmSwk3Ll1SaJCc5RnmURGVrsHuR",
+            "https://drive.google.com/uc?export=view&id=1LZTtWrkvp8wQbFV18BD21T5gwFNHuF-F",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
