@@ -124,8 +124,8 @@ if menu == "Kesekjenan":
                 "alamat": "Jl. Pulau Bawean 2, Sukarame",
                 "hobi": "Main Gitar",
                 "sosmed": "@pndrinsni27",
-                "kesan": "????",  
-                "pesan":"!!!"# 1
+                "kesan": "bang pandra orangnya santuy dan asik",  
+                "pesan":"semangat kuliahnya bang pandra!"# 1
             },
             {
                 "nama": "Meliza Wulandari",
@@ -135,8 +135,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobi": "Nonton Drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan": "???",  
-                "pesan":"!!!"# 1
+                "kesan": "kakak cantik dan baik hati",  
+                "pesan":"semangat kuliahnya kak melin"# 1
             },
             {   "nama": "Putri Maulida Chairani",
                 "nim": "121450050",
@@ -145,8 +145,8 @@ if menu == "Kesekjenan":
                 "alamat": "Nangka 4",
                 "hobi": "Dengerin Bang Pandra main gitar",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": "???",  
-                "pesan":"!!!"# 1
+                "kesan": "kak putri orangnya asik",  
+                "pesan":"semangat kuliahnya kak putri!"# 1
                     
             },
             {   "nama": "Hartiti Fadilah",
@@ -156,8 +156,8 @@ if menu == "Kesekjenan":
                 "alamat": "Pemda",
                 "hobi": "Baca Webtoon",
                 "sosmed": "@hrdfdlh",
-                "kesan": "???",  
-                "pesan":"!!!"# 1
+                "kesan": "kak titi orangnya pendiem sekali ternyata",  
+                "pesan":"semangat kuliahnya kak titi!"# 1
 
             },
             {   "nama": "Nadila Andhara Putri",
@@ -167,8 +167,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobi": "Gangguin Kak Liza Tidur, bawa Wattpad/AU",
                 "sosmed": "@nadillaandr26",
-                "kesan": "???",  
-                "pesan":"!!!"# 1
+                "kesan": "kak nadila orangnya asik dan suka bercanda",  
+                "pesan":"semangat kuliahnya kak nadila!"# 1
 
             },
         ]
@@ -178,6 +178,10 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -299,8 +303,72 @@ elif menu == "Baleg":
                 "kesan": "",  
                 "pesan":""# 1
             },
+            {
+                "nama": "",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": ".",
+                "sosmed": "@",
+                "kesan": "",  
+                "pesan":""# 1
+            },
+            {
+                "nama": "",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": ".",
+                "sosmed": "@",
+                "kesan": "",  
+                "pesan":""# 1
+            },
+            {
+                "nama": "",
+                "nim": "",
+                "umur": "",
+                "asal":"",
+                "alamat": "",
+                "hobi": ".",
+                "sosmed": "@",
+                "kesan": "",  
+                "pesan":""# 1
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
 
-# Tambahkan menu lainnya sesuai kebutuhan
+elif menu == "Senator":
+    def senator():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "nama": "Annisa Luthfi Alifia",
+                "nim": "121450093",
+                "umur": "22",
+                "asal": "Lampung Tengah",
+                "alamat": "Kost Putri Rahayu",
+                "hobi": "Bernyani",
+                "sosmed": "@anissaluthfi_",
+                "kesan": "one of my role model, bener bener takjub selama denger kakak jawab pertanyaan waktu wwc",  
+                "pesan": "Semangat terus kuliahnya ka luthfi!"
+            },
+            {
+                "nama": "Rian Bintang Wijaya",
+                "nim": "122450094",
+                "umur": "20",
+                "asal": "Palembang",
+                "alamat": "Kontrakan kota baru",
+                "hobi": "Dengerin Ka Luthfi bernyanyi",
+                "sosmed": "@bintangtwinkle",
+                "kesan": "selama wwc baru tau kalo ternyata bang bin orangnya sesantuy itu",  
+                "pesan": "Semangatt kuliahnya bang bintang!"
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    senator()
