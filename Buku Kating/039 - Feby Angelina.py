@@ -329,11 +329,11 @@ elif menu == "Senator":
 elif menu == "Departemen PSDA":
     def Departemen_PSDA():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1npu72Bsy_AJepQ9ZbZ7mkdWFSEEJ0SnH", # bg econ 1
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka abet 2
-            "https://drive.google.com/uc?export=view&id=1nVHHuU1VrcBeyScxi0TBxwZkctwM_NdF", # ka pipah 3
-            "https://drive.google.com/uc?export=view&id=1uB2k9pxH4N8o3rNk-Different_ID", # ka allya 4 (link diganti)
-            "https://drive.google.com/uc?export=view&id=1nkbnr0mzDf4cKlCXpOxBmULP3HSVFSlF", # ka eksanty 5
+            "https://drive.google.com/uc?export=view&id=1_l3oPzM8Anvm7qUqtxGZnKJM5inmOjWM", # bg econ 1
+            "https://drive.google.com/uc?export=view&id=1yaEdi_1VXcAta2u3fdW43OxYkh6u_ymV", # ka abet 2
+            "https://drive.google.com/uc?export=view&id=12HJCm4AlV-J-l_gKZN8UsM_SLCJHa7IN", # ka pipah 3
+            "https://drive.google.com/uc?export=view&id=1Ymy6bNP9ASwawvjjec7xBpLtodDrFBV3", # ka allya 4 (link diganti)
+            "https://drive.google.com/uc?export=view&id=1Gj4N-yWljn4aiCCVPEX64R8tpJuyjnkk", # ka eksanty 5
             "https://drive.google.com/uc?export=view&id=1nT7UG99x5e_aiF3NLFGztI_L7WimDdv5", # ka hanum 6
             "https://drive.google.com/uc?export=view&id=1npaBh2Ih87rS95-PShzNhnUrrYLnSCDT", # bg ferdy 7
             "https://drive.google.com/uc?export=view&id=1o-1mMVYzYh9Wn2bn2R0R76k3xFDIHMmJ", # bg deri 8
@@ -558,7 +558,7 @@ elif menu == "Departemen PSDA":
                 "hobi": "Main Game",
                 "sosmed": "@raflyy_pd2684",
                 "kesan": "Asikk abangnya",
-                "pesan": "Lancarr ya bang kuliahnya" # 19
+                "pesan": "Lancarr terus ya bang kuliahnya" # 19
             }
         ]
         display_images_with_data(gambar_urls, data_list)
