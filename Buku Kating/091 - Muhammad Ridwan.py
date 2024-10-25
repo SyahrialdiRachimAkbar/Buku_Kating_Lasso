@@ -329,15 +329,15 @@ elif menu == "Senator":
 elif menu == "Departemen PSDA":
     def psda():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1Y18MxH3Wa6WtjEss223fxThZPi0DRi3v", # bg econ
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka abet
-            "https://drive.google.com/uc?export=view&id=1nVHHuU1VrcBeyScxi0TBxwZkctwM_NdF", # ka pipah
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka allya
-            "https://drive.google.com/uc?export=view&id=1nkbnr0mzDf4cKlCXpOxBmULP3HSVFSlF", # ka eksanty
-            "https://drive.google.com/uc?export=view&id=1nT7UG99x5e_aiF3NLFGztI_L7WimDdv5", # ka hanum
-            "https://drive.google.com/uc?export=view&id=1npaBh2Ih87rS95-PShzNhnUrrYLnSCDT", # bg ferdy 
-            "https://drive.google.com/uc?export=view&id=1o-1mMVYzYh9Wn2bn2R0R76k3xFDIHMmJ", # bg deri 
-            "https://drive.google.com/uc?export=view&id=1ngDQbKok2qNjER3LaKBNd1PDR0jN0KUr", # ka okta 
+            "https://drive.google.com/uc?export=view&id=12OXhsM2gPpsfrf3RBAqINajzUsWIc_tL", # bg econ
+            "https://drive.google.com/uc?export=view&id=1LQlbmVEac8aufnHuZuEVXsJNmkoylP6C", # ka abet
+            "https://drive.google.com/uc?export=view&id=18QJ9I579J0fnV_VgamrlvfpqH002GG7U", # ka pipah
+            "https://drive.google.com/uc?export=view&id=1oFCOEVwVAoh7PWpcjXzTwGwgQuhDS3lJ", # ka allya
+            "https://drive.google.com/uc?export=view&id=1xNvmDlXfQIPWnytP8OGjcyrK49yyNiVY", # ka eksanty
+            "https://drive.google.com/uc?export=view&id=1NtwSqb1jAvMNsntPjFhpg1ehOY69bCsz", # ka hanum
+            "https://drive.google.com/uc?export=view&id=10teQ3K0yIhajP_ePTvEkFwIzBY-mgkL0", # bg ferdy 
+            "https://drive.google.com/uc?export=view&id=1OC8iSq43i_VmYmVD4I2X5G8rzB3Bs0k5", # bg deri 
+            "https://drive.google.com/uc?export=view&id=1ymiQOVjGOWzlUtCAcwWwn3VoLGM6wz_c", # ka okta 
             "https://drive.google.com/uc?export=view&id=1fP7AvNLDzDV4g4x45ZGCBFKLU6hRQFTe", # bg deyvan
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
