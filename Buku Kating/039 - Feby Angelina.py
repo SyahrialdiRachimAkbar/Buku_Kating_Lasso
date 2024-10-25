@@ -309,7 +309,7 @@ elif menu == "Senator":
                 "hobi": "Nyanyi",
                 "sosmed": "@anissaluthfi_",
                 "kesan": "Keren banget kakanya",  
-                "pesan": "Lancar-lancar Kak kuliahnya "
+                "pesan": "Lancar-lancar Kak kuliahnya :)"
             },
             {
                 "nama": "Rian Bintang Wijaya",
@@ -320,14 +320,14 @@ elif menu == "Senator":
                 "hobi": "Dengerin Ka Luthfi bernyanyi",
                 "sosmed": "@bintangtwinkle",
                 "kesan": "keren abangnya jadi senator",  
-                "pesan": "Semoga lanjar terus kulianya bang  " # 1
+                "pesan": "Semoga lanjar terus kulianya bang :) " # 1
             },    
         ]
         display_images_with_data(gambar_urls, data_list)
     Senator()
-
+    
 elif menu == "Departemen PSDA":
-    def psda():
+    def Departemen_PSDA():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1npu72Bsy_AJepQ9ZbZ7mkdWFSEEJ0SnH", # bg econ 1
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka abet 2
@@ -546,7 +546,8 @@ elif menu == "Departemen PSDA":
                 "hobi": "Berenang",
                 "sosmed": "@jaclinaclcv_",
                 "kesan": "Wih hobbinya berenang",
-                "pesan": "Semoga ITERA punya kolam renang biar kakak bisa berenang ga jauh" # 18
+                "pesan": "Semoga ITERA punya kolam renang biar kakak bisa berenang ga jauh :)" # 18
+
             },
             {
                 "nama": "Rafly Prabu Darmawan",
@@ -556,9 +557,9 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobi": "Main Game",
                 "sosmed": "@raflyy_pd2684",
-                "kesan": "Asik abangnya",
+                "kesan": "Asikk abangnya",
                 "pesan": "Lancarr ya bang kuliahnya" # 19
             }
         ]
         display_images_with_data(gambar_urls, data_list)
-    psda()
+    Departemen_PSDA()
