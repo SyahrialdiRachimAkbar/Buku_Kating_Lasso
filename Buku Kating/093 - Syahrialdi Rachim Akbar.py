@@ -178,18 +178,18 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1EEnW8LCXloI2qa6VY58RPBOTMyQ32doC",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1q3kOpQHQM3xzzYgJGNN2VYGN5iAWISil",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1pqLgDeUzgKZl6eKqt6iII90a-9EoU5zm",
+            "https://drive.google.com/uc?export=view&id=1pwRXr-kXJ2m4apTHRHhI3nLEDc-uhXg6",
+            "https://drive.google.com/uc?export=view&id=1puIPfJqsdyjQ-N8xlg1gytXxj1UpCnmL",
+            "https://drive.google.com/uc?export=view&id=1pri01AMpL4L3XT7iJ194qoQklUZgwXjd",
+            "https://drive.google.com/uc?export=view&id=1px9B2FioCsfndeTtk4RXU2G4C0tpZzEB",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1q1akAhrE17lkkIEBlfXvSRPBmXZUScm7",
+            "https://drive.google.com/uc?export=view&id=1pz-rHDC4NqqTj58l82vDJuGQFxvBKjF6",
+            "https://drive.google.com/uc?export=view&id=1q0-5J1nK9WR60rkDJDowwhSqaj1WEVuI",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
@@ -214,6 +214,15 @@ elif menu == "Baleg":
                 "sosmed": "@annisacahyanisurya",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
+            },
+            {
+                "nama": "Wulan Sabina",
+                "nim": "121450150",
+                "umur": "21",
+                "asal": "Medan",
+                "alamat": "Jl Raden Saleh",
+                "hobi": "Belajar bersama pak tamaro",
+                "sosmed": "@wlsbn0",
             },
             {
                 "nama": "Anisa Dini Amalia",
@@ -322,17 +331,6 @@ elif menu == "Baleg":
                 "alamat": "Bandar Lampung",
                 "hobi": "-",
                 "sosmed": "@jeremia_s_",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
-            },
-            {
-                "nama": "Kakak DD",
-                "nim": "122450000",
-                "umur": "18",
-                "asal":"Bekasi",
-                "alamat": "Gg.sakum",
-                "hobi": "Mainn Bola, Belajar",
-                "sosmed": "@i",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"# 1
             },
