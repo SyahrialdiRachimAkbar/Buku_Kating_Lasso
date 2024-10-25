@@ -325,7 +325,10 @@ elif menu == "Senator":
         ]
         display_images_with_data(gambar_urls, data_list)
     Senator()
+<<<<<<< HEAD
     
+=======
+>>>>>>> main
 elif menu == "Departemen PSDA":
     def psda():
         gambar_urls = [
@@ -402,8 +405,13 @@ elif menu == "Departemen PSDA":
                 "alamat": "Rajabasa",
                 "hobi": "Ngeroasting orang",
                 "sosmed": "@eksantyfebriana",
+<<<<<<< HEAD
                 "kesan": "Kakaknya juga tegas",
                 "pesan": "Lancar kuliahnya kak" # 5
+=======
+                "kesan": " Kakaknya juga tegas  ",  
+                "pesan": " Lancar terus kuliahnya kakk " # 5
+>>>>>>> main
             },
             {
                 "nama": "Farahanum Afifah Ardiansyah",
@@ -561,6 +569,11 @@ elif menu == "Departemen PSDA":
             }
         ]
         display_images_with_data(gambar_urls, data_list)
+<<<<<<< HEAD
     psda()    
+=======
+    psda()
+
+>>>>>>> main
 
 
