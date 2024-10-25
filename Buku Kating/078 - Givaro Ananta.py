@@ -193,153 +193,111 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
-        data_list = [
+        data_list = [    
             {
                 "nama": "Tri Murniya Ningsih",
                 "nim": "121450038",
                 "umur": "21",
                 "asal":"Bogor",
-                "alamat": "Raden Saleh",
-                "hobi": "Searching di GPT",
-                "sosmed": "@trimurniyaa_",
-                "kesan": "kak Tri asik, humoris juga suka bercanda",  
-                "pesan":"semangat terus kakak cantik!"
+                "alamat": "Jl. Raden Saleh",
+                "hobi": "Searching GPT",
+                "sosmed": "@trimurniaa_",
+                "kesan": "Kakaknya ramah dan suka becanda",  
+                "pesan":"semangat semester 7 nya kak!"
             },
             {
                 "nama": "Annisa Cahyani Surya",
                 "nim": "121450114",
                 "umur": "21",
-                "asal":"Tangerang Selatan",
-                "alamat": "Wayhuwi",
-                "hobi": "Baca buku dan Nonton film.",
+                "asal":"Tanggerang Selatan",
+                "alamat": "Way Huwi",
+                "hobi": "Baca buku dan nonton film",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "kak Nisa baik hati terus asik",  
-                "pesan":"semangaat kakak!"# 1
+                "kesan": "Kakaknya asik",  
+                "pesan":"semangat semester 7 nya kak!"# 1
             },
             {
                 "nama": "Wulan Sabina",
                 "nim": "121450150",
                 "umur": "21",
                 "asal":"Medan",
-                "alamat": "Raden Saleh",
-                "hobi": "Belajar bersama Pak Tamaro.",
-                "sosmed": "@wlnsbn0",
-                "kesan": "senang bisa melakukan wawancara dengan kakak baleg satu ini",  
-                "pesan":"semangaat kakak!"# 1
+                "alamat": "Jl. Raden Saleh",
+                "hobi": "Belajar sama pak Tamaro",
+                "sosmed": "@wlsbn0",
+                "kesan": "Kakaknya asik",  
+                "pesan":"semangat semester 7 nya kak!"# 1
             },
             {
                 "nama": "Anisa Dini Amalia",
                 "nim": "121450081",
                 "umur": "20",
-                "asal":"Tangerang",
+                "asal": "Tangerang",
                 "alamat": "Jati Agung",
                 "hobi": "Ngobrol",
                 "sosmed": "@anisadini10",
-                "kesan": "kakak yang menyenangkan",  
-                "pesan":"semangat terus kuliahnya kakak!"# 1
-            },
-            {
-                "nama": "Berliana Enda Putri",
-                "nim": "122450065",
-                "umur": "20",
-                "asal":"Sumatera Barat",
-                "alamat": "WayHuwi",
-                "hobi": "Makeup, Nonton Podcast, Denger Musik, Gossip.",
-                "sosmed": "@berliyyanda",
-                "kesan": "kakak baleg yang asik dan menyenangkan!",  
-                "pesan":"semangaat semester 5 nya kak!"# 1
-            },
-            {
-                "nama": "Dhea Amelia",
-                "nim": "122450004",
-                "umur": "20",
-                "asal":"Solo",
-                "alamat": "Natar",
-                "hobi": "suka ditipu akun jual canva di shopee.",
-                "sosmed": "@_.dheamelia",
-                "kesan": "kakak nya asik suka bercanda",  
-                "pesan":"semangat menjalani perkuliahan kak!"# 1
+                "kesan": "Kakaknya asik",  
+                "pesan": "Semangat Kuliahnya kak"# 1
             },
             {
                 "nama": "Anisa Fitriyani",
                 "nim": "122450019",
                 "umur": "19",
-                "asal":"Batam",
+                "asal": "Batam",
                 "alamat": "Pesawaran",
-                "hobi": "Nonton drama korea.",
-                "sosmed": "@ansftynn_",
-                "kesan": "senang bisa kenal kakak karena ternyata kita satu smk dan satu jurusan!",  
-                "pesan":"semangat menjalani semester lima kakak erpeelku!"# 1
-            },
-            {
-                "nama": "Muhammad Fahrul Aditya",
-                "nim": "121450156",
-                "umur": "22",
-                "asal":"Surakarta",
-                "alamat": "Sukarame",
-                "hobi": "melukis, hiking, badminton dan berenang.",
-                "sosmed": "@fhrul.pdf",
-                "kesan": "abang baleg satu ini lumayan jarang bersuara nii",  
-                "pesan":"semangat selalu bang!"# 1
+                "hobi": "Nonton drakor",
+                "sosmed": "@ansftrynn_",
+                "kesan": "kakaknya asik",  
+                "pesan": "Semangat Kuliahnya kak"# 1
             },
             {
                 "nama": "Feryadi Yulius",
                 "nim": "122450087",
                 "umur": "20",
-                "asal":"Sumatera Selatan",
+                "asal": "Sumatera Selatan",
                 "alamat": "Way Kandis",
-                "hobi": "Baca Buku.",
-                "sosmed": "@fr_yulius",
-                "kesan": "bang fery pendiam tapi sering ketawa",  
-                "pesan":"semangat semester 5 nya yaa bang!"# 1
+                "hobi": "Baca buku",
+                "sosmed": "@fer_yulius",
+                "kesan": "abangnya asik, tapi keliatan jail",  
+                "pesan": "Semangat Kuliahnya bang"# 1
             },
             {
-                "nama": "",
-                "nim": "",
-                "umur": "",
-                "asal":"",
-                "alamat": "",
-                "hobi": ".",
-                "sosmed": "@",
-                "kesan": "",  
-                "pesan":""# 1
+                "nama": "Dhea Amelia Putri",
+                "nim": "122450004",
+                "umur": "20",
+                "asal": "Solo",
+                "alamat": "Natar",
+                "hobi": "Suka ditipu sama penjual akun canva premium di shopee",
+                "sosmed": "@_.dheamelia",
+                "kesan": "kakaknya asik",  
+                "pesan": "Semangat Kuliahnya kak"# 1
             },
             {
-                "nama": "",
-                "nim": "",
-                "umur": "",
-                "asal":"",
-                "alamat": "",
-                "hobi": ".",
-                "sosmed": "@",
-                "kesan": "",  
-                "pesan":""# 1
+                "nama": "Muhammad Fahrul Aditya",
+                "nim": "121450156",
+                "umur": "22",
+                "asal": "Surakarta, Jawa Tengah",
+                "alamat": "Sukarame",
+                "hobi": "Badminton, melukis, hiking, dan berenang",
+                "sosmed": "@fhrul.pdf",
+                "kesan": "Abangnya keliatan kalem",  
+                "pesan": "Semangat Kuliahnya bang"# 1
             },
             {
-                "nama": "",
-                "nim": "",
-                "umur": "",
-                "asal":"",
-                "alamat": "",
-                "hobi": ".",
-                "sosmed": "@",
-                "kesan": "",  
-                "pesan":""# 1
-            },
-            {
-                "nama": "",
-                "nim": "",
-                "umur": "",
-                "asal":"",
-                "alamat": "",
-                "hobi": ".",
-                "sosmed": "@",
-                "kesan": "",  
-                "pesan":""# 1
+                "nama": "Berliana Enda Putri",
+                "nim": "122450065",
+                "umur": "20",
+                "asal": "Sumatera Barat",
+                "alamat": "Way Huwi",
+                "hobi": "Make up, nonton podcast, dan dengerin musik",
+                "sosmed": "@berlyyanda",
+                "kesan":" kakaknya asik ",  
+                "pesan": "Semangat semester 7 nya kak"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
+
+
 
 
 # Tambahkan menu lainnya sesuai kebutuhan
