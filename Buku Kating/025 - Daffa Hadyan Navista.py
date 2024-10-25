@@ -1306,16 +1306,16 @@ elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg andrian
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka disty
+            "https://drive.google.com/uc?export=view&id=1yiwJTM98oCV6jxyfN5al_K8LUIQ2VKqy", # ka disty
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka nabila
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg ahmad rizqi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg danang
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg farel
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka tesa
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka nabilah
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka alvia
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg dhafin
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka elia
+            "https://drive.google.com/uc?export=view&id=1yg-a330XI4n8Ji-z88inKefqmjGTa_6k", # bg ahmad rizqi
+            "https://drive.google.com/uc?export=view&id=1yaWIbyK5LCwenndmS2utubA8NNtySsWk", # bg danang
+            "https://drive.google.com/uc?export=view&id=1yfmxNUSe4JQmG-6dBmKhRykHkXEVvL1U", # bg farel
+            "https://drive.google.com/uc?export=view&id=1yisseBI8Dbbi8qJvPHQUTEjUHONzyRfP", # ka tesa
+            "https://drive.google.com/uc?export=view&id=1yh5i9dxDPFsrcWvouC9R5pUdJyJzcrox", # ka nabilah
+            "https://drive.google.com/uc?export=view&id=1yiuiccEkuzPzrQf-FRPHmhVnvEo7wHqp", # ka alvia
+            "https://drive.google.com/uc?export=view&id=1yq27j5XTvQpLpudLOYeIFmVyA4NEm-Ro", # bg dhafin
+            "https://drive.google.com/uc?export=view&id=1yi0pKBNogYcs-9O-PtDrQTCCnqEMCDcI", # ka elia
         ]
         data_list = [
             {
@@ -1326,8 +1326,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Jl. Bel",
                 "hobi": "Mencari Uang",
                 "sosmed": "@andriangaol",
-                "kesan": "  ",  
-                "pesan": "semangat dalam segala hal bang yogyy, semakin didepan pokoknya" # 1
+                "kesan": " bang adrian berwibawa berilmu keren emang abang ini gacorrlah",  
+                "pesan": "semangat dalam segala hal bang andrian" # 1
             },
             {
                 "nama": "Adisty Syawaida Ariyanto",
@@ -1337,8 +1337,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Sukarame",
                 "hobi": "Nonton film",
                 "sosmed": "@adistysa_",
-                "kesan": "  ",  
-                "pesan": "semangat dalam segala hal bang raply" # 2
+                "kesan": " kakak cantik baik kerenlah gacorrlah",  
+                "pesan": "semangat dalam segala hal kak adisty" # 2
             },
             {
                 "nama": "Nabila Azhari",
@@ -1348,8 +1348,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobi": "Menghitung Uang",
                 "sosmed": "@zhjung",
-                "kesan": "  ",  
-                "pesan": "semangat dalam segala hal bang raply"  # 3
+                "kesan": " kakanya baik banget cantik keren gacorrlah",  
+                "pesan": "semangat dalam segala hal kak bila"  # 3
             },
             {
                 "nama": "Ahmad Rizqi",
@@ -1359,8 +1359,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobi": "Jualan",
                 "sosmed": "@ahmad.riz45",
-                "kesan": "  ",  
-                "pesan": "semangat dalam segala hal bang yogyy, semakin didepan pokoknya" # 4
+                "kesan": " abang abang keren cool banget ini ",  
+                "pesan": "semangat dalam segala hal bang rizqi" # 4
             },
             {
                 "nama": "Danang Hilal Kurniawan",
@@ -1370,7 +1370,7 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobi": "Membaca",
                 "sosmed": "@dananghk_",
-                "kesan": "  ",  
+                "kesan": " abang keren dan gaul satu ini suka jualan keknya ini langsung ditawarin stiker ama ganci ",  
                 "pesan": "semangat dalam segala hal bang danang" # 5
             },
             {
@@ -1381,7 +1381,7 @@ elif menu == "Departemen SSD":
                 "alamat": "Lapas",
                 "hobi": "Bebas",
                 "sosmed": "@farel_julio",
-                "kesan": "  ",  
+                "kesan": " beuh inimah abang capo keren saya ini berwibawa kacau gacorrlah ",  
                 "pesan": "semangat dalam segala hal bang farel"# 6
             },
             {
@@ -1392,7 +1392,7 @@ elif menu == "Departemen SSD":
                 "alamat": "Pemda",
                 "hobi": "Menulis",
                 "sosmed": "@tesakanias",
-                "kesan": "  ",  
+                "kesan": " kakak cantik baik kerenlah gacorrlah ",  
                 "pesan": "semangat dalam segala hal kak tesa" # 7
             },
             {
@@ -1414,7 +1414,7 @@ elif menu == "Departemen SSD":
                 "alamat": "Korpri",
                 "hobi": "Nonton Windah",
                 "sosmed": "@alviaginting",
-                "kesan": "  ",  
+                "kesan": " kakak cantik baik dan suka menabung sepertinya ",  
                 "pesan": "semangat dalam segala hal kak alvia" # 9
             },
             {
@@ -1425,7 +1425,7 @@ elif menu == "Departemen SSD":
                 "alamat": "Jl. Nangka l",
                 "hobi": "Tidur",
                 "sosmed": "@dhafinrzqa13",
-                "kesan": "  ",  
+                "kesan": " kakak pintar baik kerenlah pokoknaa ",  
                 "pesan": "semangat dalam segala hal bang dhafin" # 10
             },
             {
@@ -1436,7 +1436,7 @@ elif menu == "Departemen SSD":
                 "alamat": "Korpri",
                 "hobi": "Badminton",
                 "sosmed": "@meylanielia",
-                "kesan": "  ",  
+                "kesan": " kakanya ceria abiss , gaul cantik beuh gacor nian inimah  ",  
                 "pesan": "semangat dalam segala hal kak elia" # 11
             },
         ]
