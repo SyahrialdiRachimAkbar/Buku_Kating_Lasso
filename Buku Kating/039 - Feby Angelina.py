@@ -325,6 +325,10 @@ elif menu == "Senator":
         ]
         display_images_with_data(gambar_urls, data_list)
     Senator()
+<<<<<<< HEAD
+# Tambahkan menu lainnya sesuai kebutuhan
+
+=======
 
 elif menu == "Departemen PSDA":
     def psda():
@@ -562,3 +566,4 @@ elif menu == "Departemen PSDA":
         ]
         display_images_with_data(gambar_urls, data_list)
     psda()
+>>>>>>> 5fd244ceea4ec06f2e604c5eea2b01fe01b48e61
