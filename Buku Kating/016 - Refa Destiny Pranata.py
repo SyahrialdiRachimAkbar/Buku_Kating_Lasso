@@ -113,8 +113,8 @@ if menu == "Kesekjenan":
                 "alamat": "Jl.Pulau Damar, Tanjung Senang",
                 "hobi": "kuliah-rapat, dengerin lagu",
                 "sosmed": "@gumilangkharisma",
-                "kesan": "Terlihat kepemimpinannya keren",  
-                "pesan":"semoga nambah keren bang !!!"# 1
+                "kesan": "Terlihat kepemimpinannya yang keren",  
+                "pesan":"semoga nambah keren dan diperlancar segala urusannya"# 1
             },
             {
                 "nama": "Pandra Insani Putra Azwar",
