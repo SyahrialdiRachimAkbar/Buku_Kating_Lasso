@@ -180,17 +180,17 @@ elif menu == "Baleg":
     def baleg():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1kUbZ-vm1mt2cZRMv2srOWCzhF7Wt_pGq",
+            "https://drive.google.com/uc?export=view&id=1gD1crrADI1ISmQmYjqV8CtnNeqncK_Lj",
+            "https://drive.google.com/uc?export=view&id=1OVb03i_cK70Gqr4XKkDROG6QbOzOzeK8",
+            "https://drive.google.com/uc?export=view&id=1DBzq-QeMN8ccdPhHbA025VP63RulXIRK",
+            "https://drive.google.com/uc?export=view&id=1ua6w_GnDRpo_JZ2M5lEgQxip2ZtuxqNp",
+            "https://drive.google.com/uc?export=view&id=1ocykMHRsQY46ycYsic45GKNAI24XSQZt",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1rjwhwjffpMHvghsBbSgJyIb7py3v0OMB",
+            "https://drive.google.com/uc?export=view&id=1gmHlil4bQclDCWzsiR-_69745n-we7As",
+            "https://drive.google.com/uc?export=view&id=15R6zgyTBEczvb74Ncqo6WvWOCcxIyxMy",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
