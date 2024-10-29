@@ -334,20 +334,20 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=12HJCm4AlV-J-l_gKZN8UsM_SLCJHa7IN", # ka pipah 3
             "https://drive.google.com/uc?export=view&id=1Ymy6bNP9ASwawvjjec7xBpLtodDrFBV3", # ka allya 4 (link diganti)
             "https://drive.google.com/uc?export=view&id=1Gj4N-yWljn4aiCCVPEX64R8tpJuyjnkk", # ka eksanty 5
-            "https://drive.google.com/uc?export=view&id=1nT7UG99x5e_aiF3NLFGztI_L7WimDdv5", # ka hanum 6
-            "https://drive.google.com/uc?export=view&id=1npaBh2Ih87rS95-PShzNhnUrrYLnSCDT", # bg ferdy 7
-            "https://drive.google.com/uc?export=view&id=1o-1mMVYzYh9Wn2bn2R0R76k3xFDIHMmJ", # bg deri 8
-            "https://drive.google.com/uc?export=view&id=1ngDQbKok2qNjER3LaKBNd1PDR0jN0KUr", # ka okta 9
-            "https://drive.google.com/uc?export=view&id=1n5W-Y1roXM0aTOlmpntXWq2gQMTvnJkZ", # bg deyvan 10
-            "https://drive.google.com/uc?export=view&id=1n5xlW1n_4hkw5dz8Fwdwrjme6hot1ODz", # bg jo 11
-            "https://drive.google.com/uc?export=view&id=1nPLglQ44Mofcx_pzhUUPTepQKMkOH6Kx", # bg kemas 12
-            "https://drive.google.com/uc?export=view&id=1nC5BcpEJ8bkxlhgOPAwW2Gyv_oMB12vg", # ka presilia 13
-            "https://drive.google.com/uc?export=view&id=1nM-nvwvXWs77-VoNISX6Y1uoX8k2PkG9", # ka aqila 14
-            "https://drive.google.com/uc?export=view&id=1n6FwogQ-E1GrzLrE0BEOD8sumrwXTY9j", # bg sahid 15
-            "https://drive.google.com/uc?export=view&id=1nUh9vyaId4z8OVWkGWU5ZzP0Eznxt9lg", # bg ateng 16
-            "https://drive.google.com/uc?export=view&id=1nNkycHEtdBBKF4bxY9ni0IA3le-fhWuE", # bg gede 17
-            "https://drive.google.com/uc?export=view&id=1nXh8G3m2DRiyuL3WL47hIDejS-xJhWDN", # ka jaclin 18
-            "https://drive.google.com/uc?export=view&id=1nSjN_lLPgB9Udkjh59TFXLc3Rla8HZdx", # bg rafly 19
+            "https://drive.google.com/uc?export=view&id=1OeBz9lIGsf866YwAXDEvE2R4_WtnoO5d", # ka hanum 6
+            "https://drive.google.com/uc?export=view&id=1wBJCnA0Eldt4Z6dp6ulSnkVlKtkPONX7", # bg ferdy 7
+            "https://drive.google.com/uc?export=view&id=1y8Om8NVMyvJhkB_Ax2P7pCIIlvhgTaFC", # bg deri 8
+            "https://drive.google.com/uc?export=view&id=1nuOLP6mfTYfBtqHO66-BsBajnpojmnfEr", # ka okta 9
+            "https://drive.google.com/uc?export=view&id=18q91sn8UXlAwfYQXEEI635g3deA3kp1H", # bg deyvan 10
+            "https://drive.google.com/uc?export=view&id=12JqZYxre6iVWbL3iUpmj2odaDkLThaX5", # bg jo 11
+            "https://drive.google.com/uc?export=view&id=1YHr3SIwvh9Lqh9f6BW0SzUr7_bziiizE", # bg kemas 12
+            "https://drive.google.com/uc?export=view&id=1CcbP5blvuQmdspOv7lb4sHGClcz7Rna_", # ka presilia 13
+            "https://drive.google.com/uc?export=view&id=1YgSBT0Snqoy7eskI6kp6EhIsJQPdIzyv", # ka aqila 14
+            "https://drive.google.com/uc?export=view&id=12k8u8w25Z0YfF10JCA1sVbhuNYeTOPy2", # bg sahid 15
+            "https://drive.google.com/uc?export=view&id=1o0vtJLsII0jmNx4D2_Brfs9JoDX2YF2y", # bg ateng 16
+            "https://drive.google.com/uc?export=view&id=1xYNoYUaJoQA8FDfIGx5jJ4KslNlRIHAl", # bg gede 17
+            "https://drive.google.com/uc?export=view&id=1icubbsC-gK3lhqKzrMZQD0Zof5X7sj0T", # ka jaclin 18
+            "https://drive.google.com/uc?export=view&id=1nJdFmTzmTP4U8Pvlh-lyX2H5tB990eGz", # bg rafly 19
         ]
         data_list = [
             {
