@@ -337,7 +337,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1OeBz9lIGsf866YwAXDEvE2R4_WtnoO5d", # ka hanum 6
             "https://drive.google.com/uc?export=view&id=1wBJCnA0Eldt4Z6dp6ulSnkVlKtkPONX7", # bg ferdy 7
             "https://drive.google.com/uc?export=view&id=1y8Om8NVMyvJhkB_Ax2P7pCIIlvhgTaFC", # bg deri 8
-            "https://drive.google.com/uc?export=view&id=1nuOLP6mfTYfBtqHO66-BsBajnpojmnfEr", # ka okta 9
+            "https://drive.google.com/uc?export=view&id=1nuOLP6mfTYfBtqHO66-BsBajnpojmnfE", # kak okta 
             "https://drive.google.com/uc?export=view&id=18q91sn8UXlAwfYQXEEI635g3deA3kp1H", # bg deyvan 10
             "https://drive.google.com/uc?export=view&id=12JqZYxre6iVWbL3iUpmj2odaDkLThaX5", # bg jo 11
             "https://drive.google.com/uc?export=view&id=1YHr3SIwvh9Lqh9f6BW0SzUr7_bziiizE", # bg kemas 12
