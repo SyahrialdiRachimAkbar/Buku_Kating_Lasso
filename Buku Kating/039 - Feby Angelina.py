@@ -711,7 +711,7 @@ elif menu == "Departemen MIKFES" :
                 "hobi": "Main Game",
                 "sosmed": "@sudo.syahrulramadhannn",
                 "kesan": "Unik banget namanya",  
-                "pesan": "Semoga Happy terus bang" # 12
+                "pesan": "Semoga kuliahnya berjalan dengan lancar" # 12
             },
             {
                 "nama": "Randa Andriana Putra",
