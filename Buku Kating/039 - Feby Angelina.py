@@ -722,7 +722,7 @@ elif menu == "Departemen MIKFES"
                 "hobi": "Tidur dan Berkembang",
                 "sosmed": "@randaandriana_",
                 "kesan": "sepetinya abangnya baik",  
-                "pesan": "Semoga kuliahnya berjalan dengan lancar terus" # 13
+                "pesan": "Semoga kuliahnya berjalan dengan baik" # 13
             },
         ]
         display_images_with_data(gambar_urls, data_list)
