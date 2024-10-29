@@ -19,7 +19,8 @@ def streamlit_menu():
             "Departemen MIKFES",
             "Departemen Eksternal",
             "Departemen Internal",
-            "Departemen SSD",
+            "Departemen SSD"
+            "Departemen MEDKRAF,
         ],
         icons=[
             "people-fill",
@@ -85,7 +86,7 @@ def display_images_with_data(gambar_urls, data_list):
             st.write(f"Umur: {data_list[i]['umur']}")
             st.write(f"Asal: {data_list[i]['asal']}")
             st.write(f"Alamat: {data_list[i]['alamat']}")
-            st.write(f"hobi: {data_list[i]['hobi']}")
+            st.write(f"Hobi: {data_list[i]['hobi']}")
             st.write(f"Sosial Media: {data_list[i]['sosmed']}")
             st.write(f"Kesan: {data_list[i]['kesan']}")
             st.write(f"Pesan: {data_list[i]['pesan']}")
