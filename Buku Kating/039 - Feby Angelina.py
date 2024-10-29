@@ -563,7 +563,7 @@ elif menu == "Departemen PSDA":
         ]
         display_images_with_data(gambar_urls, data_list)
     Departemen_PSDA()
-elif menu == "Departemen MIKFES"
+elif menu == "Departemen MIKFES" :
     def mikfes():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1g2J5sFvt954AzixFnLhb9Q51W686ypgY", # bg rafi 1
