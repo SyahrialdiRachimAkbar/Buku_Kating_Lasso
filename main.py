@@ -64,7 +64,7 @@ Mahasiswa11 = st.Page(
     icon=":material/person:",
 )
 Mahasiswa12 = st.Page(
-    "Buku Kating/114 - Desman Velius Halawa",
+    "Buku Kating/114 - Desman Velius Halawa.py",
     title="114 - Desman Velius Halawa",
     icon=":material/person:",
 )
