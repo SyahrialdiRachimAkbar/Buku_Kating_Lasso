@@ -392,9 +392,9 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1gnLGhKbllJNo5_75lchcIBrmu6dNMgns", # bg kemas
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg leon
             "https://drive.google.com/uc?export=view&id=1gmCypqS5CB9SwcZ3Omo2TJXV8FclQFgN", # ka presilia
-            "https://drive.google.com/uc?export=view&id=1nM-nvwvXWs77-VoNISX6Y1uoX8k2PkG9", # ka aqila
+            "https://drive.google.com/uc?export=view&id=1gsrbvd6ICLlzKrSYsRoOFnKZxkJuX0gr", # ka aqila
             "https://drive.google.com/uc?export=view&id=1gxvmbrD7DZAlVbvZA7mh3FDVfzL2dC46", # bg sahid
-            "https://drive.google.com/uc?export=view&id=1gsrbvd6ICLlzKrSYsRoOFnKZxkJuX0gr", # ka vanes
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka vanes
             "https://drive.google.com/uc?export=view&id=1gacXO0jEJucLssnnIk6PTfEONHhNHxw_", # bg ateng
             "https://drive.google.com/uc?export=view&id=1ggM_uXpwFucYQ2rFVDQSK5MdrrBEBetg", # bg gede
             "https://drive.google.com/uc?export=view&id=1gisg9DkZDjMMESSzEAhiFRB3CDnyiu3S", # ka jaclin
@@ -662,26 +662,26 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg rafi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka anova
+            "https://drive.google.com/uc?export=view&id=1j3_S4gb7KoV15WANbGxcXLjU-knGHCb_", # bg rafi
+            "https://drive.google.com/uc?export=view&id=1jSjbMdy5Q1lNO0S-tTApL-dU_mkHrWWJ", # ka anova
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg mujadid
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ahmad sahidin
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg fadhil
+            "https://drive.google.com/uc?export=view&id=1j4GhNrK0HmHCM1ehBkg0U1u_228CHyuV", # ahmad sahidin
+            "https://drive.google.com/uc?export=view&id=1jKsigV3tD8sdQI23UQq7N-14-lxqJPbF", # bg fadhil
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg regi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka syalasisha dina
+            "https://drive.google.com/uc?export=view&id=1jMNE5-gIzKtTvESp93LvhQjzRk8FagCe", # ka syalasisha dina
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg natanael
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg anwar
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka deva
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka dinda
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka marleta
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka rut
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka syadza
+            "https://drive.google.com/uc?export=view&id=1jfBxdiM4vfAMXCPwheLFJ_1sUmoknNLI", # ka dinda
+            "https://drive.google.com/uc?export=view&id=1jRRde3vKDx8nnOyBQMWQ_0XA-cj9Nzoj", # ka marleta
+            "https://drive.google.com/uc?export=view&id=1jqqE8EZHRVhh3UO2Gzvmgnqy4sRKM4Px", # ka rut
+            "https://drive.google.com/uc?export=view&id=1jnvwnXNYBMEluHHUrgYHwoedn1nMmXdW", # ka syadza
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg abdurrahman
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg aditya
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg eggi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka febiya
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg happy
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg randa
+            "https://drive.google.com/uc?export=view&id=1j2XHC2PLhbGMX7Rchf6kR0kRzUN0YnWt", # bg eggi
+            "https://drive.google.com/uc?export=view&id=1jl4bVRp_d_1czIkMdbuISrHNDmnzJlJ5", # ka febiya
+            "https://drive.google.com/uc?export=view&id=1j8Ie_FuCyYtcWIRhS92sIr7drgy0jDqK", # bg happy
+            "https://drive.google.com/uc?export=view&id=1jHXnsdalawBH6r4-7oibZAuFJ-vcVBqB", # bg randa
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka vita
         ]
         data_list = [
@@ -693,7 +693,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl. Nangka 4",
                 "hobi": "Olahraga",
                 "sosmed": "@rafadhilillahh13",
-                "kesan": "Kece banget bang dan pastinya seruu",  
+                "kesan": "Seru bangett dan mengayomi",  
                 "pesan": "Semoga segala urusannya diperlancar dan semangattt bang untuk semuanya!" # 1
             },
             {
@@ -737,7 +737,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Teluk Betung",
                 "hobi": "Main Game",
                 "sosmed": "@fadhilfwee",
-                "kesan": "Seruu, ramah, dan asik",  
+                "kesan": "Bikin ngakak dan kece abis",  
                 "pesan": "Semoga segala urusannya diperlancar dan semangattt bang untuk semuanya!" # 5
             },
             {
@@ -836,7 +836,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Belwis",
                 "hobi": "Resume SG",
                 "sosmed": "@puspadrr",
-                "kesan": "Kalemmm bangett dan pendiemm",  
+                "kesan": "Lucuuu dan kalem bangettt",  
                 "pesan": "Semoga segala urusannya diperlancar dan semangattt kak untuk semuanya!" # 14
             },
             {
@@ -869,7 +869,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Korpri",
                 "hobi": "Ngoding WISATA",
                 "sosmed": "@egistr",
-                "kesan": "Seru bangettt banggg",  
+                "kesan": "Seru bangettt banggg eggii",  
                 "pesan": "Semoga segala urusannya diperlancar dan semangattt bang untuk semuanya!" # 17
             },
             {
@@ -880,7 +880,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Jl Kelengkeng Raya",
                 "hobi": "Review Jurnal",
                 "sosmed": "@pratiwifebiya",
-                "kesan": "Cantik yang diemm gituu",  
+                "kesan": "Cantik bangett kakkkk",  
                 "pesan": "Semoga segala urusannya diperlancar dan semangattt kak untuk semuanya!" # 18
             },
             {
@@ -923,26 +923,26 @@ elif menu == "Departemen MIKFES":
 elif menu == "Departemen Eksternal":
     def eksternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg yogy
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka dhita
+            "https://drive.google.com/uc?export=view&id=1khUCZ87FqccJ1ZTg2mr_HWGl8YAAzGz5", # bg yogy
+            "https://drive.google.com/uc?export=view&id=1k_HW7y8G_tAKBOLMz0aOWijGkByjkqy3", # ka dhita
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka nazwa
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg bastian
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka dea mutia
+            "https://drive.google.com/uc?export=view&id=1kxCPxEdyrjN0uhNz4Xab2N3V0o2CzoWO", # ka dea mutia
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka ester
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka natasya
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka novelia
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka ratu
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg tobias
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka yo
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg rizky
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg arafi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka asa
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka chalifia
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg irvan
+            "https://drive.google.com/uc?export=view&id=1l2Q43tPBFZoy4Kpgk6-hkNDPosMazA6E", # ka novelia
+            "https://drive.google.com/uc?export=view&id=1kFF-dcHVRGK6P-i3ZqkOHrqAogsCtz5B", # ka ratu
+            "https://drive.google.com/uc?export=view&id=1l4MG3hK6CEDkP3zxFo4hBaiCJbFHz-xT", # bg tobias
+            "https://drive.google.com/uc?export=view&id=1kJ7oKqD1gXxjXXmw-apJQzc2mZbhjZx7", # ka yo
+            "https://drive.google.com/uc?export=view&id=1l5OmjPy8w8RSHqyo2VpawBBkvgYxVTfi", # bg rizky
+            "https://drive.google.com/uc?export=view&id=1ktJh2s8da2glmhyL8ZhVihgwt5L08k1E", # bg arafi
+            "https://drive.google.com/uc?export=view&id=1kqe9Okgnx5welx1bOE1foXYs0iMwCgp4", # ka asa
+            "https://drive.google.com/uc?export=view&id=1kTaCNvr7mofF0MFUaP1FOJz-945_g7GU", # ka chalifia
+            "https://drive.google.com/uc?export=view&id=1ksmVuBjdAtbkrAXgu9zU2DZq_6gV8hJv", # bg irvan
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka izza
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka khaalishah
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg raid
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka tria
+            "https://drive.google.com/uc?export=view&id=1kwZJ3BIU81AzjKXHI2sbJY9QHB3hIeg5", # ka khaalishah
+            "https://drive.google.com/uc?export=view&id=1kY2_rsy3lve_3WW30Ui2ggltEQpFlaa8", # bg raid
+            "https://drive.google.com/uc?export=view&id=1kvZzGbPLQCvGqDv780OxZQKM1i0c5XwA", # ka tria
         ]
         data_list = [
             {
@@ -951,7 +951,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "79",
                 "asal": "Tangerang",
                 "alamat": "Lampung Selatan",
-                "hobbi": "Nyari Hotwils",
+                "hobi": "Nyari Hotwils",
                 "sosmed": "@yogyyyyyyy",
                 "kesan": "seruuu banggg dan banyak becanda",  
                 "pesan": "Semoga kuliahnya dilancarin dan semangat teruss!!" # 1
@@ -962,7 +962,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21",
                 "asal": "Bandar Lampung",
                 "alamat": "Rajabasa",
-                "hobbi": "Jalan - Jalan",
+                "hobi": "Jalan - Jalan",
                 "sosmed": "@ramadhitaatifa",
                 "kesan": "Cantik bangett dan baikkk",  
                 "pesan": "Semoga kuliahnya dilancarin dan semangat teruss!!" # 2
@@ -973,7 +973,7 @@ elif menu == "Departemen Eksternal":
                 "umur": " ",
                 "asal": " ",
                 "alamat": " ",
-                "hobbi": " ",
+                "hobi": " ",
                 "sosmed": "@",
                 "kesan": "  ",  
                 "pesan": "  " # 3
@@ -984,7 +984,7 @@ elif menu == "Departemen Eksternal":
                 "umur": " ",
                 "asal": " ",
                 "alamat": " ",
-                "hobbi": " ",
+                "hobi": " ",
                 "sosmed": "@",
                 "kesan": "  ",  
                 "pesan": "  " # 4
@@ -995,7 +995,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Sumatera Barat",
                 "alamat": "Korpri",
-                "hobbi": "Nerbitin Jurnal",
+                "hobi": "Nerbitin Jurnal",
                 "sosmed": "@deaa.rsn",
                 "kesan": "seruuu bangett pastinyaa dan lucuuu",  
                 "pesan": "Semoga kuliahnya dilancarin dan semangat teruss!!" # 5
@@ -1006,7 +1006,7 @@ elif menu == "Departemen Eksternal":
                 "umur": " ",
                 "asal": " ",
                 "alamat": " ",
-                "hobbi": " ",
+                "hobi": " ",
                 "sosmed": "@",
                 "kesan": "  ",  
                 "pesan": "  " # 6
@@ -1017,7 +1017,7 @@ elif menu == "Departemen Eksternal":
                 "umur": " ",
                 "asal": " ",
                 "alamat": " ",
-                "hobbi": " ",
+                "hobi": " ",
                 "sosmed": "@",
                 "kesan": "  ",  
                 "pesan": "  " # 7
@@ -1028,7 +1028,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21",
                 "asal": "Jakarta",
                 "alamat": "Belwis",
-                "hobbi": "Tidur",
+                "hobi": "Tidur",
                 "sosmed": "@nvliaadinda",
                 "kesan": "namanya cantik banget kak kaya orangnya",  
                 "pesan": "Semoga kuliahnya dilancarin dan semangat teruss!!" # 8
@@ -1039,7 +1039,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Bogor",
                 "alamat": "Way Kandis",
-                "hobbi": "Planning konten",
+                "hobi": "Planning konten",
                 "sosmed": "@jasminednva",
                 "kesan": "Cantik banget, imutt, ramah, seruuu",  
                 "pesan": "Semoga kuliahnya dilancarin dan semangat teruss!!" # 9
@@ -1050,7 +1050,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Jakarta Selatan",
                 "alamat": "Pemda",
-                "hobbi": "Membaca",
+                "hobi": "Membaca",
                 "sosmed": "@tobiassiagian",
                 "kesan": "Menyenangkann karena asik bangett",  
                 "pesan": "Semoga kuliahnya dilancarin dan semangat teruss!!" # 10
@@ -1061,7 +1061,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Sumatera Utara",
                 "alamat": "Belwis",
-                "hobbi": "Buat Jurnal",
+                "hobi": "Buat Jurnal",
                 "sosmed": "@yo_annamnk",
                 "kesan": "Ka Yo ramahhh dan seruuuu",  
                 "pesan": "Semoga kuliahnya dilancarin dan semangat teruss!!" # 11
@@ -1072,7 +1072,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21",
                 "asal": "Bekasi",
                 "alamat": "TVRI",
-                "hobbi": "Joget",
+                "hobi": "Joget",
                 "sosmed": "@rzkdrnnn",
                 "kesan": "Bikin ketawa dan seruuu",  
                 "pesan": "Semoga kuliahnya dilancarin dan semangat teruss!!" # 12
@@ -1083,7 +1083,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Depok",
                 "alamat": "Samping warjo",
-                "hobbi": "Sholat",
+                "hobi": "Sholat",
                 "sosmed": "@rafiramadhanmaulana",
                "kesan": "Kocakk banget apalagi hobinya sangat masyaAllah",  
                 "pesan": "Semoga kuliahnya dilancarin dan semangat teruss!!" # 13
@@ -1094,7 +1094,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Muara Enim",
                 "alamat": "Korpri",
-                "hobbi": "Cari ice breaking",
+                "hobi": "Cari ice breaking",
                 "sosmed": "@u_yippy",
                 "kesan": "Ka Uyi lucuuu bangettt dan baikk bangett",  
                 "pesan": "Semoga kuliahnya dilancarin dan semangat teruss!!"# 14
@@ -1105,7 +1105,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Padang",
                 "alamat": "Sukarame",
-                "hobbi": "Berbuat baik",
+                "hobi": "Berbuat baik",
                 "sosmed": "@chlfawww",
                 "kesan": "Keliatannya kalemm bangettt",  
                 "pesan": "Semoga kuliahnya dilancarin dan semangat teruss!!" # 15
@@ -1116,7 +1116,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "21",
                 "asal": "Sumatera Barat",
                 "alamat": "Sukarame",
-                "hobbi": "Nonton youtube, main ML",
+                "hobi": "Nonton youtube, main ML",
                 "sosmed": "@alfaritziirvan",
                 "kesan": "Baikkk bangettt dan seruuuu",  
                 "pesan": "Semoga kuliahnya dilancarin dan semangat teruss!!" # 16
@@ -1127,7 +1127,7 @@ elif menu == "Departemen Eksternal":
                 "umur": " ",
                 "asal": " ",
                 "alamat": " ",
-                "hobbi": " ",
+                "hobi": " ",
                 "sosmed": "@",
                 "kesan": "  ",  
                 "pesan": "  " # 17
@@ -1138,7 +1138,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Bandar Lampung",
                 "alamat": "Lampung",
-                "hobbi": "Tilawah Al-quran",
+                "hobi": "Tilawah Al-quran",
                 "sosmed": "@alyaavanevi",
                 "kesan": "Seruu bangett dan ramahh",  
                 "pesan": "Semoga kuliahnya dilancarin dan semangat teruss!!"# 18
@@ -1149,7 +1149,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Lampung Tengah",
                 "alamat": "Sukarame",
-                "hobbi": "Ikut seminar",
+                "hobi": "Ikut seminar",
                 "sosmed": "@rayths_",
                 "kesan": "Paling diem diantara yang lain tapi asikkk",  
                 "pesan": "Semoga kuliahnya dilancarin dan semangat teruss!!" # 19
@@ -1160,7 +1160,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Bogor",
                 "alamat": "Pemda",
-                "hobbi": "Sholawat",
+                "hobi": "Sholawat",
                 "sosmed": "@tria_y062",
                 "kesan": "Kocakk parahh dan suka becandaa",  
                 "pesan": "Semoga kuliahnya dilancarin dan semangat teruss!!" # 20
@@ -1172,20 +1172,20 @@ elif menu == "Departemen Eksternal":
 elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg dim
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka catherine
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg akbar
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka rani
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg rendra
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka salwa
+            "https://drive.google.com/uc?export=view&id=1fs1QnfSmn4ZLvUxFPZA9V5jXP1kDzc4H", # bg dim
+            "https://drive.google.com/uc?export=view&id=1g8jzLEAEIGlQLS_wQXHzgXLCZEmBlfKZ", # ka catherine
+            "https://drive.google.com/uc?export=view&id=1fr8WzJrlnm3-frQQlObEaoNLNUx_RRxT", # bg akbar
+            "https://drive.google.com/uc?export=view&id=1fqBBafIlqZaBrdAZSEDsiyJRrOMjprWA", # ka rani
+            "https://drive.google.com/uc?export=view&id=1fmmrsFvBLrVo5615ddJvzdWyUzAWSdRy", # bg rendra
+            "https://drive.google.com/uc?export=view&id=1fkaRqDwsGxSL3iho9mvukI-6NbT0ogDF", # ka salwa
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka yosia
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg ari
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka azizah
+            "https://drive.google.com/uc?export=view&id=1g2EJZRdmlr5US1VqUsoKPbEKA878eMmR", # bg ari
+            "https://drive.google.com/uc?export=view&id=1g9NgSLK4r7gOYt_yDa_g98RQTx-DE5zS", # ka azizah
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka dearni
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka meira
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg rendi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka renta
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg josua
+            "https://drive.google.com/uc?export=view&id=1gAd5sHY0-OCc3ILgFJwQvgT1E6rZhZp0", # ka meira
+            "https://drive.google.com/uc?export=view&id=1gBThSf4xBoavR4YPKj2tRTxNljvjGLsK", # bg rendi
+            "https://drive.google.com/uc?export=view&id=1l6Da2DztvW62M4AfGA0gTWCGp6-fjDHn", # ka renta
+            "https://drive.google.com/uc?export=view&id=1g2LgaJjT2p3zDoWSskNH7ejP52zvLedR", # bg josua
         ]
         data_list = [
             {
@@ -1194,7 +1194,7 @@ elif menu == "Departemen Internal":
                 "umur": "20",
                 "asal": "Tangerang Selatan",
                 "alamat": "Way Kandis (Kobam)",
-                "hobbi": "Nangkep bulu babi",
+                "hobi": "Nangkep bulu babi",
                 "sosmed": "@dimzrky_",
                 "kesan": "Kocakk bangett, suka bikin candaan, seruu",  
                 "pesan": "Semoga dipermudah dan diperlancar segala urusannya, semangattt bangg!" # 1
@@ -1205,7 +1205,7 @@ elif menu == "Departemen Internal":
                 "umur": "20",
                 "asal": "Sumatera Utara",
                 "alamat": "Airan",
-                "hobbi": "Baca Novel",
+                "hobi": "Baca Novel",
                 "sosmed": "@cathrine.sinaga",
                 "kesan": "Asikkk kakk dan seruuu bangettt",  
                 "pesan": "Semoga dipermudah dan diperlancar segala urusannya, semangattt kakk!"# 2
@@ -1216,7 +1216,7 @@ elif menu == "Departemen Internal":
                 "umur": "20",
                 "asal": "Lampung Barat",
                 "alamat": "Labuan Dalam",
-                "hobbi": "Nangkep ikan cupang",
+                "hobi": "Nangkep ikan cupang",
                 "sosmed": "@akbar_restika",
                 "kesan": "Bang akbar ini lucuuu dan pastinyaa seruuu",  
                 "pesan": "Semoga dipermudah dan diperlancar segala urusannya, semangattt bangg!" # 3
@@ -1227,7 +1227,7 @@ elif menu == "Departemen Internal":
                 "umur": "20",
                 "asal": "Metro",
                 "alamat": "Rajabasa",
-                "hobbi": "Dengerin Musik",
+                "hobi": "Dengerin Musik",
                 "sosmed": "@rannipu",
                 "kesan": "Ka Rani orangnya seruu, baikk, dan kecee",  
                 "pesan": "Semoga dipermudah dan diperlancar segala urusannya, semangattt kakk!" # 4
@@ -1238,7 +1238,7 @@ elif menu == "Departemen Internal":
                 "umur": "20",
                 "asal": "Bekasi",
                 "alamat": "Jl. Lapas Raya",
-                "hobbi": "Menulis lagu",
+                "hobi": "Menulis lagu",
                 "sosmed": "@rendraepr",
                 "kesan": "Kocak bangett dan puitiss",  
                 "pesan": "Semoga dipermudah dan diperlancar segala urusannya, semangattt bangg!" # 5
@@ -1249,7 +1249,7 @@ elif menu == "Departemen Internal":
                 "umur": "20",
                 "asal": "Lampung",
                 "alamat": "Airan",
-                "hobbi": "Nonton",
+                "hobi": "Nonton",
                 "sosmed": "@slwfhn_694",
                 "kesan": "Seruuu walauu kayak pendiem kalem gitu",  
                 "pesan": "Semoga dipermudah dan diperlancar segala urusannya, semangattt bangg!" # 6
@@ -1260,7 +1260,7 @@ elif menu == "Departemen Internal":
                 "umur": " ",
                 "asal": " ",
                 "alamat": " ",
-                "hobbi": " ",
+                "hobi": " ",
                 "sosmed": "@",
                 "kesan": "  ",  
                 "pesan":"  " # 7
@@ -1271,7 +1271,7 @@ elif menu == "Departemen Internal":
                 "umur": "23",
                 "asal": "Lampung Barat",
                 "alamat": "Labuhan Ratu",
-                "hobbi": "Futsal",
+                "hobi": "Futsal",
                 "sosmed": "@ari_sigit17",
                 "kesan": "Banyak memotivasi yang bermanfaat",  
                 "pesan": "Semoga dipermudah dan diperlancar segala urusannya, semangattt bangg!" # 8
@@ -1282,7 +1282,7 @@ elif menu == "Departemen Internal":
                 "umur": "21",
                 "asal": "Lampung Selatan",
                 "alamat": "Natar",
-                "hobbi": "Berkebun",
+                "hobi": "Berkebun",
                 "sosmed": "@azizahksma15",
                 "kesan": "Kalemm gitu kak kelihatannya",  
                 "pesan": "Semoga dipermudah dan diperlancar segala urusannya, semangattt kakk!" # 9
@@ -1293,7 +1293,7 @@ elif menu == "Departemen Internal":
                 "umur": " ",
                 "asal": " ",
                 "alamat": " ",
-                "hobbi": " ",
+                "hobi": " ",
                 "sosmed": "@",
                 "kesan": "  ",  
                 "pesan":"  " # 10
@@ -1304,7 +1304,7 @@ elif menu == "Departemen Internal":
                 "umur": "20",
                 "asal": "Pesawaran",
                 "alamat": "Airan",
-                "hobbi": "Nonton film",
+                "hobi": "Nonton film",
                 "sosmed": "@meirasty_",
                 "kesan": "Ramahh, seruu, dan baikk",  
                 "pesan": "Semoga dipermudah dan diperlancar segala urusannya, semangattt kakk!" # 11
@@ -1315,7 +1315,7 @@ elif menu == "Departemen Internal":
                 "umur": "20",
                 "asal": "Tangerang",
                 "alamat": "Kost Benawang",
-                "hobbi": "Bernyanyi",
+                "hobi": "Bernyanyi",
                 "sosmed": "@rexander",
                 "kesan": "Seruu bangett bang renci terus lucuu jugaa",  
                 "pesan": "Semoga dipermudah dan diperlancar segala urusannya, semangattt bangg!" # 12
@@ -1326,7 +1326,7 @@ elif menu == "Departemen Internal":
                 "umur": "21",
                 "asal": "Sumatera Utara",
                 "alamat": "Sukarame",
-                "hobbi": "Memancing",
+                "hobi": "Memancing",
                 "sosmed": "@renita.shn",
                 "kesan": "Bikin ketawaa dan banyakk becandaa",  
                 "pesan": "Semoga dipermudah dan diperlancar segala urusannya, semangattt kakk!" # 13
@@ -1337,7 +1337,7 @@ elif menu == "Departemen Internal":
                 "umur": "21",
                 "asal": "Siantar",
                 "alamat": "Gerbang Barat",
-                "hobbi": "Nonton film",
+                "hobi": "Nonton film",
                 "sosmed": "@josuapanggabean_",
                 "kesan": "Ramahh bangett teruss baikk dan informatif",  
                 "pesan": "Semoga dipermudah dan diperlancar segala urusannya, semangattt bangg!" # 14
