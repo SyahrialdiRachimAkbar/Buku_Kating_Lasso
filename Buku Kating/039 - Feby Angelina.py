@@ -563,3 +563,167 @@ elif menu == "Departemen PSDA":
         ]
         display_images_with_data(gambar_urls, data_list)
     Departemen_PSDA()
+elif menu == "Departemen MIKFES"
+    def mikfes():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1g2J5sFvt954AzixFnLhb9Q51W686ypgY", # bg rafi 1
+            "https://drive.google.com/uc?export=view&id=1CdebZMdUGP3XAtUDONHHZtuJOL4e_vuH", # ka anova 2
+            "https://drive.google.com/uc?export=view&id=1rx6YrouzyqBmj_gmjbAJchOYjQ7bpvEo", # ahmad sahidin 3
+            "https://drive.google.com/uc?export=view&id=15KdPLxPv2D0uuL1J2gz3NOJvcHc_UN3H", # bg fadhil 4
+            "https://drive.google.com/uc?export=view&id=1I1aCN7FEUhfqVpaHywK5FgjiW89DSzjs", # ka syalasisha dina 5
+            "https://drive.google.com/uc?export=view&id=1HujT1k-5MGK3cVKA9TiRYaVbR171t03C", # ka dinda 6
+            "https://drive.google.com/uc?export=view&id=1xjqJfE07rlEvfy7DMg9aezt-tRv3elFf", # ka marleta 7
+            "https://drive.google.com/uc?export=view&id=1qo8uX2A4xHfBXXRQpllinaJoMXrxwddq", # ka rut 8
+            "https://drive.google.com/uc?export=view&id=18wqDoIASYxfpoqBAC2Wt3pbCj3sxSk9U", # ka syadza 9
+            "https://drive.google.com/uc?export=view&id=1EXmYsBrCakia9ig5PKu3PVDdgRSU4cJY", # bg eggi 10
+            "https://drive.google.com/uc?export=view&id=1Zn7qpWn3b05CQ2KJxkZRJkKYj_anKqXj", # ka febiya 11
+            "https://drive.google.com/uc?export=view&id=11iTmQT48ATmXHWuiH123IEo8nWp-4IhB", # bg happy 12
+            "https://drive.google.com/uc?export=view&id=1hUqmkjGwxJVmYY54pzOVH9YAXHIPz22o", # bg randa 13
+        ]
+        data_list = [
+            {
+                "nama": "Rafi Fadhlillah",
+                "nim": "121450143",
+                "umur": "21",
+                "asal": "Lubuk Linggau",
+                "alamat": "Jl. Nangka 4",
+                "hobi": "Olahraga",
+                "sosmed": "@rafadhilillahh13",
+                "kesan": "abangnya asik dan seru",  
+                "pesan": "Lancar terus kuliahnya bang" # 1
+            },
+            {
+                "nama": "Annisa Novantika",
+                "nim": "121450005",
+                "umur": "21",
+                "asal": "Lampung Utara",
+                "alamat": "Jl. Pulau Sebesi, Sukarame",
+                "hobi": "Memasak",
+                "sosmed": "@anovavona",
+                "kesan": "kakanya baik",  
+                "pesan": "lancar-lancar kak kuliahnya" # 2
+            },
+            {
+                "nama": "Ahmad Sahidin Akbar",
+                "nim": "122450044",
+                "umur": "20",
+                "asal": "Tulang Bawang",
+                "alamat": "Sukarame",
+                "hobi": "Olahraga",
+                "sosmed": "@sahid22__",
+                "kesan": "abangnya baik",  
+                "pesan": "semogah kuliahnya lancar-lancar bang" # 3
+            },
+            {
+                "nama": "Fadhil Fitra Wijaya",
+                "nim": "122450082",
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat": "Teluk Betung",
+                "hobi": "Main Game",
+                "sosmed": "@fadhilfwee",
+                "kesan": "abangnya keliatan cool",  
+                "pesan": "Slancar terus kuliaahnya bang" # 4
+            },
+            {
+                "nama": "Syalaisha Andina Putriansyah",
+                "nim": "122450121",
+                "umur": "21",
+                "asal": "Tangerang",
+                "alamat": "Gg Yudhistira",
+                "hobi": "Baca Jurnal",
+                "sosmed": "@dkselsd_31",
+                "kesan": "Kakanya asik",  
+                "pesan": "dilancarkan terus perkuliahanya kak" # 5
+            },
+            {
+                "nama": "Dinda Nababan",
+                "nim": "122450120",
+                "umur": "20",
+                "asal": "Medan",
+                "alamat": "Jl. Lapas",
+                "hobi": "Belajar",
+                "sosmed": "@dindanababan_",
+                "kesan": "Kakaknya lucu",  
+                "pesan": "semoga kuliahnya di lancarkan teruss" # 6
+            },
+            {
+                "nama": "Marleta Cornelia Leander",
+                "nim": "122450092",
+                "umur": "20",
+                "asal": "Depok, Jawa Barat",
+                "alamat": "Gg. Nangka 3",
+                "hobi": "Review Jurnal",
+                "sosmed": "@marletacornelia",
+                "kesan": "Kakanya baik sekali",  
+                "pesan": "Semangat kuliahnya kak, lancar teruss" # 7
+            },
+            {
+                "nama": "Rut Junita Sari Siburian",
+                "nim": "122450103",
+                "umur": "20",
+                "asal": "Batam, Kep.Riau",
+                "alamat": "Gg. Nangka 3",
+                "hobi": "Review Jurnal",
+                "sosmed": "@junitaa_0406",
+                "kesan": "kakanya sepertinya baik dan asik",  
+                "pesan": "Semoga kuliahnya berjalan dengan lancar terus " # 8
+            },
+            {
+                "nama": "Syadza Puspadari Azhar",
+                "nim": "122450072",
+                "umur": "20",
+                "asal": "Palembang",
+                "alamat": "Belwis",
+                "hobi": "Resume SG",
+                "sosmed": "@puspadrr",
+                "kesan": "Kakanya sepertinya asik",  
+                "pesan": "Semoga kuliahnya berjalan dengan lancar terus" # 9
+            },
+            {
+                "nama": "Eggi Satria",
+                "nim": "122450032",
+                "umur": "20",
+                "asal": "Sukabumi",
+                "alamat": "Korpri",
+                "hobi": "Ngoding WISATA",
+                "sosmed": "@egistr",
+                "kesan": "sepertinya abangnya lucu",  
+                "pesan": "Semoga kuliahnya berjalan dengan lancar terus" # 10
+            },
+            {
+                "nama": "Febiya Jomy Pratiwi",
+                "nim": "122450074",
+                "umur": "20",
+                "asal": "Tulang Bawang",
+                "alamat": "Jl Kelengkeng Raya",
+                "hobi": "Review Jurnal",
+                "sosmed": "@pratiwifebiya",
+                "kesan": "kakanya baik",  
+                "pesan": "Semoga kuliahnya berjalan dengan lancar terus" # 11
+            },
+            {
+                "nama": "Happy Syahrul Ramadhan",
+                "nim": "122450013",
+                "umur": "20",
+                "asal": "Lampung Timur",
+                "alamat": "Karang Anyar",
+                "hobi": "Main Game",
+                "sosmed": "@sudo.syahrulramadhannn",
+                "kesan": "Unik banget namanya",  
+                "pesan": "Semoga Happy terus bang" # 12
+            },
+            {
+                "nama": "Randa Andriana Putra",
+                "nim": "122450083",
+                "umur": "21",
+                "asal": "Banten",
+                "alamat": "Sukarame",
+                "hobi": "Tidur dan Berkembang",
+                "sosmed": "@randaandriana_",
+                "kesan": "sepetinya abangnya baik",  
+                "pesan": "Semoga kuliahnya berjalan dengan lancar terus" # 13
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    mikfes()
