@@ -1354,16 +1354,16 @@ elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1zMpehay4dtCo9dXCesHdlWokxaL5bVZr", # bg andrian
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka disty
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka nabila
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg ahmad rizqi
+            "https://drive.google.com/uc?export=view&id=1ybOVOODzlK-ypfL1_iTjMnnkrdHCQbOd", # ka disty
+            "https://drive.google.com/uc?export=view&id=1z7pxXens_njo9egd6E7acWAf-9hY2moJ", # ka nabila
+            "https://drive.google.com/uc?export=view&id=12c9KNcT2Xh40CZuaL2_n6s0dOlzcHEZM", # bg ahmad rizqi
             "https://drive.google.com/uc?export=view&id=1zBrlMh-MDanU7AZX4bCEH6vK61dEOJbs", # bg danang
             "https://drive.google.com/uc?export=view&id=1zGmToaLcZALYXyx-JaL89pcSsi6y6Tbl", # bg farel
-            "https://drive.google.com/uc?export=view&id=11z3dXykLN0DUyRH4JRA3m-6eoaEV--E8_", # ka tesa
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka nabilah
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka alvia
+            "https://drive.google.com/uc?export=view&id=1z3dXykLN0DUyRH4JRA3m-6eoaEV--E8_", # ka tesa
+            "https://drive.google.com/uc?export=view&id=1_GvPEJGohf0_4YlHNW3HMOMvGBlRtpgB", # ka nabilah
+            "https://drive.google.com/uc?export=view&id=1ypErcS_82HD7H5tjh8Azd17P3eBlXOTX", # ka alvia
             "https://drive.google.com/uc?export=view&id=1yiFpXDE8NP1rW8LTgqqc6Q6SLrSwY6Xt", # bg dhafin
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka elia
+            "https://drive.google.com/uc?export=view&id=1z8jqramPA3N-gbXwvcblOcEqr5RCO6M8", # ka elia
         ]
         data_list = [
             {
@@ -1445,14 +1445,14 @@ elif menu == "Departemen SSD":
             },
             {
                 "nama": "Nabilah Andika Fitriati",
-                "nim": " ",
-                "umur": " ",
-                "asal": " ",
-                "alamat": " ",
+                "nim": "121450139",
+                "umur": "20",
+                "asal": "Bandar Lampung",
+                "alamat": "Kedaton",
                 "hobi": " ",
-                "sosmed": "@",
-                "kesan": "  ",  
-                "pesan":"  " # 8
+                "sosmed": "@nabilahanftr",
+                "kesan": "Baikk banget dan asik",  
+                "pesan": "Semangatt kuliahnya kak! Semangat semangat semangat" # 8
             },
             {
                 "nama": "Alvia Asrinda Br.Gintng",
