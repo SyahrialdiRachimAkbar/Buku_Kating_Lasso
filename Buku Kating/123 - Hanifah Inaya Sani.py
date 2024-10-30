@@ -189,8 +189,7 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=12nIX0slO-ZtEcI0aZErl-V7s2Bzspkl3",
             "https://drive.google.com/uc?export=view&id=12WqZjcYOcaCH3eLCZ5QSjPRVx-U7fR1S",
             "https://drive.google.com/uc?export=view&id=12mTV9Y4HRZv-_gk_15VQmw6qUUtBKorF",
-           
-        ]
+         ]
         data_list = [
             {
                 "nama": "Tri Murniya Ningsih",
@@ -295,46 +294,47 @@ elif menu == "Baleg":
             {
                 "nama": "Renisha Putri Giani",
                 "nim": "122450079",
-                "umur": -
-                "asal": -
-                "alamat": -
-                "hobi": -
+                "umur": " ",
+                "asal": " ",
+                "alamat": " ",
+                "hobi": " ",
                 "sosmed": "@fleurnsh",
-                "kesan": -
+                "kesan": " ",
                 "pesan": "Semangat terus kuliahnya ya kak! Semangat Semangat Semangat !!!"# 11
             },
             {
                 "nama": "Claudhea Angeliani",
                 "nim": "121450124",
-                "umur": -
-                "asal": -
-                "alamat": -
-                "hobi": -
-                "sosmed": "@dylebee"
-                "kesan": -
+                "umur": "",
+                "asal": "",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "@dylebee",
+                "kesan": "",
                 "pesan": "Semangat terus kuliahnya ya kak! Semangat semangat semangat !!!"# 12
             },
             {
                 "nama": "Mirzan Yusuf Rabbani",
                 "nim": "122450118",
-                "umur": -
-                "asal": -
-                "alamat": -
-                "hobi": -
+                "umur": "",
+                "asal": "",
+                "alamat": "",
+                "hobi": "",
                 "Sosmed": "@myrrinn",
-                "kesan": -
+                "kesan": "",
                 "pesan": "Semangat terus kuliahnya ya bang! Semangat semangat semangat !!!"# 13
             },
             {
-                "nama": Jeremia Susanto
-                "nim": "122450022"
+                "nama": "Jeremia Susanto",
+                "nim": "122450022",
                 "umur": "20",
                 "asal": "Bandar Lampung",
                 "alamat": "Bandar Lampung",
-                "hobi": -
+                "hobi": "",
                 "sosimed": "@jeremia_s_",
-                "kesan": "Bang jere baik banget, suka bikin panik anak orang, senyumnya manis"
+                "kesan": "Bang jere baik banget, suka bikin panik anak orang, senyumnya manis",
                 "pesan": "Semangat terus kuliahnya bang jeree! Semangat semangat semangat !!!"# 14
+            },
         ]
         display_images_with_data(gambar_urls, data_list)
     baleg()
@@ -680,7 +680,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=17wz71Pul1sAPMQu1a5d3JwU983LHppu", #chalisa
             "https://drive.google.com/uc?export=view&id=17n5fMBF83VBke9pt6_W7lBnjPCeVy-m2", #raid
             "https://drive.google.com/uc?export=view&id=19aeV2oM-D_9uOtAllxtQFHUttEEk8alO", #tria
-            
+        ]    
         data_list = [
             {
                 "nama": "Yogy Sae Tama",
@@ -701,7 +701,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Way Hui ",
                 "hobi": "Baca buku & nonton film ",
                 "sosmed": "@wlnsbn0",
-                "kesan": "kakak nya baik"",  
+                "kesan": "kakak nya baik",  
                 "pesan":"semangat terus kuliahnya kak !!!"# 1
             },
             {
@@ -712,7 +712,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Jati Agung ",
                 "hobi": "Ngobrol ",
                 "sosmed": "@anisadini10",
-                "kesan": "kakak nya baik"",  
+                "kesan": "kakak nya baik",  
                 "pesan":"semangat terus kuliahnya kak !!!"# 1
             },
             {
@@ -941,7 +941,7 @@ elif menu == "Departemen Internal":
                 "alamat": "Way Hui ",
                 "hobi": "Baca buku & nonton film ",
                 "sosmed": "@wlnsbn0",
-                "kesan": "kakak nya baik,  
+                "kesan": "kakak nya baik",  
                 "pesan":"semangat terus kuliahnya kak !!!"# 1
             },
             {
