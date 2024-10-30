@@ -20,8 +20,10 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
+            "Departemen MEDKRAF",
         ],
         icons=[
+            "people-fill",
             "people-fill",
             "people-fill",
             "people-fill",
@@ -919,7 +921,7 @@ elif menu == "Departemen Eksternal":
         display_images_with_data(gambar_urls, data_list)
     
     eksternal()
-  elif menu == "Departemen Internal":
+elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=YOUR_ID_1",  # bg dim
