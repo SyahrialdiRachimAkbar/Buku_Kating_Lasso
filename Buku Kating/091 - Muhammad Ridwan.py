@@ -1018,7 +1018,7 @@ elif menu == "Departemen Eksternal":
                 "hobi": "Buat Jurnal",
                 "sosmed": "@yo_annamnk",
                 "kesan": "kakaknya asik",  
-                "pesan": "Semangatt kuliahnya kak! Semangat semangat semangat" # 11
+                "pesan": "Semangatt kuliahnya kak! Semangat semangat" # 11
             },
             {
                 "nama": "Rizki Adrian Bennovry",
