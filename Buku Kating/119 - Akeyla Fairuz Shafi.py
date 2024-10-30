@@ -113,8 +113,8 @@ if menu == "Kesekjenan":
                 "alamat": "Pulau Damar",
                 "hobi": "Kuliah-rapat dan dengerin musik",
                 "sosmed": "@gumilangkharisma",
-                "kesan": " ",  
-                "pesan":" "Semangat terus ya bang!" # 1
+                "kesan": "Ilmu tentang berhimpunnya keren dan berbobot banget",  
+                "pesan": "Semoga dapat menggapai impian abang sesuai target abang dalam memajukan HMSD" # 1
             },
             {
                 "nama": "Pandra Insani Putra Azwar",
@@ -124,8 +124,8 @@ if menu == "Kesekjenan":
                 "alamat": "Jl Bawean2, Sukarame",
                 "hobi": "Bermain gitar",
                 "sosmed": "@pndrinsni27",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya bang!" # 1
+                "kesan": "serius tapi asik pembawaannya, btw emang mirip aldi bang",  
+                "pesan": "Semoga dapat menggapai impian yang sama seperti bang Gumilang dan mencapai tujuan yang diinginkan" # 1
             },
             {
                 "nama": "Meliza Wulandari",
@@ -135,8 +135,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobi": "Nonton Drakor",
                 "sosmed": "@wulandarimeliza",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya kak!" # 1
+                "kesan": "Sama seperti yang lain sama-sama asik dan tetap serius dalam menjawab pertanyaan yang kami tanyakan",  
+                "pesan": "Happy terus ya kak dan semoga di permudah selama kuliahnya" # 1
             },
             {
                 "nama": "Putri Maulida Chairani",
@@ -157,8 +157,8 @@ if menu == "Kesekjenan":
                 "alamat": "Pemda",
                 "hobi": "Baca Webtoon",
                 "sosmed": "@hrtfdlh",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya kak!" # 1
+                "kesan": "Kakaknya pendiem, tapi gak kalah keren dari yang lain",  
+                "pesan": "Sukses selalu dan tetap menjadi kebanggaan HMSD!" # 1
             },
             {
                 "nama": "Nadilla Andhara Putri",
@@ -168,8 +168,8 @@ if menu == "Kesekjenan":
                 "alamat": "Kota Baru",
                 "hobi": "Baca wattpad dan au",
                 "sosmed": "@nadillaandr26",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya kak!" # 1
+                "kesan": "Seru dan juga dapet insight dari kakak sebagai Bendahara",  
+                "pesan": "Terus jadi inspirasi bagi semua orang kak!" # 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
