@@ -1670,7 +1670,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobi": "baca novel",
                 "sosmed": "@hermawan.mnrng",
                 "kesan": "kocak banget dan asikk",  
-                "pesan":"Semoga semua hasil sesuai dengan usaha selama ini bangg!"
+                "pesan": "Semoga semua hasil sesuai dengan usaha selama ini bangg!"
             },
             {
                 "nama": "Khusnun Nisa",
@@ -1687,6 +1687,3 @@ elif menu == "Departemen MEDKRAF":
         display_images_with_data(gambar_urls, data_list)
     medkraf()
 # Tambahkan menu lainnya sesuai kebutuhan
-
-
-
