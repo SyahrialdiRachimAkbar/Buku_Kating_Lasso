@@ -1539,7 +1539,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Sukarame",
                 "hobi": "Nonton film",
                 "sosmed": "@adistysa_",
-                "kesan": "Kakaknya ramah, keliatan tegas juga ",  
+                "kesan": "Kakaknya ramah, keliatan baik, humble juga ",  
                 "pesan": "Semangatt kuliahnya kak!" # 2
             },
             {
@@ -1603,7 +1603,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": " ",
                 "asal": " ",
                 "alamat": " ",
-                "hobbi": " ",
+                "hobi": " ",
                 "sosmed": "@",
                 "kesan": "  ",  
                 "pesan":"  " # 8
@@ -1614,7 +1614,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "20",
                 "asal": "Binjai",
                 "alamat": "Korpri",
-                "hobbi": "Nonton Windah",
+                "hobi": "Nonton Windah",
                 "sosmed": "@alviaginting",
                 "kesan": "Kakaknya baik, seru juga  ",  
                 "pesan": "Semangatt terus kak dan bahagia selalu " # 9
@@ -1625,7 +1625,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "20",
                 "asal": "Bandar Lampung",
                 "alamat": "Jl. Nangka l",
-                "hobbi": "Tidur",
+                "hobi": "Tidur",
                 "sosmed": "@dhafinrzqa13",
                 "kesan": "  ",  
                 "pesan": "semangat menjalani hari- harinya bang " # 10
@@ -1636,7 +1636,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "20",
                 "asal": "Bekasi",
                 "alamat": "Korpri",
-                "hobbi": "Badminton",
+                "hobi": "Badminton",
                 "sosmed": "@meylanielia",
                 "kesan": "  ",  
                 "pesan": "Semangat selalu dan lancar kuliahnya kak " # 11
@@ -1691,7 +1691,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": " ",
                 "asal": " ",
                 "alamat": " ",
-                "hobbi": " ",
+                "hobi": " ",
                 "sosmed": "@",
                 "kesan": "  ",  
                 "pesan":"  " # 8
@@ -1702,7 +1702,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "20",
                 "asal": "Binjai",
                 "alamat": "Korpri",
-                "hobbi": "Nonton Windah",
+                "hobi": "Nonton Windah",
                 "sosmed": "@alviaginting",
                 "kesan": "Kakaknya baik, seru juga  ",  
                 "pesan": "Semangatt terus kak dan bahagia selalu " # 9
@@ -1713,7 +1713,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "20",
                 "asal": "Bandar Lampung",
                 "alamat": "Jl. Nangka l",
-                "hobbi": "Tidur",
+                "hobi": "Tidur",
                 "sosmed": "@dhafinrzqa13",
                 "kesan": "  ",  
                 "pesan": "semangat menjalani hari- harinya bang " # 10
@@ -1724,7 +1724,7 @@ elif menu == "Departemen MEDKRAF":
                 "umur": "20",
                 "asal": "Bekasi",
                 "alamat": "Korpri",
-                "hobbi": "Badminton",
+                "hobi": "Badminton",
                 "sosmed": "@meylanielia",
                 "kesan": "  ",  
                 "pesan": "Semangat selalu dan lancar kuliahnya kak " # 11
