@@ -103,7 +103,7 @@ if menu == "Kesekjenan":
             "https://drive.google.com/uc?export=view&id=1c1-TgRbJpngxy60jhQ90xjddbekM27tP", #bg pandra
             "https://drive.google.com/uc?export=view&id=1c36nZBM0IfupJ0ZjsaPwTUZPxU8Ob4Wu", #ka liza
             "https://drive.google.com/uc?export=view&id=1dqsNzwqrWwGieL5kVSWgK6b05OnZ22lb", #ka putri
-            "https://drive.google.com/uc?export=view&id=1dsw1Jixqz_z4zbXAKt3zTUcsSer425oV", #ka titi
+            "https://drive.google.com/uc?export=view&id=170CVWI-5VoNhNSE8epSbAAHfJGcu853_", #ka titi
             "https://drive.google.com/uc?export=view&id=1_vZ19zdmOnJ_f0uapQy2YBrofT3yodC2", #ka nadilah
         ]
         data_list = [
@@ -940,7 +940,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1vqc9nZKJUaUyE5vaGhFs_b6t-BIGDG9g", # bg arafi
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka asa
             "https://drive.google.com/uc?export=view&id=1vxC8tuxwUl20CK4YqENq7Njau9o32KU-", # ka chalifia
-            "https://drive.google.com/uc?export=view&id=1vBWQT0h5HPBVDt7JkgZfv_qcVt-D3yIm", # bg irvan
+            "https://drive.google.com/uc?export=view&id=170gydUYL-FEeAY7opoHyWvAokYkuurtw", # bg irvan
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka izza
             "https://drive.google.com/uc?export=view&id=1viMHNfTX1yakSevw2PszbONC-z5y7wUp", # ka khaalishah
             "https://drive.google.com/uc?export=view&id=1w1Hqubjy3IlEpM53KrK1HoHT16KGbVGo", # bg raid
