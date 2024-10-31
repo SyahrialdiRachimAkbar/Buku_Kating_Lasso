@@ -148,7 +148,7 @@ if menu == "Kesekjenan":
                 "alamat": "Jl Nangka 4",
                 "hobi": "Mendengarkan bang pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": " ",  
+                "kesan": "kakaknya unik karena hobinya dengerin bang pandra gitaran",  
                 "pesan":  "Semangat terus ya kak!" # 1
             },
             {
