@@ -1391,12 +1391,12 @@ elif menu == "Departemen SSD":
                 "pesan": "Semangatt kuliahnya kak adisty!" # 2
             },
             {
-                "nama": "Nabila Azhari",
+                "nama": "",
                 "nim": "121450029",
                 "umur": "21",
                 "asal": "Simalungun",
                 "alamat": "Airan",
-                "hobi": "Menghitung Uang",
+                "hobi": "Menghitung ng",
                 "sosmed": "@zhjung",
                 "kesan": "baik, ramah",  
                 "pesan": "Semangatt kuliahnya kak nabila!"  # 3
