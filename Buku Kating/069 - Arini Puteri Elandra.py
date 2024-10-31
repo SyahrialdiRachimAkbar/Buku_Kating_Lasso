@@ -110,7 +110,7 @@ if menu == "Kesekjenan":
         ]
         data_list = [
             {
-                "nama": "Kharisma Gumilan",
+                "nama": "Kharisma Gumilang",
                 "nim": "121450142",
                 "umur": "21",
                 "asal":"Palembang",
@@ -946,7 +946,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1cLNT7Mf9W7wIpgaeHEX2TKUSTx-sba8I",
             "https://drive.google.com/uc?export=view&id=1jLGFI8g-cAgdRMggzCe6_ClDvg_vM-jM",
-            "https://drive.google.com/uc?export=view&id=1rFDYU0WxxZtE0wsA78pW0r38yUVwDY4z",
+            "https://drive.google.com/uc?export=view&id=1I2LDcDZokzDzfr8z73rcGiv9ZWdMJkN9",
         ]
         data_list = [
             {
@@ -1180,7 +1180,7 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1ruZPGUAs1wQoBLxmZwaG-yyJcRwp--YZ",
             "https://drive.google.com/uc?export=view&id=1EvCA0oHDz1l3zHjYH6mTQSy2SZN3DiYd",
             "https://drive.google.com/uc?export=view&id=18iRi9mD6jaLMs0OlSYFTyKXQ8LuxlUvh",
-            "https://drive.google.com/uc?export=view&id=1v7sgShQwbSXRdlFgjjZoS47cDi4IRK4r",
+            "https://drive.google.com/uc?export=view&id=1Xv_JNVpnFeBaIQIx3IVjVXb60I13YLWL",
             "https://drive.google.com/uc?export=view&id=1udoHFG8jOZjA7gxJPxHaMbaCjpnQyS5q",
             "https://drive.google.com/uc?export=view&id=1Vk5bLZLmiHh7fz-QhqGLt7g-dLS6JqsF",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
@@ -1189,6 +1189,7 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
             "https://drive.google.com/uc?export=view&id=1A-HSkIPEoU8g0uD0SkplxlrgRA8bwR3g",
             "https://drive.google.com/uc?export=view&id=1nwJouRelU4cksq4eLb9QQLK2sYXjTwGt",
+            "https://drive.google.com/uc?export=view&id=1v7sgShQwbSXRdlFgjjZoS47cDi4IRK4r",
             "https://drive.google.com/uc?export=view&id=1Xv_JNVpnFeBaIQIx3IVjVXb60I13YLWL",
             "https://drive.google.com/uc?export=view&id=1RAwb_DdouzdFct2u5gyhpIRK9in3kQkX",
         ]
@@ -1391,12 +1392,12 @@ elif menu == "Departemen SSD":
                 "pesan": "Semangatt kuliahnya kak adisty!" # 2
             },
             {
-                "nama": "",
+                "nama": "Nabila Azhari",
                 "nim": "121450029",
                 "umur": "21",
                 "asal": "Simalungun",
                 "alamat": "Airan",
-                "hobi": "Menghitung ng",
+                "hobi": "Menghitung",
                 "sosmed": "@zhjung",
                 "kesan": "baik, ramah",  
                 "pesan": "Semangatt kuliahnya kak nabila!"  # 3
