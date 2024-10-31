@@ -345,7 +345,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=1NarfsLnG2FcHV2-no5riQuHRDtAu9r35", # bg Jo
             "https://drive.google.com/uc?export=view&id=15nB7i75OBFRPGz-AsaYUpQbxgx8Tm1LZ", # bg Kemas
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", 
-            "https://drive.google.com/uc?export=view&id=17mAh-5xlIJ4GR1XG-oPYDV2jVlO7628B", #Kak Presil
+            "https://drive.google.com/uc?export=view&id=1cyFvuNVHHuXUPZdTXnNGgLKMB_UvNKov", #Kak Presil
             "https://drive.google.com/uc?export=view&id=1qpQcq1ugR0_GEcrukObjBJH_D3Mz5bWj", #Kak Rafa
             "https://drive.google.com/uc?export=view&id=1OAxVVeZZWMvZFPxlaOel84JciNpScPQP", #Bang Sahid
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
