@@ -1177,20 +1177,20 @@ elif menu == "Departemen Eksternal":
 elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1ruZPGUAs1wQoBLxmZwaG-yyJcRwp--YZ",
+            "https://drive.google.com/uc?export=view&id=1EvCA0oHDz1l3zHjYH6mTQSy2SZN3DiYd",
+            "https://drive.google.com/uc?export=view&id=18iRi9mD6jaLMs0OlSYFTyKXQ8LuxlUvh",
+            "https://drive.google.com/uc?export=view&id=1v7sgShQwbSXRdlFgjjZoS47cDi4IRK4r",
+            "https://drive.google.com/uc?export=view&id=1udoHFG8jOZjA7gxJPxHaMbaCjpnQyS5q",
+            "https://drive.google.com/uc?export=view&id=1Vk5bLZLmiHh7fz-QhqGLt7g-dLS6JqsF",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1iuhgTxRh6c8T_rpJkAYuKKHcfKIC1ZaF",
+            "https://drive.google.com/uc?export=view&id=1i15Yc9kgzVcv8RtlmNCtrXvX6T39FdfU",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1A-HSkIPEoU8g0uD0SkplxlrgRA8bwR3g",
+            "https://drive.google.com/uc?export=view&id=1nwJouRelU4cksq4eLb9QQLK2sYXjTwGt",
+            "https://drive.google.com/uc?export=view&id=1Xv_JNVpnFeBaIQIx3IVjVXb60I13YLWL",
+            "https://drive.google.com/uc?export=view&id=1RAwb_DdouzdFct2u5gyhpIRK9in3kQkX",
         ]
         data_list = [
             {
