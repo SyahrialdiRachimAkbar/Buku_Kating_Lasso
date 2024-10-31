@@ -1088,7 +1088,7 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=1j293tfmd0KBcQ2151xG9MkNQBhvktaMe",  # bg danang
             "https://drive.google.com/uc?export=view&id=1NsepUXspUQJXUDsHjFB3IBVan3kr0_V5",  # bg farel
             "https://drive.google.com/uc?export=view&id=16xeqG07f0o0SkTevxLlsb4r1-HOJ0uJz",  # ka tesa
-            "https://drive.google.com/uc?export=view&id=1umzyLLUxflRTI3rCFU4JMNJtbdgyApKa",  # ka nabilah
+            "https://drive.google.com/uc?export=view&id=no_id",  # ka nabilah
             "https://drive.google.com/uc?export=view&id=1JPRSsaa8aFtAU5vdTMzULw2mSdfoVi43",  # ka alvia
             "https://drive.google.com/uc?export=view&id=12FxmbjHUIeeqjDLkug7YA--iJqVpFJdt", # bg dhafin
             "https://drive.google.com/uc?export=view&id=1MuZlt3tmWEYhQmm3B1kqjuxPi4uEUfqk", # ka elia
