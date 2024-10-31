@@ -935,7 +935,7 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1R5kpEDNyO-7WQvSZkUQONMtPX16Ut51r", # ka dearni 9
             "https://drive.google.com/uc?export=view&id=1yEQds-TDiiFCaRU5B2jY0ZjAjO4WIc6A", # bg rendi 10
             "https://drive.google.com/uc?export=view&id=10Fzo-Gnm-CBsFYZDHSQUl6W5YtIkSu11", # ka renta 11
-            "https://drive.google.com/uc?export=view&id=/1RPXzMZM3tNLFS3DUYp5w49RzROz90bLY", # bg josua 12
+            "https://drive.google.com/uc?export=view&id=1RPXzMZM3tNLFS3DUYp5w49RzROz90bLY", # bg josua 12
         ]
 
         data_list = [
