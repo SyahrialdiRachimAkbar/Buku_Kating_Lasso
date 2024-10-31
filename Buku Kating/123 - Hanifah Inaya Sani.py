@@ -377,7 +377,7 @@ elif menu == "Senator":
 elif menu == "Departemen PSDA":
     def psda():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1-1GvIodPS1nrvYnshBd5Ll7ObPb5woN1", # bg econ
+            "https://drive.google.com/uc?export=view&id=1GvIodPS1nrvYnshBd5Ll7ObPb5woN1", # bg econ
             "https://drive.google.com/uc?export=view&id=19QtrmhfbnkJ0jrr99xUsN55hQ9_PlAFF", # ka abet
             "https://drive.google.com/uc?export=view&id=19a60c--2C6FNLdxuyzLUtKDuSHY4marU", # ka pipah
             "https://drive.google.com/uc?export=view&id=10K4AP0IAQ-CxpSB3b6OkKHscjR_qOCfk", # ka allya
