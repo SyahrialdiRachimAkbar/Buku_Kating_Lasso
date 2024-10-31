@@ -1090,7 +1090,7 @@ elif menu == "Departemen SSD":
             "https://drive.google.com/uc?export=view&id=16xeqG07f0o0SkTevxLlsb4r1-HOJ0uJz",  # ka tesa
             "https://drive.google.com/uc?export=view&id=1umzyLLUxflRTI3rCFU4JMNJtbdgyApKa",  # ka nabilah
             "https://drive.google.com/uc?export=view&id=1JPRSsaa8aFtAU5vdTMzULw2mSdfoVi43",  # ka alvia
-            "https://drive.google.com/uc?export=view&id=1MuZlt3tmWEYhQmm3B1kqjuxPi4uEUfqk", # bg dhafin
+            "https://drive.google.com/uc?export=view&id=12FxmbjHUIeeqjDLkug7YA--iJqVpFJdt", # bg dhafin
             "https://drive.google.com/uc?export=view&id=1MuZlt3tmWEYhQmm3B1kqjuxPi4uEUfqk", # ka elia
         ]
 
