@@ -741,7 +741,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Teluk Betung ",
                 "hobi": "Main Game ",
                 "sosmed": "@fadhilfwee ",
-                "kesan": "Abangnya baik, agak kalem "  
+                "kesan": "Abangnya baik, agak kalem ",  
                 "pesan":"semangat terus kuliahnya bang dan jangan lupa istirahat juga "
             },
             {
@@ -1497,7 +1497,7 @@ elif menu == "Departemen SSD":
     ssd()
 
 elif menu == "Departemen MEDKRAF":
-    def  medkraf():
+    def medkraf():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1PoCNIb1M63HLK2aKOcXvDpt8sKM6JUtL", # 
             "https://drive.google.com/uc?export=view&id=1HmtRgdwEW27M18G7ugACX4XKgs7y5IOm", #
