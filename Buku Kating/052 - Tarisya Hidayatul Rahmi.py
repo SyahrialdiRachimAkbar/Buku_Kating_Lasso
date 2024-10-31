@@ -741,7 +741,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Teluk Betung ",
                 "hobi": "Main Game ",
                 "sosmed": "@fadhilfwee ",
-                "kesan": "Abangnya baik, agak kalem "  
+                "kesan": "Abangnya baik, agak kalem ",  
                 "pesan":"semangat terus kuliahnya bang dan jangan lupa istirahat juga "
             },
             {
@@ -1497,7 +1497,7 @@ elif menu == "Departemen SSD":
     ssd()
 
 elif menu == "Departemen MEDKRAF":
-    def  MEDKRAF():
+    def medkraf():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1PoCNIb1M63HLK2aKOcXvDpt8sKM6JUtL", # 
             "https://drive.google.com/uc?export=view&id=1HmtRgdwEW27M18G7ugACX4XKgs7y5IOm", #
@@ -1510,7 +1510,7 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=10p5UQQC49b9fkYL5_XsUjzjzGTVkb0do", # 
             "https://drive.google.com/uc?export=view&id=1IoS6iE6xK4l3_-oT55QySUnR6CMYqulo", # 
             "https://drive.google.com/uc?export=view&id=1MvYhY8EydgvkfLKJK8uJ-_OPV4gzaW4d", # 
-                        "https://drive.google.com/uc?export=view&id=1Zq35b5JrqAkGEP9g_GMdNRfUSOS4v-Ma", # 
+            "https://drive.google.com/uc?export=view&id=1Zq35b5JrqAkGEP9g_GMdNRfUSOS4v-Ma", # 
             "https://drive.google.com/uc?export=view&id=1HqObbpV5vRhROJPo4jDYOw0tyWCuEnoG", # 
             "https://drive.google.com/uc?export=view&id=1YbA6XEg7zWw6exIRKIs2xfxY5SGhIkf-", # 
             "https://drive.google.com/uc?export=view&id=1aVJFbdCU91s3f5R2bb3El6b-ejEOILt5", #
@@ -1518,7 +1518,7 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=10p5UQQC49b9fkYL5_XsUjzjzGTVkb0do", # 
             "https://drive.google.com/uc?export=view&id=1IoS6iE6xK4l3_-oT55QySUnR6CMYqulo", # 
             "https://drive.google.com/uc?export=view&id=1MvYhY8EydgvkfLKJK8uJ-_OPV4gzaW4d", # 
-    
+        ]
         data_list = [
             {
                 "nama": "Wahyudiyanto ",
@@ -1547,7 +1547,7 @@ elif menu == "Departemen MEDKRAF":
                 "nim": "121450035 ",
                 "umur": "21",
                 "asal": "Bandar Lampung ",
-                "alamat": Tanjung senang ",
+                "alamat": "Tanjung senang ",
                 "hobi": "Ngonten ",
                 "sosmed": "@arsiah._",
                 "kesan": "Kakaknya seru, ceria banget  ",  
@@ -1731,4 +1731,4 @@ elif menu == "Departemen MEDKRAF":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-     MEDKRAF()
+    medkraf()
