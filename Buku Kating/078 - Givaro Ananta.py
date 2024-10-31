@@ -494,7 +494,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Oktavia Nurwenda Puspita Sari",
-                "nim": "122350041",
+                "nim": "122450041",
                 "umur": "20",
                 "asal": "Lampung Timur",
                 "alamat": "Way Huwi",
