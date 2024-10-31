@@ -382,24 +382,24 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=19a60c--2C6FNLdxuyzLUtKDuSHY4marU", # ka pipah
             "https://drive.google.com/uc?export=view&id=10K4AP0IAQ-CxpSB3b6OkKHscjR_qOCfk", # ka allya
             "https://drive.google.com/uc?export=view&id=10emB0I864FfHzfk2h_5keeFMK00BDDPz/", # ka eksanty
-            "https://drive.google.com/uc?export=view&id=10XgKssU4n6nxJLKDUJZUSCe18vb3hF7d", # ka hanum
+            "https://drive.google.com/uc?export=view&id=10biVf1F6rB_GyHc5I3pKPLpgHKVfVyGu", # ka hanum
             "https://drive.google.com/uc?export=view&id=10UQmKhUEUejmj1se868DiBT9464v1O37/", # bg ferdy 
             "https://drive.google.com/uc?export=view&id=1105lryHiM7AdCSGsFrIYbWuQCU78l-jp", # bg deri 
-            "https://drive.google.com/uc?export=view&id=10dXvtgAEmTNqv2JrEW6DoTp0UQiKH5JD", # ka okta 
+            "https://drive.google.com/uc?export=view&id=10dSmg8CXWSfRR9uHVOrfB3H4qL-SDIRv", # ka okta 
             "https://drive.google.com/uc?export=view&id=111AMN1boLxi1JW7u0M3NVpJ5fsNvofBP", # bg deyvan
-            "https://drive.google.com/uc?export=view&id=18Lo44Hi0yITl7Jcg8GzxAu5O4zKRcpMh", # bg ibnu farhan blm
+            "https://drive.google.com/uc?export=view&id=1tBo015pxH4N8o3rNk-Iupet4c120ATy_", # bg ibnu farhan blm
             "https://drive.google.com/uc?export=view&id=11405CX4cTD9obkfM4xQEPeeuYBw5KK-J", # bg jo
             "https://drive.google.com/uc?export=view&id=11EDGnCtcTY3eQj4NkHMi9_WydDzBSw2I", # bg kemas
-            "https://drive.google.com/uc?export=view&id=18Lo44Hi0yITl7Jcg8GzxAu5O4zKRcpMh", # bg leon blm
+            "https://drive.google.com/uc?export=view&id=1tBo015pxH4N8o3rNk-Iupet4c120ATy_", # bg leon blm
             "https://drive.google.com/uc?export=view&id=19vtDHOk4RKna8GxjHOAIxIGM-ec05hsP", # ka presilia
             "https://drive.google.com/uc?export=view&id=1155cVInNcRloz_dC-exBqOcJsGz_YDjW", # ka aqila
             "https://drive.google.com/uc?export=view&id=113StsZUVOaVMBnbO2TgwIdmWWE8J9qc8", # bg sahid
-            "https://drive.google.com/uc?export=view&id=18Lo44Hi0yITl7Jcg8GzxAu5O4zKRcpMh", # ka vanes blm
+            "https://drive.google.com/uc?export=view&id=1tBo015pxH4N8o3rNk-Iupet4c120ATy_", # ka vanes blm
             "https://drive.google.com/uc?export=view&id=11bIE2zu1Iu9CWltKLjVvCumpwrBy7c-2", # bg ateng
             "https://drive.google.com/uc?export=view&id=19vkfXTsEI3r1p7X67frdINhydyuHLLAD", # bg gede
             "https://drive.google.com/uc?export=view&id=11I9LcjNiGAL_q5upDzGyb0HyqH_kqGoV", # ka jaclin
             "https://drive.google.com/uc?export=view&id=19kpucvshcZsjogj9Zx58CdU9P9T1FMxh", # bg rafly
-            "https://drive.google.com/uc?export=view&id=18Lo44Hi0yITl7Jcg8GzxAu5O4zKRcpMh", # ka syalaisha dini blm
+            "https://drive.google.com/uc?export=view&id=1tBo015pxH4N8o3rNk-Iupet4c120ATy_", # ka syalaisha dini blm
         ]
         data_list = [
             {
@@ -520,7 +520,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "-",
                 "hobi": "-",
                 "sosmed": "@",
-                "kesan": "abang nya baik",  
+                "kesan": " ",  
                 "pesan": "semangat kuliahnya bang" # 11
             },
             {
