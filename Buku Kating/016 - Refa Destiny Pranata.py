@@ -1348,4 +1348,145 @@ elif menu == "Departemen Internal":
         display_images_with_data(gambar_urls, data_list)
     internal()
 
+elif menu == "Departemen SSD":
+    def ssd():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1lOrE4XtqKJJz8S0qgrBuAbvnNbg_z7X_", # bg andrian
+            "https://drive.google.com/uc?export=view&id=1l_DphehpsppUNouLFqYDCNR-IFvX5wki", # ka disty
+            "https://drive.google.com/uc?export=view&id=1lohhh4ucdt7Pgf45LAHqP9ZnLyY_2Rpr", # ka nabila
+            "https://drive.google.com/uc?export=view&id=1lYbFIGg5eAfM1sHKdOAElONNT1T1bOeu", # bg ahmad rizqi
+            "https://drive.google.com/uc?export=view&id=1lVhSiPHeP3Sen0iDAWx2iHtKtFK4YgiD", # bg danang
+            "https://drive.google.com/uc?export=view&id=1lRauBuOtTXYp81tksTZ6zSSr8nMvAoSY", # bg farel
+            "https://drive.google.com/uc?export=view&id=1lhWBE1TDhAtIHdFqf04BUJ4XtNDwcE-N", # ka tesa
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka nabilah
+            "https://drive.google.com/uc?export=view&id=1l_Ftt5nHsgFefVcxGLszVnO9lslO76EA", # ka alvia
+            "https://drive.google.com/uc?export=view&id=1lz7Lg0MgU8CNd14aADR3UpTAX5CEWDW", # bg dhafin
+            "https://drive.google.com/uc?export=view&id=1ljioDliAMBFXsSmVvrE5Vx37V_d7P9Ra", # ka elia
+        ]
+        data_list = [
+            {
+                "nama": "Andrian Agustinus Lumban Gaol",
+                "nim": "121450090",
+                "umur": "21",
+                "asal": "Panjibako",
+                "alamat": "Jl. Bel",
+                "hobbi": "Mencari Uang",
+                "sosmed": "@andriangaol",
+                "kesan": "Seruu dan abangnya santaiii",  
+                "pesan": "Semoga kuliahnya lancar terus bang!!!" # 1
+            },
+            {
+                "nama": "Adisty Syawaida Ariyanto",
+                "nim": "121450136",
+                "umur": "22",
+                "asal": "Metro",
+                "alamat": "Sukarame",
+                "hobbi": "Nonton film",
+                "sosmed": "@adistysa_",
+                "kesan": "cantikk banget dan asikk",  
+                "pesan": "Semoga kuliahnya lancar terus kak!!!" # 2
+            },
+            {
+                "nama": "Nabila Azhari",
+                "nim": "121450029",
+                "umur": "21",
+                "asal": "Simalungun",
+                "alamat": "Airan",
+                "hobbi": "Menghitung Uang",
+                "sosmed": "@zhjung",
+                "kesan": "baikk bangett dann cantikk sekali",  
+                "pesan": "Semoga kuliahnya lancar terus kak!!!"  # 3
+            },
+            {
+                "nama": "Ahmad Rizqi",
+                "nim": "122450138",
+                "umur": "20",
+                "asal": "Bukit Tingi",
+                "alamat": "Airan",
+                "hobbi": "Jualan",
+                "sosmed": "@ahmad.riz45",
+                "kesan": "seruu dan ramah",  
+                "pesan": "Semoga kuliahnya lancar terus kakk!!!" # 4
+            },
+            {
+                "nama": "Danang Hilal Kurniawan",
+                "nim": "122450085",
+                "umur": "21",
+                "asal": "Bandar Lampung",
+                "alamat": "Airan",
+                "hobbi": "Membaca",
+                "sosmed": "@dananghk_",
+                "kesan": "baikkk dan asikkk",  
+                "pesan": "Semoga kuliahnya lancar terus bang!!!" # 5
+            },
+            {
+                "nama": "Farrel Julio Akbar",
+                "nim": "122450110",
+                "umur": "20",
+                "asal": "Bogor",
+                "alamat": "Lapas",
+                "hobbi": "Bebas",
+                "sosmed": "@farel_julio",
+                "kesan": "banyak kasih informasi tentang jualan",  
+                "pesan": "Semoga kuliahnya lancar terus bang!!!"# 6
+            },
+            {
+                "nama": "Tessa Kania Sagala",
+                "nim": "122450040",
+                "umur": "20",
+                "asal": "Simalungun",
+                "alamat": "Pemda",
+                "hobbi": "Menulis",
+                "sosmed": "@tesakanias",
+                "kesan": "lucuu dan pendiem",  
+                "pesan": "Semoga kuliahnya lancar terus kakk!!!" # 7
+            },
+            {
+                "nama": "Nabilah Andika Fitriati",
+                "nim": " ",
+                "umur": " ",
+                "asal": " ",
+                "alamat": " ",
+                "hobbi": " ",
+                "sosmed": "@",
+                "kesan": "  ",  
+                "pesan":"  " # 8
+            },
+            {
+                "nama": "Alvia Asrinda Br.Gintng",
+                "nim": "122450077",
+                "umur": "20",
+                "asal": "Binjai",
+                "alamat": "Korpri",
+                "hobbi": "Nonton Windah",
+                "sosmed": "@alviaginting",
+                "kesan": "lucuu bangett dan cantikkk",  
+                "pesan": "Semoga kuliahnya lancar terus kakk!!!" # 9
+            },
+            {
+                "nama": "Dhafin Razaqa Luthfi",
+                "nim": "122450133",
+                "umur": "20",
+                "asal": "Bandar Lampung",
+                "alamat": "Jl. Nangka l",
+                "hobbi": "Tidur",
+                "sosmed": "@dhafinrzqa13",
+                "kesan": "seruu dan asikk",  
+                "pesan": "Semoga kuliahnya lancar terus bangg!!!" # 10
+            },
+            {
+                "nama": "Elia Meylani Simanjuntak",
+                "nim": "122450026",
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat": "Korpri",
+                "hobbi": "Badminton",
+                "sosmed": "@meylanielia",
+                "kesan": "lucuu banget dan seruuu",  
+                "pesan": "Semoga kuliahnya lancar terus kakk!!!" # 11
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    ssd()
+
 # Tambahkan menu lainnya sesuai kebutuhan
