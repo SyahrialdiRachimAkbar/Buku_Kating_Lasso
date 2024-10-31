@@ -1000,7 +1000,7 @@ elif menu == "Departemen Eksternal":
                 "alamat": "Way Kandis",
                 "hobi": "Planning konten",
                 "sosmed": "@jasminednva",
-                "kesan": "  ",  
+                "kesan": "baikkk kakaknyaa",  
                 "pesan": "Semangatt kuliahnya kak! Semangat semangat semangat" # 9
             },
             {
