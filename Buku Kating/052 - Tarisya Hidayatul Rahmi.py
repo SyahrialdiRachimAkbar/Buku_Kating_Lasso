@@ -1726,7 +1726,7 @@ elif menu == "Departemen MEDKRAF":
                 "alamat": "Korpri",
                 "hobi": "Badminton",
                 "sosmed": "@meylanielia",
-                "kesan": "  ",  
+                "kesan": "Kakaknya  baik dan seru ",  
                 "pesan": "Semangat selalu dan lancar kuliahnya kak " # 11
             },
         ]
