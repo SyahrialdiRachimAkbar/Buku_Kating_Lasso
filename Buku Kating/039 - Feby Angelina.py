@@ -1082,10 +1082,10 @@ elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1In7QasFE0sF5iRqzDJX4_Bn3Qr9aiQWl",  # bg andrian
-            "https://drive.google.com/uc?export=view&id=1-Z6Xn1QP3SkPitN21E-O6ibafdPFW6F7",  # ka disty
+            "https://drive.google.com/uc?export=view&id=1umzyLLUxflRTI3rCFU4JMNJtbdgyApKa",  # ka disty
             "https://drive.google.com/uc?export=view&id=1lKxleP0Rcr6WzUG6oCE85Jhc6_g4IwxU",  # ka nabila
             "https://drive.google.com/uc?export=view&id=1vskdJge96O-eDULtInlaMYNMIeNsbItb",  # bg ahmad rizqi
-            "https://drive.google.com/uc?export=view&id=/1j293tfmd0KBcQ2151xG9MkNQBhvktaMe",  # bg danang
+            "https://drive.google.com/uc?export=view&id=1j293tfmd0KBcQ2151xG9MkNQBhvktaMe",  # bg danang
             "https://drive.google.com/uc?export=view&id=1NsepUXspUQJXUDsHjFB3IBVan3kr0_V5",  # bg farel
             "https://drive.google.com/uc?export=view&id=16xeqG07f0o0SkTevxLlsb4r1-HOJ0uJz",  # ka tesa
             "https://drive.google.com/uc?export=view&id=1umzyLLUxflRTI3rCFU4JMNJtbdgyApKa",  # ka nabilah
@@ -1170,7 +1170,7 @@ elif menu == "Departemen SSD":
                 "hobi": "Menulis",
                 "sosmed": "@tesakanias",
                 "kesan": "Pendiam dan juga asik",
-                "pesan": "dilancarkan terus perkulihanya,, kak!"
+                "pesan": "dilancarkan terus perkulihanya,kak!"
             },
             {
                 "nama": "Nabilah Andika Fitriati",
