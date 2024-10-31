@@ -1453,16 +1453,16 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1_qnHcO6wyHiKZvyn_rEgm21Z3THCHEBv", # bg patricia done
             "https://drive.google.com/uc?export=view&id=1zE7cvuPw93aVPrEaEgXkQC7XxW_TdiZ5", # kk rahma done
             "https://drive.google.com/uc?export=view&id=1T7G5g2GCOk75AmA_7Bb76HS53qYUOElT", # kak try done
-            "https://drive.google.com/uc?export=view&id=1i18DWVeP8iTnXTiqe1XhTzUTqEJWEL_o", # bg kaisar 9
-            "https://drive.google.com/uc?export=view&id=1R4bjbDeA2iXc7t9nq0pCGOZYmzWIkE7Z", # bg dwi 10
-            "https://drive.google.com/uc?export=view&id=1rwiSqbEiCuaybhkZ5Ztj49egqwHcLi6P", # bg gym 11
-            "https://drive.google.com/uc?export=view&id=1hhcYDi0Z0kH8uU66fSpdqPmc3fN51w8M", # ka nasyawa 12
-            "https://drive.google.com/uc?export=view&id=1eEfyeXKc_UQTYbht3XU1DgWtgcZFaNs1", # ka priska  13
-            "https://drive.google.com/uc?export=view&id=1N1vofRFMQXll1cbz8gdBq8T5YeP46HMH", # bg arsal 14
-            "https://drive.google.com/uc?export=view&id=1kk_vGWm_5jw98WvKlADTkTe6Iblx3O5i", # bg abit 15
-            "https://drive.google.com/uc?export=view&id=1KA7PtemydVoaUC0mzsfLxVi80UkJNBq_", # bg akmal 16
-            "https://drive.google.com/uc?export=view&id=1Mu-iz6FL6lubvQuI4n2lzm6hAgUV1YJb", # ka hermawan 17
-            "https://drive.google.com/uc?export=view&id=13CSuL2af526joG0VPoXITM25a4-fG72K", # ka nisa 18
+            "https://drive.google.com/uc?export=view&id=1xPXzGdl6-f4L7lToj4SLCYktPc6jvIjk", # bg kaisar done
+            "https://drive.google.com/uc?export=view&id=1tqwUeHi_Vh7NVACfGPlBInlAfF0Y2TZp", # bg dwi done
+            "https://drive.google.com/uc?export=view&id=1IgOA8DpDxWyl11TjkHJ3XzyoswFxi-MF", # bg gym done
+            "https://drive.google.com/uc?export=view&id=1uOZfOiSGE3Ae0Y1SUq6oqTS7dvSs--zg", # ka nasyawa done
+            "https://drive.google.com/uc?export=view&id=1j8gaYL9oI6SQhYYPB53WkIcizrKNKOeT", # ka priska done
+            "https://drive.google.com/uc?export=view&id=1C_m8lyWsM1BnzRjCA0cWn7u4mDATEGjF", # bg arsal done
+            "https://drive.google.com/uc?export=view&id=13IGpX43JKgC5Q6VSjVhv3kmspMXptQU1", # bg abit done
+            "https://drive.google.com/uc?export=view&id=1YUHiScy4dac6qJsBy6QTnf9aIMcuOtT3", # bg akmal done
+            "https://drive.google.com/uc?export=view&id=1p4ZZT3oIUBMe78hdbDCFus7ZKQmIQgBv", # ka hermawan done
+            "https://drive.google.com/uc?export=view&id=1r3oKqddagfnNDvJDsDN7HJIn_Tw9aGOo", # ka nisa done
         ]
         data_list = [
             {
