@@ -1224,17 +1224,17 @@ elif menu == "Departemen SSD":
 elif menu == "Departemen MEDKRAF":
     def MEDKRAF():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1_l3oPzM8Anvm7qUqtxGZnKJM5inmOjWM", # bg wahyu 1
-            "https://drive.google.com/uc?export=view&id=1yaEdi_1VXcAta2u3fdW43OxYkh6u_ymV", # ka fiola 2
+            "https://drive.google.com/uc?export=1_20b4WHKbWYgGuN9rWglnV3_zKECLDgO", # bg wahyu 1
+            "https://drive.google.com/uc?export=view&id=1t8FhbEXS3i-fOWRPeI5IlPE_nmzrDIM", # ka fiola 2
             "https://drive.google.com/uc?export=view&id=1trzWyUTBC56p0bdws2YQpMC3fuSGFKb1", # ka arysyiah 3
-            "https://drive.google.com/uc?export=view&id=1Ymy6bNP9ASwawvjjec7xBpLtodDrFBV3", # ka acintya 4 
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka acintya 4 
             "https://drive.google.com/uc?export=view&id=1PaE2jtAXykRBkb6ZtNFWmVHpwR3rPmTi", # ka najla 5
             "https://drive.google.com/uc?export=view&id=1JU7Y4uoUsx-ciEn9VrSexJNLdmFP9SZb", # bg patricia 6
             "https://drive.google.com/uc?export=view&id=1RKbDy768VwtB05o9CqX9XsOzSW58ssen", # kk rahma 7
             "https://drive.google.com/uc?export=view&id=1Jgez7_yFYK8zq9dwO46BG1VFbaS7XgT-", # kak try 8 
             "https://drive.google.com/uc?export=view&id=1i18DWVeP8iTnXTiqe1XhTzUTqEJWEL_o", # bg kaisar 9
             "https://drive.google.com/uc?export=view&id=1R4bjbDeA2iXc7t9nq0pCGOZYmzWIkE7Z", # bg dwi 10
-            "https://drive.google.com/uc?export=view&id=1YHr3SIwvh9Lqh9f6BW0SzUr7_bziiizE", # bg gym 11
+            "https://drive.google.com/uc?export=view&id=1rwiSqbEiCuaybhkZ5Ztj49egqwHcLi6P", # bg gym 11
             "https://drive.google.com/uc?export=view&id=1hhcYDi0Z0kH8uU66fSpdqPmc3fN51w8M", # ka nasyawa 12
             "https://drive.google.com/uc?export=view&id=1eEfyeXKc_UQTYbht3XU1DgWtgcZFaNs1", # ka priska  13
             "https://drive.google.com/uc?export=view&id=1N1vofRFMQXll1cbz8gdBq8T5YeP46HMH", # bg arsal 14
