@@ -204,7 +204,7 @@ elif menu == "Baleg":
                 "hobi": "Searching GPT",
                 "sosmed": "@trimurniaa_",
                 "kesan": "Serius tapi bisa asik dan santai juga",  
-                "pesan": "Semoga sukses dan lancar terus kuliahnya!" #1
+                "pesan": "Semoga sukses dan lancar terus kuliahnya ya kak!" #1
             },
             {
                 "nama": "Annisa Cahyani Surya",
@@ -214,8 +214,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobi": "Baca buku dan nonton film",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "Wawancaranya seru dan tidak begitu",  
-                "pesan": "Semangat terus ya kak!" # 1
+                "kesan": "Wawancaranya seru dan tidak begitu tegang",  
+                "pesan": "Sukses selalu buat !" # 1
             },
             {
                 "nama": "Wulan Sabina",
