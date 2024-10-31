@@ -21,9 +21,11 @@ def decrypt(text, shift):
 st.title("Caesar Cipher Cryptography")
 st.header("Apa itu Caesar Cipher Cryptography?")
 st.write("""
-Kriptografi Caesar Cipher adalah teknik enkripsi yang menggunakan penggantian huruf dalam 
-teks asli dengan huruf lain yang memiliki posisi tetap dalam alfabet. 
-Teknik ini merupakan salah satu teknik kriptografi tertua dan paling sederhana
+Caesar Cipher adalah salah satu teknik kriptografi paling sederhana dan paling kuno yang digunakan untuk menyandikan 
+         pesan. Metode ini bekerja dengan cara menggantikan setiap huruf dalam teks asli dengan huruf lain yang berada 
+         di beberapa posisi setelahnya dalam alfabet. Misalnya, jika pergeseran atau "shift" yang dipilih adalah 3, 
+         maka huruf A akan menjadi D, B akan menjadi E, dan seterusnya. Jika mencapai akhir alfabet, ia kembali ke awal 
+         (misalnya, Z akan menjadi C).
 """)
 
 # Add image from Google Drive link
@@ -37,7 +39,7 @@ option = st.selectbox("Pilih opsi", ("Enkripsi", "Dekripsi"))
 text = st.text_input("Masukkan text:")
 shift = st.number_input("Masukkan perpindahan huruf (0-25):", min_value=0, max_value=25, step=1, value=3)
 
-if st.button("Submit"):
+if st.button("Ubah"):
     if option == "Enkripsi":
         result = encrypt(text, shift)
         st.write("Teks dienkripsi menjadi:", result)
