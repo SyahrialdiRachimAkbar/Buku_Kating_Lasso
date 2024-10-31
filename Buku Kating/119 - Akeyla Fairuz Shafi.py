@@ -148,7 +148,7 @@ if menu == "Kesekjenan":
                 "alamat": "Jl Nangka 4",
                 "hobi": "Mendengarkan bang pandra gitaran",
                 "sosmed": "@ptrimaulidaaa_",
-                "kesan": " ",  
+                "kesan": "kakaknya unik karena hobinya dengerin bang pandra gitaran",  
                 "pesan":  "Semangat terus ya kak!" # 1
             },
             {
@@ -203,8 +203,8 @@ elif menu == "Baleg":
                 "alamat": "Jl Raden Saleh",
                 "hobi": "Searching GPT",
                 "sosmed": "@trimurniaa_",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya kak!" #1
+                "kesan": "Serius tapi bisa asik dan santai juga",  
+                "pesan": "Semoga sukses dan lancar terus kuliahnya!" #1
             },
             {
                 "nama": "Annisa Cahyani Surya",
@@ -214,7 +214,7 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobi": "Baca buku dan nonton film",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": " ",  
+                "kesan": "Wawancaranya seru dan tidak begitu",  
                 "pesan": "Semangat terus ya kak!" # 1
             },
             {
