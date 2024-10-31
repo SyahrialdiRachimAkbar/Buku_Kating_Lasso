@@ -1370,7 +1370,7 @@ elif menu == "Departemen SSD":
                 "umur": "21",
                 "asal": "Panjibako",
                 "alamat": "Jl. Bel",
-                "hobbi": "Mencari Uang",
+                "hobi": "Mencari Uang",
                 "sosmed": "@andriangaol",
                 "kesan": "Seruu dan abangnya santaiii",  
                 "pesan": "Semoga kuliahnya lancar terus bang!!!" # 1
@@ -1381,7 +1381,7 @@ elif menu == "Departemen SSD":
                 "umur": "22",
                 "asal": "Metro",
                 "alamat": "Sukarame",
-                "hobbi": "Nonton film",
+                "hobi": "Nonton film",
                 "sosmed": "@adistysa_",
                 "kesan": "cantikk banget dan asikk",  
                 "pesan": "Semoga kuliahnya lancar terus kak!!!" # 2
@@ -1392,7 +1392,7 @@ elif menu == "Departemen SSD":
                 "umur": "21",
                 "asal": "Simalungun",
                 "alamat": "Airan",
-                "hobbi": "Menghitung Uang",
+                "hobi": "Menghitung Uang",
                 "sosmed": "@zhjung",
                 "kesan": "baikk bangett dann cantikk sekali",  
                 "pesan": "Semoga kuliahnya lancar terus kak!!!"  # 3
@@ -1403,7 +1403,7 @@ elif menu == "Departemen SSD":
                 "umur": "20",
                 "asal": "Bukit Tingi",
                 "alamat": "Airan",
-                "hobbi": "Jualan",
+                "hobi": "Jualan",
                 "sosmed": "@ahmad.riz45",
                 "kesan": "seruu dan ramah",  
                 "pesan": "Semoga kuliahnya lancar terus kakk!!!" # 4
@@ -1414,7 +1414,7 @@ elif menu == "Departemen SSD":
                 "umur": "21",
                 "asal": "Bandar Lampung",
                 "alamat": "Airan",
-                "hobbi": "Membaca",
+                "hobi": "Membaca",
                 "sosmed": "@dananghk_",
                 "kesan": "baikkk dan asikkk",  
                 "pesan": "Semoga kuliahnya lancar terus bang!!!" # 5
@@ -1425,7 +1425,7 @@ elif menu == "Departemen SSD":
                 "umur": "20",
                 "asal": "Bogor",
                 "alamat": "Lapas",
-                "hobbi": "Bebas",
+                "hobi": "Bebas",
                 "sosmed": "@farel_julio",
                 "kesan": "banyak kasih informasi tentang jualan",  
                 "pesan": "Semoga kuliahnya lancar terus bang!!!"# 6
@@ -1436,7 +1436,7 @@ elif menu == "Departemen SSD":
                 "umur": "20",
                 "asal": "Simalungun",
                 "alamat": "Pemda",
-                "hobbi": "Menulis",
+                "hobi": "Menulis",
                 "sosmed": "@tesakanias",
                 "kesan": "lucuu dan pendiem",  
                 "pesan": "Semoga kuliahnya lancar terus kakk!!!" # 7
@@ -1447,7 +1447,7 @@ elif menu == "Departemen SSD":
                 "umur": " ",
                 "asal": " ",
                 "alamat": " ",
-                "hobbi": " ",
+                "hobi": " ",
                 "sosmed": "@",
                 "kesan": "  ",  
                 "pesan":"  " # 8
@@ -1458,7 +1458,7 @@ elif menu == "Departemen SSD":
                 "umur": "20",
                 "asal": "Binjai",
                 "alamat": "Korpri",
-                "hobbi": "Nonton Windah",
+                "hobi": "Nonton Windah",
                 "sosmed": "@alviaginting",
                 "kesan": "lucuu bangett dan cantikkk",  
                 "pesan": "Semoga kuliahnya lancar terus kakk!!!" # 9
@@ -1469,7 +1469,7 @@ elif menu == "Departemen SSD":
                 "umur": "20",
                 "asal": "Bandar Lampung",
                 "alamat": "Jl. Nangka l",
-                "hobbi": "Tidur",
+                "hobi": "Tidur",
                 "sosmed": "@dhafinrzqa13",
                 "kesan": "seruu dan asikk",  
                 "pesan": "Semoga kuliahnya lancar terus bangg!!!" # 10
@@ -1480,7 +1480,7 @@ elif menu == "Departemen SSD":
                 "umur": "20",
                 "asal": "Bekasi",
                 "alamat": "Korpri",
-                "hobbi": "Badminton",
+                "hobi": "Badminton",
                 "sosmed": "@meylanielia",
                 "kesan": "lucuu banget dan seruuu",  
                 "pesan": "Semoga kuliahnya lancar terus kakk!!!" # 11
@@ -1496,14 +1496,14 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1nELouEA3xVErQ-2DhxsOFvODKvY6euAB", #ka elok
             "https://drive.google.com/uc?export=view&id=1mfqEKHNC3L5pyequPAqBddDXE2t73tha", #ka arsyiah
             "https://drive.google.com/uc?export=view&id=1mixkKSxdWXTvOKbuY4K-Lgsn9QtP115_", #ka cibel
-            "https://drive.google.com/uc?export=view&id=1UeXmcBIg-nL938IFIw20B20UxZAA0Wfz", #ka eka
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #ka eka
             "https://drive.google.com/uc?export=view&id=1mk4av5tCS4ELg_37o5mnXB5-D8bhYH-s", #ka najla
             "https://drive.google.com/uc?export=view&id=1mMtGce2aqWyRyMGuyk31EOPj9wf6X_zG", #ka patricia
             "https://drive.google.com/uc?export=view&id=1myG4-rVwnOoEIPWXN05_ttlP5Lk0A4jc", #ka rahma
             "https://drive.google.com/uc?export=view&id=1mXTK8nKXmWyaK3G4EmLV_2uZOezHDAsv", #ka try yani
             "https://drive.google.com/uc?export=view&id=1mkv1CCSaeojQPrjaVH4fWaW2mZgfuQTk", #bang kaisar
             "https://drive.google.com/uc?export=view&id=1n0XKPzQQ2TaUyvnmZA6oaMiC1W1_Bh-Z", #ka dwi
-            "https://drive.google.com/uc?export=view&id=1UdMO3bzCSxzObCELbjXoNegG6449UwRY", #bang gym
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #bang gym
             "https://drive.google.com/uc?export=view&id=1mr1vtfRz706oWHMRU38BDoWwfCkH8Gci", #ka nasywa
             "https://drive.google.com/uc?export=view&id=1mz_mKAMiz4Mb1WDgdUnc1x-l7djO5clH", #ka priska
             "https://drive.google.com/uc?export=view&id=1n8b1pTkAilAVVdzoSMOt_mS217A6U3M_", #bang arsal
