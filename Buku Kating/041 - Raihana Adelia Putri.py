@@ -1308,6 +1308,147 @@ elif menu == "Departemen Internal":
         display_images_with_data(gambar_urls, data_list)
     internal()
 
+elif menu == "Departemen MEDKRAF":
+    def medkraf():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1ymq7dNU9EnCg6-QGgLwYMXt9qzZUrKYT", # bg andrian
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka disty
+            "https://drive.google.com/uc?export=view&id=1SsemnF_6kL63UoLsSsqTwtK9CL1LDqlZ", # ka nabila
+            "https://drive.google.com/uc?export=view&id=1oRYp3aCrsBL7BnSfRw6Ze8q2cSRzBWzv", # bg ahmad rizqi
+            "https://drive.google.com/uc?export=view&id=1IHpFZWVfzmy8sKQhKVQQ9SJslaSpx2tq", # bg danang
+            "https://drive.google.com/uc?export=view&id=1W2SPrFfAAmik-Db0Mk-36tolW7mSlMOP", # bg farel
+            "https://drive.google.com/uc?export=view&id=1tmdL76ts-5RnS9gv4le2U_XX4id7vHnz", # ka tesa
+            "https://drive.google.com/uc?export=view&id=1dRWnpFlL32knlJdKcoTY8JyXb2lpB7fJ", # ka nabilah
+            "https://drive.google.com/uc?export=view&id=1xPOSE_dlHE2DPv-LYeL6BOmQyKPNs02w", # ka alvia
+            "https://drive.google.com/uc?export=view&id=1k2rAljh-4tEF8nXlfMN_e7VFE5Pv1--_", # bg dhafin
+            "https://drive.google.com/uc?export=view&id=1VepYRRT8HjlwECsk3F0gjwdfhv11nMDP", # ka elia
+        ]
+        data_list = [
+            {
+                "nama": "Andrian Agustinus Lumban Gaol",
+                "nim": "121450090",
+                "umur": "21",
+                "asal": "Panjibako",
+                "alamat": "Jl. Bel",
+                "hobi": "Mencari Uang",
+                "sosmed": "@andriangaol",
+                "kesan": "  ",  
+                "pesan": "Semangatt kuliahnya bang!" # 1
+            },
+            {
+                "nama": "Adisty Syawaida Ariyanto",
+                "nim": "121450136",
+                "umur": "22",
+                "asal": "Metro",
+                "alamat": "Sukarame",
+                "hobi": "Nonton film",
+                "sosmed": "@adistysa_",
+                "kesan": "  ",  
+                "pesan": "Semangatt kuliahnya kak!" # 2
+            },
+            {
+                "nama": "Nabila Azhari",
+                "nim": "121450029",
+                "umur": "21",
+                "asal": "Simalungun",
+                "alamat": "Airan",
+                "hobi": "Menghitung Uang",
+                "sosmed": "@zhjung",
+                "kesan": "  ",  
+                "pesan": "Semangatt kuliahnya kak!"  # 3
+            },
+            {
+                "nama": "Ahmad Rizqi",
+                "nim": "122450138",
+                "umur": "20",
+                "asal": "Bukit Tingi",
+                "alamat": "Airan",
+                "hobi": "Jualan",
+                "sosmed": "@ahmad.riz45",
+                "kesan": "  ",  
+                "pesan": "Semangatt kuliahnya bang!" # 4
+            },
+            {
+                "nama": "Danang Hilal Kurniawan",
+                "nim": "122450085",
+                "umur": "21",
+                "asal": "Bandar Lampung",
+                "alamat": "Airan",
+                "hobi": "Membaca",
+                "sosmed": "@dananghk_",
+                "kesan": "  ",  
+                "pesan": "Semangatt kuliahnya bang!" # 5
+            },
+            {
+                "nama": "Farrel Julio Akbar",
+                "nim": "122450110",
+                "umur": "20",
+                "asal": "Bogor",
+                "alamat": "Lapas",
+                "hobi": "Bebas",
+                "sosmed": "@farel_julio",
+                "kesan": "kerenn bang",  
+                "pesan": "Semangatt dan lancar kuliahnya bang!"# 6
+            },
+            {
+                "nama": "Tessa Kania Sagala",
+                "nim": "122450040",
+                "umur": "20",
+                "asal": "Simalungun",
+                "alamat": "Pemda",
+                "hobi": "Menulis",
+                "sosmed": "@tesakanias",
+                "kesan": "Ramaahhh sekalii kak ",  
+                "pesan": "Semangatt kuliahnya kak!" # 7
+            },
+            {
+                "nama": "Nabilah Andika Fitriati",
+                "nim": " ",
+                "umur": " ",
+                "asal": " ",
+                "alamat": " ",
+                "hobi": " ",
+                "sosmed": "@",
+                "kesan": "  ",  
+                "pesan":"  " # 8
+            },
+            {
+                "nama": "Alvia Asrinda Br.Gintng",
+                "nim": "122450077",
+                "umur": "20",
+                "asal": "Binjai",
+                "alamat": "Korpri",
+                "hobi": "Nonton Windah",
+                "sosmed": "@alviaginting",
+                "kesan": "  ",  
+                "pesan": "Semangatt kuliahnya kak!" # 9
+            },
+            {
+                "nama": "Dhafin Razaqa Luthfi",
+                "nim": "122450133",
+                "umur": "20",
+                "asal": "Bandar Lampung",
+                "alamat": "Jl. Nangka l",
+                "hobi": "Tidur",
+                "sosmed": "@dhafinrzqa13",
+                "kesan": "  ",  
+                "pesan": "Semangatt kuliahnya bang!" # 10
+            },
+            {
+                "nama": "Elia Meylani Simanjuntak",
+                "nim": "122450026",
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat": "Korpri",
+                "hobi": "Badminton",
+                "sosmed": "@meylanielia",
+                "kesan": "  ",  
+                "pesan": "Semangatt kuliahnya kak!" # 11
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    ssd()
+
 elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
@@ -1447,6 +1588,6 @@ elif menu == "Departemen SSD":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    ssd()
+    medkraf()
 
 # Tambahkan menu lainnya sesuai kebutuhan
