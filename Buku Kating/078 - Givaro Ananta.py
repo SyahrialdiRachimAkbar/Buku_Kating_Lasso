@@ -1524,7 +1524,7 @@ elif menu == "Departemen MEDKRAF":
                 "asal":"Makkasar",
                 "alamat": "Sukarame",
                 "hobi": "Nonton donghwa",
-                "sosmed": "wayyulaja",
+                "sosmed": "@wayyulaja",
                 "kesan": "-",  
                 "pesan": "-"
             },
