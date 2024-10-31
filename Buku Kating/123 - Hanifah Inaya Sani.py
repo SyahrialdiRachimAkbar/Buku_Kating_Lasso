@@ -1199,6 +1199,266 @@ elif menu == "Departemen SSD":
         ]
         display_images_with_data(gambar_urls, data_list)
     departemen_ssd()
+elif menu == "Departemen MIKFES":
+    def mikfes():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=",
+            "https://drive.google.com/uc?export=view&id=1BYedSyFj_bLZTqxMfaYFfoZfxErfPlwt",
+            "https://drive.google.com/uc?export=view&id=12vtJu_7ngV-MNdKrfee7T7SjfxtzuuOc",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1BlBnQM0_7x520rymPk6ibVz-FnDF_I2k",
+            "https://drive.google.com/uc?export=view&id=139GeaI86vv-n2acy5wSFzE_BpU5sC_G5",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=137w9Wlq_QCkTuceZNNTJueqG5h_9qLKI",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=13E-UgiNdBqjoCQe25ecMbDcbhHK1AtQC",
+            "https://drive.google.com/uc?export=view&id=137lBN1SGy3lMgFLwZRBubua7YzZjjFLS",
+            "https://drive.google.com/uc?export=view&id=1BpYru-HkkJy6ABOw1YQIfTb5yQecLXa_",
+            "https://drive.google.com/uc?export=view&id=1Bq1hGBzkqW4kK4LYfsp7Khle_dkmg37r",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1BZrYr-ydiNtx1p2Tppi7dlXiBZtrdX7C",
+            "https://drive.google.com/uc?export=view&id=13FUOQ1z71sWxVj0r1WBv_h4UJYFc4TCf",
+            "https://drive.google.com/uc?export=view&id=1BkLqR2rDi4c8CxCGe-G3kd6gDYPzWozp",
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+        ]
+        data_list = [
+            {
+                "nama": "Rafi Fadhlillah",
+                "nim": "121450143",
+                "umur": "21",
+                "asal": "Lubuk Linggau",
+                "alamat": "Jl. Nangka 4",
+                "hobi": "Olahraga",
+                "sosmed": "@rafadhilillahh13",
+                "kesan": "abangnya baik",  
+                "pesan": "Semangatt kuliahnya bang!" # 1
+            },
+            {
+                "nama": "Annisa Novantika",
+                "nim": "121450005",
+                "umur": "21",
+                "asal": "Lampung Utara",
+                "alamat": "Jl. Pulau Sebesi, Sukarame",
+                "hobi": "Memasak",
+                "sosmed": "@anovavona",
+                "kesan": "kakaknya baik",  
+                "pesan": "Semangatt kuliahnya kak!" # 2
+            },
+            {
+                "nama": "Mujadid Choirus Surya",
+                "nim": " ",
+                "umur": " ",
+                "asal": " ",
+                "alamat": " ",
+                "hobi": "  ",
+                "sosmed": "@ ",
+                "kesan": "  ",  
+                "pesan": "  " # 3
+            },
+            {
+                "nama": "Ahmad Sahidin Akbar",
+                "nim": "122450044",
+                "umur": "20",
+                "asal": "Tulang Bawang",
+                "alamat": "Sukarame",
+                "hobi": "Olahraga",
+                "sosmed": "@sahid22__",
+                "kesan": "abangnya baik",  
+                "pesan": "Semangatt kuliahnya bang!" # 4
+            },
+            {
+                "nama": "Fadhil Fitra Wijaya",
+                "nim": "122450082",
+                "umur": "20",
+                "asal": "Bekasi",
+                "alamat": "Teluk Betung",
+                "hobi": "Main Game",
+                "sosmed": "@fadhilfwee",
+                "kesan": "abangnya baik",  
+                "pesan": "Semangatt kuliahnya bang!" # 5
+            },
+            {
+                "nama": "Muhammad Regi Abdi Putra Amanta",
+                "nim": " ",
+                "umur": " ",
+                "asal": " ",
+                "alamat": " ",
+                "hobi": " ",
+                "sosmed": "@",
+                "kesan": "  ",  
+                "pesan": "  " # 6
+            },
+            {
+                "nama": "Syalaisha Andina Putriansyah",
+                "nim": "122450121",
+                "umur": "21",
+                "asal": "Tangerang",
+                "alamat": "Gg Yudhistira",
+                "hobi": "Baca Jurnal",
+                "sosmed": "@dkselsd_31",
+                "kesan": "kakak nya baik",  
+                "pesan": "Semangatt kuliahnya kak!" # 7
+            },
+            {
+                "nama": "Natanael Oktavianus Partahan Sihombing",
+                "nim": " ",
+                "umur": " ",
+                "asal": " ",
+                "alamat": " ",
+                "hobi": " ",
+                "sosmed": "@",
+                "kesan": "  ",  
+                "pesan": "  " # 8
+            },
+            {
+                "nama": "Anwar Muslim",
+                "nim": " ",
+                "umur": " ",
+                "asal": " ",
+                "alamat": " ",
+                "hobi": " ",
+                "sosmed": "@",
+                "kesan": "  ",  
+                "pesan": "  " # 9
+            },
+            {
+                "nama": "Deva Anjani Khayyuninafsyah",
+                "nim": " ",
+                "umur": " ",
+                "asal": " ",
+                "alamat": " ",
+                "hobi": " ",
+                "sosmed": "@",
+                "kesan": "  ",  
+                "pesan": "  " # 10
+            },
+            {
+                "nama": "Dinda Nababan",
+                "nim": "122450120",
+                "umur": "20",
+                "asal": "Medan",
+                "alamat": "Jl. Lapas",
+                "hobi": "Belajar",
+                "sosmed": "@dindanababan_",
+                "kesan": "kakaknya baik",  
+                "pesan": "Semangatt kuliahnya kak!" # 11
+            },
+            {
+                "nama": "Marleta Cornelia Leander",
+                "nim": "122450092",
+                "umur": "20",
+                "asal": "Depok, Jawa Barat",
+                "alamat": "Gg. Nangka 3",
+                "hobi": "Review Jurnal",
+                "sosmed": "@marletacornelia",
+                "kesan": "kakaknya baik!",  
+                "pesan": "Semangatt kuliahnya kak" # 12
+            },
+            {
+                "nama": "Rut Junita Sari Siburian",
+                "nim": "122450103",
+                "umur": "20",
+                "asal": "Batam, Kep.Riau",
+                "alamat": "Gg. Nangka 3",
+                "hobi": "Review Jurnal",
+                "sosmed": "@junitaa_0406",
+                "kesan": "kakaknya baik",  
+                "pesan": "Semangatt kuliahnya kak!" # 13
+            },
+            {
+                "nama": "Syadza Puspadari Azhar",
+                "nim": "122450072",
+                "umur": "20",
+                "asal": "Palembang",
+                "alamat": "Belwis",
+                "hobi": "Resume SG",
+                "sosmed": "@puspadrr",
+                "kesan": "kakaknya baik",  
+                "pesan": "Semangatt kuliahnya kak!" # 14
+            },
+            {
+                "nama": "Abdurrahman Al-atsary",
+                "nim": " ",
+                "umur": " ",
+                "asal": " ",
+                "alamat": " ",
+                "hobi": " ",
+                "sosmed": "@",
+                "kesan": "  ",  
+                "pesan": "  " # 15
+            },
+            {
+                "nama": "Aditya Rahman",
+                "nim": " ",
+                "umur": " ",
+                "asal": " ",
+                "alamat": " ",
+                "hobi": " ",
+                "sosmed": "@",
+                "kesan": "  ",  
+                "pesan": "  " # 16
+            },
+            {
+                "nama": "Eggi Satria",
+                "nim": "122450032",
+                "umur": "20",
+                "asal": "Sukabumi",
+                "alamat": "Korpri",
+                "hobi": "Ngoding WISATA",
+                "sosmed": "@egistr",
+                "kesan": "abangnya baik",  
+                "pesan": "Semangatt kuliahnya bang!" # 17
+            },
+            {
+                "nama": "Febiya Jomy Pratiwi",
+                "nim": "122450074",
+                "umur": "20",
+                "asal": "Tulang Bawang",
+                "alamat": "Jl Kelengkeng Raya",
+                "hobi": "Review Jurnal",
+                "sosmed": "@pratiwifebiya",
+                "kesan": "kakaknya baik",  
+                "pesan": "Semangatt kuliahnya kak!" # 18
+            },
+            {
+                "nama": "Happy Syahrul Ramadhan",
+                "nim": "122450013",
+                "umur": "20",
+                "asal": "Lampung Timur",
+                "alamat": "Karang Anyar",
+                "hobi": "Main Game",
+                "sosmed": "@sudo.syahrulramadhannn",
+                "kesan": "abangnya baik",  
+                "pesan": "Semangatt kuliahnya bang!" # 19
+            },
+            {
+                "nama": "Randa Andriana Putra",
+                "nim": "122450083",
+                "umur": "21",
+                "asal": "Banten",
+                "alamat": "Sukarame",
+                "hobi": "Tidur dan Berkembang",
+                "sosmed": "@randaandriana_",
+                "kesan": "abangnya baik",  
+                "pesan": "Semangatt kuliahnya bang!" # 20
+            },
+            {
+                "nama": "Vita Anggraini",
+                "nim": "  ",
+                "umur": " ",
+                "asal": " ",
+                "alamat": " ",
+                "hobi": "  ",
+                "sosmed": "@",
+                "kesan": "  ",  
+                "pesan":"  " # 21
+            },
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    mikfes()
 
 
 
