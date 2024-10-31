@@ -20,7 +20,7 @@ def streamlit_menu():
             "Departemen Eksternal",
             "Departemen Internal",
             "Departemen SSD",
-            "Departemen Medkraf",
+            "Departemen MEDKRAF",
         ],
         icons=[
             "people-fill",
@@ -1491,7 +1491,7 @@ elif menu == "Departemen SSD":
         display_images_with_data(gambar_urls, data_list)
     ssd()
 
-elif menu == "Departemen Medkraf":
+elif menu == "Departemen MEDKRAF":
     def medkraf():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1ar3KFn7VLJBdcxI65gcaSbFEZ2_jNrww",
