@@ -1227,7 +1227,7 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1_20b4WHKbWYgGuN9rWglnV3_zKECLDgO", # bg wahyu 1
             "https://drive.google.com/uc?export=view&id=1t8FhbEXS3i-fOWRPeI5IlPE_nmzrDIM_", # ka fiola 2
             "https://drive.google.com/uc?export=view&id=1trzWyUTBC56p0bdws2YQpMC3fuSGFKb1", # ka arysyiah 3
-            "https://drive.google.com/uc?export=view&id=1OCATDTwp2yUrG6k33QUk8mTWdqYzu8", # ka acintya 4 
+            "https://drive.google.com/uc?export=view&id=1OCATDTwp2yUrG6k33QUk8mTWdqYzu8-v", # ka acintya 4 
             "https://drive.google.com/uc?export=view&id=1PaE2jtAXykRBkb6ZtNFWmVHpwR3rPmTi", # ka najla 5
             "https://drive.google.com/uc?export=view&id=1JU7Y4uoUsx-ciEn9VrSexJNLdmFP9SZb", # bg patricia 6
             "https://drive.google.com/uc?export=view&id=1RKbDy768VwtB05o9CqX9XsOzSW58ssen", # kk rahma 7
