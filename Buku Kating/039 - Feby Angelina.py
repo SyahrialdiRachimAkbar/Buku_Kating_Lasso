@@ -1224,8 +1224,8 @@ elif menu == "Departemen SSD":
 elif menu == "Departemen MEDKRAF":
     def MEDKRAF():
         gambar_urls = [
-            "https://drive.google.com/uc?export=1_20b4WHKbWYgGuN9rWglnV3_zKECLDgO", # bg wahyu 1
-            "https://drive.google.com/uc?export=view&id=1t8FhbEXS3i-fOWRPeI5IlPE_nmzrDIM", # ka fiola 2
+            "https://drive.google.com/uc?export=view&id=1_20b4WHKbWYgGuN9rWglnV3_zKECLDgO", # bg wahyu 1
+            "https://drive.google.com/uc?export=view&id=1t8FhbEXS3i-fOWRPeI5IlPE_nmzrDIM_", # ka fiola 2
             "https://drive.google.com/uc?export=view&id=1trzWyUTBC56p0bdws2YQpMC3fuSGFKb1", # ka arysyiah 3
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka acintya 4 
             "https://drive.google.com/uc?export=view&id=1PaE2jtAXykRBkb6ZtNFWmVHpwR3rPmTi", # ka najla 5
