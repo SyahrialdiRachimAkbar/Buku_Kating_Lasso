@@ -1190,7 +1190,6 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1A-HSkIPEoU8g0uD0SkplxlrgRA8bwR3g",
             "https://drive.google.com/uc?export=view&id=1nwJouRelU4cksq4eLb9QQLK2sYXjTwGt",
             "https://drive.google.com/uc?export=view&id=1v7sgShQwbSXRdlFgjjZoS47cDi4IRK4r",
-            "https://drive.google.com/uc?export=view&id=1Xv_JNVpnFeBaIQIx3IVjVXb60I13YLWL",
             "https://drive.google.com/uc?export=view&id=1RAwb_DdouzdFct2u5gyhpIRK9in3kQkX",
         ]
         data_list = [
