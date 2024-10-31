@@ -1449,7 +1449,244 @@ elif menu == "Departemen SSD":
         display_images_with_data(gambar_urls, data_list)
     ssd()
 
+elif menu == "Departemen MEDKRAF":
+    def medkraf():
+        gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1DYI2KqEjkzhnuAKuc3a09Bnl2eAZIKQl", #bang wahyu
+            "https://drive.google.com/uc?export=view&id=1RM3nyE6O9kWdiyMwvagSAosBYJV3-yOo", #ka elok
+            "https://drive.google.com/uc?export=view&id=1uvHHrr8LstCVBWb-xdDvDQLy3RMet2PP", #ka arsyiah
+            "https://drive.google.com/uc?export=view&id=1Ih6FGnD0zN70LCPSFx1e_jrAKN1su_RZ", #ka cibel
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #ka eka
+            "https://drive.google.com/uc?export=view&id=1kqdHgPJh4Z3VEdL0lend8EI3HNFkYKt6", #ka najla
+            "https://drive.google.com/uc?export=view&id=1BlCNxiJXY2UcNdQUmPQPHo4FWo9x0wHX", #ka patricia
+            "https://drive.google.com/uc?export=view&id=18fcWThWRD8mEnyNzXtT70lkANIocqF6P", #ka rahma
+            "https://drive.google.com/uc?export=view&id=1MatjCqiEvxWmZ0W3KdJeNrCaqyPT2W69", #ka try yani
+            "https://drive.google.com/uc?export=view&id=1c2PPBbljT-em1c-JC2Rwr0cy0rNFB1VV", #bang kaisar
+            "https://drive.google.com/uc?export=view&id=1aNFWgY4T_w4iNCFHiE7CXnd8sXnQtLWy", #ka dwi
+            "https://drive.google.com/uc?export=view&id=1jObHVBNoW-UuLVKzJ77OqwjIRZRT_bHP", #bang gym
+            "https://drive.google.com/uc?export=view&id=1y7bPAagj5n60s8BiuG1_01AB9uVkMvc5", #ka nasywa
+            "https://drive.google.com/uc?export=view&id=1vU50v0sl_RFRl0qnyyYn-lrZ7tLilPkZ", #ka priska
+            "https://drive.google.com/uc?export=view&id=1FfVaX9Gy2CL1YLmzD2DuRVM6r3HVPX2t", #bang arsal
+            "https://drive.google.com/uc?export=view&id=1TseW2yg4M9TBMhO2tkyhJRMM6vFB_8St", #bang abit
+            "https://drive.google.com/uc?export=view&id=1hHeiJGD7uGHsDwg_9xNSo4tMzh_6BBcs", #bang akmal
+            "https://drive.google.com/uc?export=view&id=1w80UYy7zn7OfCXkZMnolaK3SrrDPHAL0", #bang mawan
+            "https://drive.google.com/uc?export=view&id=11jZD289_mEs6QzcS8HC0Y-z0GbYo5pLZ", #ka khusnun
+        ]
 
+        data_list = [
+            {
+                "nama": "Wahyudianto",
+                "nim": "121450040",
+                "umur": "22",
+                "asal":"Makkasar",
+                "alamat": "Sukarame",
+                "hobi": "Nonton donghwa",
+                "sosmed": "wayyulaja",
+                "kesan": "seruuu bangett",  
+                "pesan":"Semoga semua hasil sesuai dengan usaha selama ini bangg"
+            },
+            {
+                "nama": "Elok Fiola",
+                "nim": "122450051",
+                "umur": "19",
+                "asal":"Bandar Lampung",
+                "alamat": "Bandar Lampung",
+                "hobi": "Editing",
+                "sosmed": "@Elokviola",
+                "kesan": "cantikk dan kalemm",  
+                "pesan":"Semoga semua hasil sesuai dengan usaha selama ini kakk"
+            },
+            {
+                "nama": "Arsyiah Azahra",
+                "nim": "121450035",
+                "umur": "21",
+                "asal":"Bandar Lampung",
+                "alamat": "Tanjung Seneng",
+                "hobi": "Ngonten",
+                "sosmed": "@arsyiah._",
+                "kesan": "kalem sekaliii",  
+                "pesan":"Semoga semua hasil sesuai dengan usaha selama ini kakk"
+            },
+            {
+                "nama": "Cintya Bella",
+                "nim": "122450066",
+                "umur": "20",
+                "asal":"Bandar Lampung",
+                "alamat": "Teluk",
+                "hobi": "Ngegym",
+                "sosmed": "@cyhntiabella18",
+                "kesan": "Cantikk bangett",  
+                "pesan":"Semoga semua hasil sesuai dengan usaha selama ini kakk"
+            },
+            {
+                "nama": "Eka Fidiya Putri",
+                "nim": " ",
+                "umur": " ",
+                "asal":" ",
+                "alamat": " ",
+                "hobi": " ",
+                "sosmed": " ",
+                "kesan": " ",  
+                "pesan":" "
+            },
+            {
+                "nama": "Najla Juwairia",
+                "nim": "122450037",
+                "umur": "19",
+                "asal":"Sumatera Utara",
+                "alamat": "Airan",
+                "hobi": "Nulis, baca, ngefangirl",
+                "sosmed": "@nanana.minjoo",
+                "kesan": "ramah, cantik, lucu",  
+                "pesan":"Semoga semua hasil sesuai dengan usaha selama ini kakk"
+            },
+            {
+                "nama": "Patricia Leondrea Diajeng Putri",
+                "nim": "122450050",
+                "umur": "20",
+                "asal":"Lampung Selatan",
+                "alamat": "Jatimulyo",
+                "hobi": "Shopping",
+                "sosmed": "@patriciadiajeng",
+                "kesan": "Seruuu dan cantikkk bangettt",  
+                "pesan":"Semoga semua hasil sesuai dengan usaha selama ini kakk"
+            },
+            {
+                "nama": "Rahma Neliyana",
+                "nim": "122450036",
+                "umur": "20",
+                "asal":"Lampung",
+                "alamat": "Jl. Kembang 5 Sukarame",
+                "hobi": "Membaca merk mobil",
+                "sosmed": "@rahmaneliyana",
+                "kesan": "baikk dan ramahh bangett",  
+                "pesan":"Semoga semua hasil sesuai dengan usaha selama ini kakk"
+            },
+            {
+                "nama": "Try Yani Rizki Nur Rohmah",
+                "nim": "122450020",
+                "umur": "20",
+                "asal":"Lampung Barat",
+                "alamat": "Korpri",
+                "hobi": "Ngoding",
+                "sosmed": "@tryyaniciaaa",
+                "kesan": "seruu, cantikk",  
+                "pesan":"Semoga semua hasil sesuai dengan usaha selama ini kakk"
+            },
+            {
+                "nama": "Muhammad Kaisar Firdaus",
+                "nim": "122450135",
+                "umur": "21",
+                "asal":"Pesawaran",
+                "alamat": "Pulau Damar Way Kandis",
+                "hobi": "Masih Nyari",
+                "sosmed": "@dino_lapet",
+                "kesan": "seruuu bangg",  
+                "pesan":"Semoga semua hasil sesuai dengan usaha selama ini bangg"
+            },
+            {
+                "nama": "Dwi Ratna Anggraeni",
+                "nim" : "122450008",
+                "umur": "20",
+                "asal":"Jambi",
+                "alamat": "Perumahan Pemda",
+                "hobi": "Menonton",
+                "sosmed": "@dwiratnn_",
+                "kesan": "pendiemmm kakk",  
+                "pesan":"Semoga semua hasil sesuai dengan usaha selama ini kakk"
+            },
+            {
+                "nama": "Gymnastiar Al-Khoarizmy",
+                "nim": "122450065",
+                "umur": "20",
+                "asal":"Serang",
+                "alamat": "Lapangan Golf",
+                "hobi": "baca komik",
+                "sosmed": "@jimnn.as",
+                "kesan": "baikk dan asikk",  
+                "pesan":"Semoga semua hasil sesuai dengan usaha selama ini bangg"
+            },
+            {
+                "nama": "Nasywa Nur Afifah",
+                "nim": "122450125",
+                "umur": "20",
+                "asal":"Bekasi",
+                "alamat": "Jl. Durian 1",
+                "hobi": "suka bebersih dan denger musik jj",
+                "sosmed": "@nsywanaf",
+                "kesan": "cantik bangett dan seruuu",  
+                "pesan":"Semoga semua hasil sesuai dengan usaha selama ini kakk"
+            },
+            {
+                "nama": "Priska Silvia Ferantiana",
+                "nim": "121450053",
+                "umur": "20",
+                "asal":"Palembang",
+                "alamat": "Jl. nangka 2",
+                "hobi": "nonton apapun yang bikin nangis",
+                "sosmed": "@prskslv",
+                "kesan": "seruuu dan asikkk kak",  
+                "pesan":"Semoga semua hasil sesuai dengan usaha selama ini kakk"
+            },
+            {
+                "nama": "Muhammad Arsal Ranjana Utama",
+                "nim": "121450111",
+                "umur": "21",
+                "asal":"Depok",
+                "alamat": "Nangka 3",
+                "hobi": "Koleksi Parfum",
+                "sosmed": "@arsalutama",
+                "kesan": "baikk dan ramahh",  
+                "pesan":"Semoga semua hasil sesuai dengan usaha selama ini bangg"
+            },
+            {
+                "nama": "Abit Ahmad Oktarian",
+                "nim": "122450042",
+                "umur": "20",
+                "asal":"Rajabasa",
+                "alamat": "Bandar Lampung",
+                "hobi": "ngoding dan gaming",
+                "sosmed": "@abitahmad",
+                "kesan": "lucuu banget dan informatif",  
+                "pesan":"Semoga semua hasil sesuai dengan usaha selama ini bangg"
+            },
+            {
+                "nama": "Akmal Faiz Abdillah",
+                "nim": "122450114",
+                "umur": "20",
+                "asal":"Bandar Lampung",
+                "alamat": "Perum Griya Sukarame",
+                "hobi": "Main hp",
+                "sosmed": "@akmal.faiz",
+                "kesan": "seruu dan pinter",  
+                "pesan":"Semoga semua hasil sesuai dengan usaha selama ini bangg"
+            },
+            {
+                "nama": "Hermawan Manurung",
+                "nim": "122450069",
+                "umur": "20",
+                "asal":"Bogor",
+                "alamat": "Jalan Deket Tol",
+                "hobi": "baca novel",
+                "sosmed": "@hermawan.mnrng",
+                "kesan": "kocak banget dan asikk",  
+                "pesan":"Semoga semua hasil sesuai dengan usaha selama ini bangg!"
+            },
+            {
+                "nama": "Khusnun Nisa",
+                "nim": "122450078",
+                "umur": "20",
+                "asal":"Lampung Selatan",
+                "alamat": "Belwis",
+                "hobi": "Ngepel",
+                "sosmed": "@khusnun_nisa335",
+                "kesan": "ramahh dan baikk",  
+                "pesan":"Semoga semua hasil sesuai dengan usaha selama ini kakk"
+            }
+        ]
+        display_images_with_data(gambar_urls, data_list)
+    medkraf()
 # Tambahkan menu lainnya sesuai kebutuhan
+
 
 
