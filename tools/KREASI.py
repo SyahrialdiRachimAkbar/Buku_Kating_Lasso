@@ -1,4 +1,7 @@
 import streamlit as st
+from PIL import Image
+from io import BytesIO
+import requests
 
 def encrypt(text, shift):
     result = ""
@@ -22,6 +25,14 @@ Kriptografi Caesar Cipher adalah teknik enkripsi yang menggunakan penggantian hu
 teks asli dengan huruf lain yang memiliki posisi tetap dalam alfabet. 
 Teknik ini merupakan salah satu teknik kriptografi tertua dan paling sederhana
 """)
+
+# Add image from Google Drive link
+image_url = "https://drive.google.com/uc?export=view&id=1uRyLAzPuu4IKsgCttJ2gNZDbqyuH2r5l"
+response = requests.get(image_url)
+image = Image.open(BytesIO(response.content))
+image = image.resize((400, 267))
+st.image(image, caption='Julius Caesar, pencipta Caesar Cipher', use_column_width=True)
+
 option = st.selectbox("Pilih opsi", ("Enkripsi", "Dekripsi"))
 text = st.text_input("Masukkan text:")
 shift = st.number_input("Masukkan perpindahan huruf (0-25):", min_value=0, max_value=25, step=1, value=3)
@@ -33,3 +44,4 @@ if st.button("Submit"):
     else:
         result = decrypt(text, shift)
         st.write("Teks didekripsi menjadi:", result)
+
