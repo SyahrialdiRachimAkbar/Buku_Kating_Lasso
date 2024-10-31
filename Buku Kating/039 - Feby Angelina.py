@@ -1221,8 +1221,8 @@ elif menu == "Departemen SSD":
         display_images_with_data(gambar_urls, data_list)
 
     ssd()
-elif menu == "Departemen Medkraf":
-    def Medkraf():
+elif menu == "Departemen MEDKRAF":
+    def MEDKRAF():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=1_l3oPzM8Anvm7qUqtxGZnKJM5inmOjWM", # bg wahyu 1
             "https://drive.google.com/uc?export=view&id=1yaEdi_1VXcAta2u3fdW43OxYkh6u_ymV", # ka fiola 2
@@ -1446,7 +1446,7 @@ elif menu == "Departemen Medkraf":
 
         ]
         display_images_with_data(gambar_urls, data_list)
-    Mendkraf()   
+    MEDKRAF()   
     
 
     
