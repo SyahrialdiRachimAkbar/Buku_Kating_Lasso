@@ -75,7 +75,7 @@ Mahasiswa13 = st.Page(
 )
 
 #Perlu diperhatikan perubahannya
-KREASI = st.Page("tools/KREASI.py", title="KREASI", icon=":material/search:")
+KREASI = st.Page("tools/KREASI.py", title="Penerjemah Caesar Cipher ", icon=":material/search:")
 KREASII = st.Page("tools/KREASII.py", title="KREASII", icon=":material/search:")
 
 #Perlu diperhatikan perubahannya
