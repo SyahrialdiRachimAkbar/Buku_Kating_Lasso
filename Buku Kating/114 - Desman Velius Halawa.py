@@ -1507,18 +1507,18 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #ka eka
             "https://drive.google.com/uc?export=view&id=1ndyWG3EM-bZb9dlpP694dJtombn_r-KD", #ka najla
             "https://drive.google.com/uc?export=view&id=1tRKN4uU7ZPeuyaPX4JksgDUOIPVrQtfV", #ka patricia
-            "https://drive.google.com/uc?export=view&id=1myG4-rVwnOoEIPWXN05_ttlP5Lk0A4jc", #ka rahma
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #ka rahma
             "https://drive.google.com/uc?export=view&id=13RGppCLH_fD0cEmdEv4HTtuHHIzR8KWl", #ka try yani
-            "https://drive.google.com/uc?export=view&id=1ZWzUss-OrahcuRHHfsmcTaiakhexoz8_", #bang kaisar
-            "https://drive.google.com/uc?export=view&id=1n0XKPzQQ2TaUyvnmZA6oaMiC1W1_Bh-Z", #ka dwi
+            "https://drive.google.com/uc?export=view&id=1OamA-f0bYcUUC0MvDjijKcVuVB4kio_H", #bang kaisar
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #ka dwi
             "https://drive.google.com/uc?export=view&id=13_U_rmMx_hSRnKmoZtSMQ44aPeYZ5khf", #bang gym
-            "https://drive.google.com/uc?export=view&id=1ZWzUss-OrahcuRHHfsmcTaiakhexoz8_", #ka nasywa
+            "https://drive.google.com/uc?export=view&id=1HQcxMHyjKq_lK11-Pvf1Z6PWJ6xV-v0b", #ka nasywa
             "https://drive.google.com/uc?export=view&id=1ZWzUss-OrahcuRHHfsmcTaiakhexoz8_", #ka priska
             "https://drive.google.com/uc?export=view&id=15dTPe1bRy68IKTU0ddO5gdiveizDUZOl", #bang arsal
             "https://drive.google.com/uc?export=view&id=1Xs3XTY4Ys7gmwqKfx6o4DPSa12L_4WFT", #bang abit
-            "https://drive.google.com/uc?export=view&id=1w0Wq0TTljx5Y7yLQESQjXceFbjBCYqCF", #bang akmal
-            "https://drive.google.com/uc?export=view&id=1BMxIdlUOC18shXG-9WCsMz3DxI_4Ja1q", #bang mawan
-            "https://drive.google.com/uc?export=view&id=1mVbi6eYnYi52XVNwLkTl1H9SEBdoLf3U", #ka khusnun
+            "https://drive.google.com/uc?export=view&id=13_U_rmMx_hSRnKmoZtSMQ44aPeYZ5khf", #bang akmal
+            "https://drive.google.com/uc?export=view&id=1w0Wq0TTljx5Y7yLQESQjXceFbjBCYqCF", #bang mawan
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #ka khusnun
         ]
 
         data_list = [
