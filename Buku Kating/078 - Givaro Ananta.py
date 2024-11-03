@@ -1504,7 +1504,7 @@ elif menu == "Departemen MEDKRAF":
 	    "https://drive.google.com/uc?export=view&id=1_VY-F8a4CD2taDOCsX41icrbVXXrZt7-", #kak juju
 	    "https://drive.google.com/uc?export=view&id=1SmbXd_MaNwTkzd1kZSENrmFBkosZ15fB", #kak cia
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak rahma
-	    "https://drive.google.com/uc?export=view&id=1SmbXd_MaNwTkzd1kZSENrmFBkosZ15fB", #kak try
+	    "https://drive.google.com/uc?export=view&id=1Ns5IVheW7sm8CfCSPZ_z88voDdz5iz6w", #kak try
 	    "https://drive.google.com/uc?export=view&id=1Xcxbmb9BNygeIXc35L9NPTob_S8ox20i", #bang firdaus
             "https://drive.google.com/uc?export=view&id=1Ku6cLV_sw1WfThlCV5IPU4eQoj6jPixl", #kak dwi
             "https://drive.google.com/uc?export=view&id=1tu9i46rGlHHpxZxIoyve9iH9lr-2JJ5D", #bang gym
@@ -1515,6 +1515,7 @@ elif menu == "Departemen MEDKRAF":
 	    "https://drive.google.com/uc?export=view&id=1JEwKPcGiuE55jt7BQb9TDTey2-2vecEu", #bang akmal
 	    "https://drive.google.com/uc?export=view&id=1dTnef0gmrDC-j2HMMbFSjQrtHK0atfvq", #bang her
 	    "https://drive.google.com/uc?export=view&id=1VM9Pg-D_Ot3dXfZkHUatBlKZT1uoy-yF", #kak khusnun
+
         ]
 
         data_list = [
