@@ -214,8 +214,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobi": "Baca buku dan nonton film",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "Wawancaranya seru dan tidak begitu",  
-                "pesan": "Semangat terus ya kak!" # 1
+                "kesan": "Wawancaranya seru dan tidak begitu tegang",  
+                "pesan": "Stay Cool kak" # 1
             },
             {
                 "nama": "Wulan Sabina",
@@ -225,8 +225,8 @@ elif menu == "Baleg":
                 "alamat": "Jl Raden Saleh",
                 "hobi": "Belajar bersama pak tamaro",
                 "sosmed": "@wlsbn0",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya kak!" # 1
+                "kesan": "Sama-sama suka belajar bersama pak tamaro :)",  
+                "pesan": "Jangan pernah takut dalam mengemban tugas kak!" # 1
             },
             {
                 "nama": "Anisa Dini Amalia",
@@ -357,8 +357,8 @@ elif menu == "Senator":
                 "alamat": "Kost Putri Rahayu",
                 "hobi": "Bernyani",
                 "sosmed": "@anissaluthfi_",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya kak!"
+                "kesan": "Public speakingnya bagus banget dan pengalamannya juga keren abis",  
+                "pesan": "Terus jaya sebagai senator ya kak!"
             },
             {
                 "nama": "Rian Bintang Wijaya",
@@ -368,8 +368,8 @@ elif menu == "Senator":
                 "alamat": "Kontrakan kota baru",
                 "hobi": "Dengerin Ka Luthfi bernyanyi",
                 "sosmed": "@bintangtwinkle",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya bang!"
+                "kesan": "Gak kalah keren dengan kak Annisa, public speakingnya juga bagus banget.",  
+                "pesan": "Semoga bisa mengikuti jejak kak Annisa ya bang!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
