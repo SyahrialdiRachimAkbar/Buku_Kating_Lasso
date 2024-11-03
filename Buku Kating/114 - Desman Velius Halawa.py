@@ -1517,7 +1517,7 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=15dTPe1bRy68IKTU0ddO5gdiveizDUZOl", #bang arsal
             "https://drive.google.com/uc?export=view&id=1Xs3XTY4Ys7gmwqKfx6o4DPSa12L_4WFT", #bang abit
             "https://drive.google.com/uc?export=view&id=13_U_rmMx_hSRnKmoZtSMQ44aPeYZ5khf", #bang akmal
-            "https://drive.google.com/uc?export=view&id=1w0Wq0TTljx5Y7yLQESQjXceFbjBCYqCF", #bang mawan
+            "https://drive.google.com/uc?export=view&id=1W1mCHlhjapPJ-EZa7cHIQwJc_x3MJQjL", #bang mawan
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #ka khusnun
         ]
 
