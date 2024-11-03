@@ -206,7 +206,7 @@ elif menu == "Baleg":
                 "hobi": "Searching di GPT",
                 "sosmed": "@trimurniyaa_",
                 "kesan": "kak Tri asik, humoris juga suka bercanda",  
-                "pesan":"semangat terus kakak cantik!"
+                "pesan":"semangat menjalani semester 7 kak tri, lancar sampai wisuda yaa!"
             },
             {
                 "nama": "Annisa Cahyani Surya",
