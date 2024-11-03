@@ -699,7 +699,7 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Teluk Betung",
                 "hobi": "Main Game",
                 "sosmed": "@fadhilfwee",
-                "kesan": ""Abangnya kalem,  
+                "kesan": "Abangnya kalem",  
                 "pesan": "Terima kasih bang atas dukungan inspiratif yang telah diberikan dan semangat selaluu bang!" # 5
             },
             {
@@ -1449,7 +1449,7 @@ elif menu == "Departemen SSD":
             },
         ]
         display_images_with_data(gambar_urls, data_list)
-    medkraf()
+    ssd()
 elif menu == "Departemen MEDKRAF":
     def medkraf():
         gambar_urls = [
