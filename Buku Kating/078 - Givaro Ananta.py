@@ -379,29 +379,30 @@ elif menu == "Senator":
 elif menu == "Departemen PSDA":
     def psda():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg econ
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka abet
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka pipah
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka allya
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka eksanty
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka hanum
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg ferdy 
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg deri 
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka okta 
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg deyvan
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg ibnu farhan 
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg jo
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg kemas
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg leon
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka presilia
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka aqila
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg sahid
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka vanes
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg ateng
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg gede
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka jaclin
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg rafly
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka syalaisha dini
+            	    "https://drive.google.com/uc?export=view&id=1h7KLWbp4fw-5dvSp7zEQFZFC0vReAJax", #bang econ
+            "https://drive.google.com/uc?export=view&id=1_eTUki3alEjzZGi3UPiuZt2hICODOzEP", #kak abet
+            "https://drive.google.com/uc?export=view&id=1kQrtny1wkj76g_SWtgOW0dLC19ntk1FF", #kak fifah
+            "https://drive.google.com/uc?export=view&id=1I_psd8DwMwFxV0NVG21QyVjUvNFc3kUD", #kak aliya
+            "https://drive.google.com/uc?export=view&id=1C199C02du7NQ41v4MHzBvahGu_eIhL0e", #kak eksanty
+            "https://drive.google.com/uc?export=view&id=1_n7y3jWXGwp3F-yvg1ehNk0U7zVWaahY", #kak hanum
+            "https://drive.google.com/uc?export=view&id=1z0TOE_fMjmVqpcYTaaOWNankBMOmDlbI", #bang ferdy
+            "https://drive.google.com/uc?export=view&id=1WBSjMBcQku_qGrznK34zi_6MDFnbVzNw", #bang deri
+            "https://drive.google.com/uc?export=view&id=13Bi_TPEwEC6jMPMyfCuBDowAxcSUx-e_", #kak oktavia
+            "https://drive.google.com/uc?export=view&id=1qQbL9juXtlyKurig3rnAiaYK75TGlz00", #bang devyan
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1vDu4GeGD0vHW7kDRGmayW4tdLAXUKNiP", #bang jon
+            "https://drive.google.com/uc?export=view&id=1FCiQnY2OdpArFQ6F-2HvfkPUcZBkhyFn", #bang kemas
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1-aljIVRHp2cFkBkZKok7w1i_19mhkj5O", #kak presilia
+            "https://drive.google.com/uc?export=view&id=1qEjN85DDEoVz2PbTJlknS7UCD5Trv0-D", #kak rafa
+            "https://drive.google.com/uc?export=view&id=1JULRhxfs9ehBMRv5GmxC4ditPbxwXOHY", #bang sahid
+ 	        "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1wJUxdf--TjYCV2NFkBUdl2b1d3oS4J0H", #bang ateng
+            "https://drive.google.com/uc?export=view&id=1o34DxRMflw53LI5TKX3mDdEZglifNP52", #bang gede
+            "https://drive.google.com/uc?export=view&id=1fQg-nmroiShdaNzFE_4JGvLiifC8QVc-", #kak jaclin
+            "https://drive.google.com/uc?export=view&id=11w-Oy7ctQn5RnVlBe5K-FQB0UNRki6PE", #bang rafly
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+
         ]
         data_list = [
             {
