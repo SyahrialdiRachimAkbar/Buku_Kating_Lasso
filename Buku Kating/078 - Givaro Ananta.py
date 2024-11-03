@@ -1354,17 +1354,17 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+	    "https://drive.google.com/uc?export=view&id=192zwcrCJTQ2deleyEHp8Fn1LARZlvfeU", #bang andrian
+	    "https://drive.google.com/uc?export=view&id=1_dS51MxMIER7iD2FP9zqtAuQJF_fcQMK", #kak adisty
+            "https://drive.google.com/uc?export=view&id=135UVUvjiM04qoeQcS804EFkt-SPoomB_", #kak nabila
+            "https://drive.google.com/uc?export=view&id=1sA0-z0RUyGwMwsBT6IK1DQ0QOd8TjCVj", #bang ahmad
+	    "https://drive.google.com/uc?export=view&id=1JnVJIA_XM0-v6-WxmLLyNO7_HGC1WmbY", #bang danang
+	    "https://drive.google.com/uc?export=view&id=1c-mDHujTdBOIFQAoWq3g6XpyYClI_Gj0", #bang farrel
+            "https://drive.google.com/uc?export=view&id=1FkXALX7qWhqyeHqKmuT11NDGRaDehGtK", #kak tessa
+	    "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #kak nabilah
+	    "https://drive.google.com/uc?export=view&id=1KuODiQwrWdOIrk43wnY_XhzuvEKR5qZ9", #kak alvia
+            "https://drive.google.com/uc?export=view&id=1AkYM6M4Ji1P6nHhk6Npyl4HI0UYhPTMD", #bang dhafin
+            "https://drive.google.com/uc?export=view&id=1vzUt1_GXPxcbspEAYNozFhjDkG98-p0Q", #kak elia
 
         ]
         data_list = [
