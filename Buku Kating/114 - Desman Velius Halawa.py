@@ -671,7 +671,7 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1A0Qbqk0L3O1FZ9BsUWka8Vg9GQsO1j3J", # ka anova
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg mujadid
             "https://drive.google.com/uc?export=view&id=1e5hMrBsQ_TKZyzE_0CEWjx7bEHLbSE1J", # ahmad sahidin
-            "https://drive.google.com/uc?export=1ZWq-M7bCIuZDSxbsILZLJOQMit-LPbiy", # bg fadhil
+            "https://drive.google.com/uc?export==view&id=1ZWq-M7bCIuZDSxbsILZLJOQMit-LPbiy", # bg fadhil
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg regi
             "https://drive.google.com/uc?export=view&id=1daSeufwWtQmoN-25F71nOItO6RT5FwLe", # ka syalasisha dina
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg natanael
