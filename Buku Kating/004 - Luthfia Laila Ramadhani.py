@@ -695,7 +695,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Olahraga",
                 "sosmed": "@rafadhilillahh13",
                 "kesan": "Kerenn buat bang rafi, asik, dan baik",  
-                "pesan": "Semangatt kuliahnya bang! Semangat semangat semangat" # 1
+                "pesan": "Tetap semangat dan jangan menyerah ya bang" # 1
             },
             {
                 "nama": "Annisa Novantika",
@@ -706,7 +706,7 @@ elif menu == "Departemen MIKFES":
                 "hobi": "Memasak",
                 "sosmed": "@anovavona",
                 "kesan": "Asik dan baik hatii",  
-                "pesan": "Semangatt kuliahnya kak! Semangat semangat semangat" # 2
+                "pesan": "Semangat buat kak anova, namanya lucu bisa disingkat ada unsur sains data nya" # 2
             },
             {
                 "nama": "Mujadid Choirus Surya",
@@ -727,8 +727,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Sukarame",
                 "hobi": "Olahraga",
                 "sosmed": "@sahid22__",
-                "kesan": "Baik abangnya, sabar, dan asik",  
-                "pesan": "Semangatt kuliahnya bang! Semangat semangat semangat" # 4
+                "kesan": "Sabar banget abangnya, keren puol",  
+                "pesan": "Bang jangan pernah menyerah, untuk mendapatkan hal yang menarik" # 4
             },
             {
                 "nama": "Fadhil Fitra Wijaya",
@@ -738,8 +738,8 @@ elif menu == "Departemen MIKFES":
                 "alamat": "Teluk Betung",
                 "hobi": "Main Game",
                 "sosmed": "@fadhilfwee",
-                "kesan": "Baik abangnyaa dan asik",  
-                "pesan": "Semangatt kuliahnya bang! Semangat semangat semangat" # 5
+                "kesan": "Cakep, baik hati, dan asik",  
+                "pesan": "Bang kalau pake masker cakep bang" # 5
             },
             {
                 "nama": "Muhammad Regi Abdi Putra Amanta",
@@ -1497,11 +1497,11 @@ elif menu == "Departemen MEDKRAF":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=17IHVFfr4PhBpBy24xw0v9uLJToLcrXMi", #bang wahyu
             "https://drive.google.com/uc?export=view&id=16m3Do-Xmg7u7VCqzAndL5Lekcnt-HenU", #ka elok
-            "https://drive.google.com/uc?export=view&id=1mfqEKHNC3L5pyequPAqBddDXE2t73tha", #ka arsyiah
-            "https://drive.google.com/uc?export=view&id=1mixkKSxdWXTvOKbuY4K-Lgsn9QtP115_", #ka cibel
+            "https://drive.google.com/uc?export=view&id=11BNDeK6YAItqfLS_hMjb5tO8-DFSdht_M", #ka arsyiah
+            "https://drive.google.com/uc?export=view&id=1BRp0dETWc0kM17j3e4SU9rMHPSuWa8-9", #ka cibel
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #ka eka
             "https://drive.google.com/uc?export=view&id=16PgVuZoYlTudP63QagUWLv4eFBgBw1kQ", #ka najla
-            "https://drive.google.com/uc?export=view&id=1mMtGce2aqWyRyMGuyk31EOPj9wf6X_zG", #ka patricia
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #ka patricia
             "https://drive.google.com/uc?export=view&id=16aBChBpPKsN8OTtkLA1hKlR3tAeIesYq", #ka rahma
             "https://drive.google.com/uc?export=view&id=167fSuWEoyJRRz_J4R79VszdbVMbFuEzT", #ka try yani
             "https://drive.google.com/uc?export=view&id=16HSXQZjkSAoEMooQXD95S9bFEkzqbppc", #bang kaisar
@@ -1510,9 +1510,9 @@ elif menu == "Departemen MEDKRAF":
             "https://drive.google.com/uc?export=view&id=16K-dFKHyemlqVbzBtHT3_CDnPEI-LzyB", #ka nasywa
             "https://drive.google.com/uc?export=view&id=16Edrt8IZ-PSIct-oWo_UNv-oJao-Urza", #ka priska
             "https://drive.google.com/uc?export=view&id=170WGWY-T7-iAWqMZm6stuZEX9qXmgskI", #bang arsal
-            "https://drive.google.com/uc?export=view&id=1mjM6ztsDZwWDc72lSOYyxEkiQRr_d_HV", #bang abit
+            "https://drive.google.com/uc?export=view&id=1BXwqMfAEEMolgik7iLgRXfTg4B7K5K-y", #bang abit
             "https://drive.google.com/uc?export=view&id=16lfcWmZsf1BT1TwM2NuZw2knSK6Kc0cy", #bang akmal
-            "https://drive.google.com/uc?export=view&id=1mZNo-kjk0spEEl-dCPik_697bzzdTBzg", #bang mawan
+            "https://drive.google.com/uc?export=view&id=1BMinPCjjwv7wz0gGuch__zUJWB-PrJV_", #bang mawan
             "https://drive.google.com/uc?export=view&id=17E3d_7dOhAukExn7VMYV1OLB4cN4IBo1", #ka khusnun
         ]
 
