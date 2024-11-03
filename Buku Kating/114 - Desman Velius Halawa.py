@@ -1500,24 +1500,24 @@ elif menu == "Departemen SSD":
 elif menu == "Departemen MEDKRAF":
     def medkraf():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1mVpGLcZC4LVgO1pTArPZHTgU7M5CDsmh", #bang wahyu
-            "https://drive.google.com/uc?export=view&id=1nELouEA3xVErQ-2DhxsOFvODKvY6euAB", #ka elok
-            "https://drive.google.com/uc?export=view&id=1mfqEKHNC3L5pyequPAqBddDXE2t73tha", #ka arsyiah
-            "https://drive.google.com/uc?export=view&id=1mixkKSxdWXTvOKbuY4K-Lgsn9QtP115_", #ka cibel
+            "https://drive.google.com/uc?export=view&id=1w0Wq0TTljx5Y7yLQESQjXceFbjBCYqCF", #bang wahyu
+            "https://drive.google.com/uc?export=view&id=1MpvY7mlqQ6eYSXfLEr0ITws99-vCSYmJ", #ka elok
+            "https://drive.google.com/uc?export=view&id=1BMxIdlUOC18shXG-9WCsMz3DxI_4Ja1q", #ka arsyiah
+            "https://drive.google.com/uc?export=view&id=1s0Liy7px7qmFdetVQm1vTulbXj_fd-QW", #ka cibel
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #ka eka
-            "https://drive.google.com/uc?export=view&id=1mk4av5tCS4ELg_37o5mnXB5-D8bhYH-s", #ka najla
-            "https://drive.google.com/uc?export=view&id=1mMtGce2aqWyRyMGuyk31EOPj9wf6X_zG", #ka patricia
+            "https://drive.google.com/uc?export=view&id=1ndyWG3EM-bZb9dlpP694dJtombn_r-KD", #ka najla
+            "https://drive.google.com/uc?export=view&id=1tRKN4uU7ZPeuyaPX4JksgDUOIPVrQtfV", #ka patricia
             "https://drive.google.com/uc?export=view&id=1myG4-rVwnOoEIPWXN05_ttlP5Lk0A4jc", #ka rahma
-            "https://drive.google.com/uc?export=view&id=1mXTK8nKXmWyaK3G4EmLV_2uZOezHDAsv", #ka try yani
-            "https://drive.google.com/uc?export=view&id=1mkv1CCSaeojQPrjaVH4fWaW2mZgfuQTk", #bang kaisar
+            "https://drive.google.com/uc?export=view&id=13RGppCLH_fD0cEmdEv4HTtuHHIzR8KWl", #ka try yani
+            "https://drive.google.com/uc?export=view&id=1ZWzUss-OrahcuRHHfsmcTaiakhexoz8_", #bang kaisar
             "https://drive.google.com/uc?export=view&id=1n0XKPzQQ2TaUyvnmZA6oaMiC1W1_Bh-Z", #ka dwi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", #bang gym
-            "https://drive.google.com/uc?export=view&id=1mr1vtfRz706oWHMRU38BDoWwfCkH8Gci", #ka nasywa
-            "https://drive.google.com/uc?export=view&id=1mz_mKAMiz4Mb1WDgdUnc1x-l7djO5clH", #ka priska
-            "https://drive.google.com/uc?export=view&id=1n8b1pTkAilAVVdzoSMOt_mS217A6U3M_", #bang arsal
-            "https://drive.google.com/uc?export=view&id=1mjM6ztsDZwWDc72lSOYyxEkiQRr_d_HV", #bang abit
-            "https://drive.google.com/uc?export=view&id=1n918mxjlOAnO-B37l6AN4TrKXi_tG1Ag", #bang akmal
-            "https://drive.google.com/uc?export=view&id=1mZNo-kjk0spEEl-dCPik_697bzzdTBzg", #bang mawan
+            "https://drive.google.com/uc?export=view&id=13_U_rmMx_hSRnKmoZtSMQ44aPeYZ5khf", #bang gym
+            "https://drive.google.com/uc?export=view&id=1ZWzUss-OrahcuRHHfsmcTaiakhexoz8_", #ka nasywa
+            "https://drive.google.com/uc?export=view&id=1ZWzUss-OrahcuRHHfsmcTaiakhexoz8_", #ka priska
+            "https://drive.google.com/uc?export=view&id=15dTPe1bRy68IKTU0ddO5gdiveizDUZOl", #bang arsal
+            "https://drive.google.com/uc?export=view&id=1Xs3XTY4Ys7gmwqKfx6o4DPSa12L_4WFT", #bang abit
+            "https://drive.google.com/uc?export=view&id=1w0Wq0TTljx5Y7yLQESQjXceFbjBCYqCF", #bang akmal
+            "https://drive.google.com/uc?export=view&id=1BMxIdlUOC18shXG-9WCsMz3DxI_4Ja1q", #bang mawan
             "https://drive.google.com/uc?export=view&id=1mVbi6eYnYi52XVNwLkTl1H9SEBdoLf3U", #ka khusnun
         ]
 
