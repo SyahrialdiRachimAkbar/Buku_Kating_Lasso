@@ -185,7 +185,7 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1FXX3P06Wf5ndn7Uyxl2Ih-80dmN-qlIN",
             "https://drive.google.com/uc?export=view&id=1FctwxIFojQTi51m8BL-lDmgVX7HEIK3b",
             "https://drive.google.com/uc?export=view&id=1FWHpNhOMP9LegU4W5YW0n3j7D2SGcLtL",
-            "https://drive.google.com/uc?export=view&id=1FHxLgNXjd6CivXZCEnsQph8vqsTHh7xB",
+            "https://drive.google.com/uc?export=view&id=1FDbyS3SPFdUg47BYm1r9fUqawfJPMm9O",
             "https://drive.google.com/uc?export=view&id=1FHxLgNXjd6CivXZCEnsQph8vqsTHh7xB",
             "https://drive.google.com/uc?export=view&id=1FVxogGIVOmNgslzMTH8SDBCtO69Y2cNI",
             "https://drive.google.com/uc?export=view&id=1FI623y__z2ALytH-xlEgx_J7vTVaApMV",
@@ -1168,7 +1168,7 @@ elif menu == "Departemen Internal":
                 "pesan": "selalu jadi yang murah senyum dan ketawa kak"# 2
             },
             {
-                "nama": "M. Akbar Restika",
+                "nama": "M. Akbar Resdika",
                 "nim": "121450066",
                 "umur": "20",
                 "asal": "Lampung Barat",
@@ -1307,14 +1307,14 @@ elif menu == "Departemen Internal":
 elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg andrian
+            "https://drive.google.com/uc?export=view&id=1IOv67UC6i3myIEH6xRqWlKUMa8DKFVMg", # bg andrian
             "https://drive.google.com/uc?export=view&id=1yiwJTM98oCV6jxyfN5al_K8LUIQ2VKqy", # ka disty
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka nabila
+            "https://drive.google.com/uc?export=view&id=1yh5i9dxDPFsrcWvouC9R5pUdJyJzcrox", # ka nabila
             "https://drive.google.com/uc?export=view&id=1yg-a330XI4n8Ji-z88inKefqmjGTa_6k", # bg ahmad rizqi
             "https://drive.google.com/uc?export=view&id=1yaWIbyK5LCwenndmS2utubA8NNtySsWk", # bg danang
             "https://drive.google.com/uc?export=view&id=1yfmxNUSe4JQmG-6dBmKhRykHkXEVvL1U", # bg farel
             "https://drive.google.com/uc?export=view&id=1yisseBI8Dbbi8qJvPHQUTEjUHONzyRfP", # ka tesa
-            "https://drive.google.com/uc?export=view&id=1yh5i9dxDPFsrcWvouC9R5pUdJyJzcrox", # ka nabilah
+            "https://drive.google.com/uc?export=view&id=1yZyLwKNlfXT8OhtQ4F2pO8d03xkOh9T7", # ka nabilah
             "https://drive.google.com/uc?export=view&id=1yiuiccEkuzPzrQf-FRPHmhVnvEo7wHqp", # ka alvia
             "https://drive.google.com/uc?export=view&id=1yq27j5XTvQpLpudLOYeIFmVyA4NEm-Ro", # bg dhafin
             "https://drive.google.com/uc?export=view&id=1yi0pKBNogYcs-9O-PtDrQTCCnqEMCDcI", # ka elia
@@ -1399,14 +1399,14 @@ elif menu == "Departemen SSD":
             },
             {
                 "nama": "Nabilah Andika Fitriati",
-                "nim": " ",
-                "umur": " ",
-                "asal": " ",
-                "alamat": " ",
+                "nim": "121450139",
+                "umur": "20",
+                "asal": "Bandar Lampung",
+                "alamat": "Kedaton",
                 "hobi": " ",
-                "sosmed": "@",
-                "kesan": "  ",  
-                "pesan":"  " # 8
+                "sosmed": "@nabilahanftr",
+                "kesan": "kakanya baik humbel juga",  
+                "pesan": "semangat mengejar segala bentuk gelar itu kak" # 8
             },
             {
                 "nama": "Alvia Asrinda Br.Gintng",
@@ -1490,7 +1490,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobi": "Editing",
                 "sosmed": "@Elokviola",
                 "kesan": "kakanya cantik dan ramah",  
-                "pesan":"tetaplah jadi disiri sendiri kak "
+                "pesan":"tetaplah jadi diri sendiri kak "
             },
             {
                 "nama": "Arsyiah Azahra",
