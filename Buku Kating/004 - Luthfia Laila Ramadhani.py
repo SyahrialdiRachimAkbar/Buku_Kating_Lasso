@@ -1333,7 +1333,7 @@ elif menu == "Departemen Internal":
                 "alamat": "Sukarame",
                 "hobi": "Memancing",
                 "sosmed": "@renita.shn",
-                "kesan": "Baik bangett dan pendiam juga",  
+                "kesan": "Baik bangett, pendiam",  
                 "pesan": "Ka renta, sehat-sehat ya, jangan lupa senyum, semoga kita bisa bertemu di kemudian hari lagi ya kak" # 13
             },
             {
@@ -1450,7 +1450,7 @@ elif menu == "Departemen SSD":
                 "umur": "20",
                 "asal": "Bandar Lampung",
                 "alamat": "Kedaton",
-                "hobi": " ",
+                "hobi": "Tidur",
                 "sosmed": "@nabilahanftr",
                 "kesan": "Baikk banget dan asik",  
                 "pesan": "Ka nabilah, semangat kuliahnya di semester 7 ini ya kakk" # 8
