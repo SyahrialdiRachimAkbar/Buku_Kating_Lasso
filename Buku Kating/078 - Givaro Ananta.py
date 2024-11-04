@@ -138,7 +138,7 @@ if menu == "Kesekjenan":
                 "hobi": "Nonton Drakor",
                 "sosmed": "@wulandarimeliza",
                 "kesan": "Humble abis",  
-                "pesan":"Semangat kak"# 3
+                "pesan":"ayoo kak nonton tapi jangan horror"# 3
                 
             },
             {   "nama": "Putri Maulida Chairani",
@@ -149,7 +149,7 @@ if menu == "Kesekjenan":
                 "hobi": "Dengerin Bang Pandra main gitar",
                 "sosmed": "@ptrimaulidaaa_",
                 "kesan": "Kakak baik",  
-                "pesan":"semangat kuliahnya kak"# 4
+                "pesan":"semangat kuliahnya kak, semoga lulus tepat waktu"# 4
                     
             },
             {   "nama": "Hartiti Fadilah",
@@ -160,7 +160,7 @@ if menu == "Kesekjenan":
                 "hobi": "Baca Webtoon",
                 "sosmed": "@hrdfdlh",
                 "kesan": "Logatnya minang banget",  
-                "pesan":"semangat kak"# 5
+                "pesan":"ajarin bahasa minang kakk"# 5
 
             },
             {   "nama": "Nadilla Andhara Putri",
