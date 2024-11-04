@@ -1128,8 +1128,8 @@ elif menu == "Departemen Eksternal":
 elif menu == "Departemen Internal":
     def internal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1ryxENCCBs7E0HwQ9nhiLQb45Q4VnURkr", # bg dim
-            "https://drive.google.com/uc?export=view&id=1j0HGVcxAW7I2_PAzxf-8rR90wp9HTJOH", # ka catherine
+            "https://drive.google.com/uc?export=view&id=1zJCnN3ZA50tIBi7sB4U3PQ9b8lfyhtNg", # bg dim
+            "https://drive.google.com/uc?export=view&id=1dsZUsnBc4Wm0fllMFERUJDeC7_05bm8U", # ka catherine
             "https://drive.google.com/uc?export=view&id=1zFkLxAYOg31CSZJgvSrm-xFOkbQ7WTlW", # bg akbar
             "https://drive.google.com/uc?export=view&id=1X-JOryObuEhraU3npSFmgso8vGAEyFZ2", # ka rani
             "https://drive.google.com/uc?export=view&id=1hXbKUqcsRGKs8fDQzXsjz6SQYMH6U2vX", # bg rendra
@@ -1140,7 +1140,7 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", 
             "https://drive.google.com/uc?export=view&id=1OBz_SGmHp2VpkpdJxx-snzUCc1FOPZnt", # ka meira
             "https://drive.google.com/uc?export=view&id=1Ptr6SfVdXZkT7-EMEXZWABwWFK4LZ99z", # bg rendi
-            "https://drive.google.com/uc?export=view&id=1GJZG8De_faMeS3OaL8r9RPKyKjXE_2r7", # ka renta
+            "https://drive.google.com/uc?export=view&id=1jrbEuVqUrh9YStI3gad_U9Pw4GMCBtgQ", # ka renta
             "https://drive.google.com/uc?export=view&id=1UStnRvO-OVgZv7JJ3ixl4QhNu-jHrq9w", # bg josua
         ]
         data_list = [
