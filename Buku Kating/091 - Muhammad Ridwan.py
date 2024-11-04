@@ -1307,7 +1307,7 @@ elif menu == "Departemen SSD":
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=155vmVehyzEANN6ZHRubqzUc4wfECHww7", # Bang adrian
             "https://drive.google.com/uc?export=view&id=1gkSLHQEV2FRRMa46S0zUOld5O_37y2_3", # Kak Adisty
-            "https://drive.google.com/uc?export=view&id=1nVlY2BYU8O_uWaKVjRliXQPjh4TfVg3B", # Kak Nabila
+            "https://drive.google.com/uc?export=view&id=1n_O-Vc7AS0hIHnWlIRPuF6UPoSmHbn_l", # Kak Nabila
             "https://drive.google.com/uc?export=view&id=1gYW32MHxsKKFlO0Hc3Sh21OlVNwN7W8n", # Bang Ahmad
             "https://drive.google.com/uc?export=view&id=1AA3dYLmeOkMTHE7F40xZ07VMAEHGX0ew", # Bang Danang
             "https://drive.google.com/uc?export=view&id=1r7pqWHYpPoIxWgURDHHrl5adl6zvR4QY", # Bang Farrel
