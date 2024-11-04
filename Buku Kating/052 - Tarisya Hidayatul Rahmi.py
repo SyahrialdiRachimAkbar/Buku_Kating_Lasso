@@ -1423,7 +1423,7 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobi": "Membaca",
                 "sosmed": "@dananghk_",
-                "kesan": "Abangnya energic, kalau jelasin detail  ",  
+                "kesan": "Abangnya energic, kalau jelasin detail, trus seru juga  ",  
                 "pesan": "Bahagia selalu, istirahat yang cukup dan semangat kuliahnya bang" # 5
             },
             {
@@ -1454,7 +1454,7 @@ elif menu == "Departemen SSD":
                 "umur": " ",
                 "asal": " ",
                 "alamat": " ",
-                "hobbi": " ",
+                "hobi": " ",
                 "sosmed": "@",
                 "kesan": "  ",  
                 "pesan":"  " # 8
@@ -1465,7 +1465,7 @@ elif menu == "Departemen SSD":
                 "umur": "20",
                 "asal": "Binjai",
                 "alamat": "Korpri",
-                "hobbi": "Nonton Windah",
+                "hobi": "Nonton Windah",
                 "sosmed": "@alviaginting",
                 "kesan": "Kakaknya baik, seru juga  ",  
                 "pesan": "Semangatt terus kak dan bahagia selalu " # 9
@@ -1476,7 +1476,7 @@ elif menu == "Departemen SSD":
                 "umur": "20",
                 "asal": "Bandar Lampung",
                 "alamat": "Jl. Nangka l",
-                "hobbi": "Tidur",
+                "hobi": "Tidur",
                 "sosmed": "@dhafinrzqa13",
                 "kesan": "  ",  
                 "pesan": "semangat menjalani hari- harinya bang " # 10
@@ -1487,7 +1487,7 @@ elif menu == "Departemen SSD":
                 "umur": "20",
                 "asal": "Bekasi",
                 "alamat": "Korpri",
-                "hobbi": "Badminton",
+                "hobi": "Badminton",
                 "sosmed": "@meylanielia",
                 "kesan": "  ",  
                 "pesan": "Semangat selalu dan lancar kuliahnya kak " # 11
@@ -1563,7 +1563,7 @@ elif menu == "Departemen MEDKRAF":
                 "hobi": "Ngegym",
                 "sosmed": "@cyhntiabella18",
                 "kesan": "Kakaknya baik, humble, ramah juga ",  
-                "pesan":"Semangat terus kak kuliahnya !"
+                "pesan":"Semangat terus kak kuliahnya jangan lupa istirahat juga !"
             },
             {
                 "nama": "Eka Fidiya Putri",
