@@ -1376,8 +1376,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Lapas",
                 "hobi": "Mencari Uang",
                 "sosmed": "@andriangaol",
-                "kesan": "Tegas, baik, dan sabaar",  
-                "pesan": "Semangatt kuliahnya bang! Semangat semangat semangat" # 1
+                "kesan": "kirain akamsi bang",  
+                "pesan": "ajakin saya bang cari uangnya" # 1
             },
             {
                 "nama": "Adisty Syawaida Ariyanto",
@@ -1387,8 +1387,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Sukarame",
                 "hobi": "Nonton film",
                 "sosmed": "@adistysa_",
-                "kesan": "Baik bangett dan asik",  
-                "pesan": "Semangatt kuliahnya kak! Semangat semangat semangat" # 2
+                "kesan": "seruu kakaknya",  
+                "pesan": "film disney yang jadi favorit kakak apa tuh kak" # 2
             },
             {
                 "nama": "Nabila Azhari",
@@ -1398,8 +1398,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobi": "Menghitung Uang",
                 "sosmed": "@zhjung",
-                "kesan": "Baik bangett dan asik",  
-                "pesan": "Semangatt kuliahnya kak! Semangat semangat semangat"  # 3
+                "kesan": "humblee banget",  
+                "pesan": "sama kak saya juga suka ngitung uang"  # 3
             },
             {
                 "nama": "Ahmad Rizqi",
@@ -1409,8 +1409,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobi": "Jualan",
                 "sosmed": "@ahmad.riz45",
-                "kesan": "Pendiam, asik, dan baik",  
-                "pesan": "Semangatt kuliahnya bang! Semangat semangat semangat" # 4
+                "kesan": "seruu tapi pendiam",  
+                "pesan": "semangat kuliahnya bangg" # 4
             },
             {
                 "nama": "Danang Hilal Kurniawan",
@@ -1420,8 +1420,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Airan",
                 "hobi": "Membaca",
                 "sosmed": "@dananghk_",
-                "kesan": "Seru, lucuu, asik, dan baik bangett",  
-                "pesan": "Semangatt kuliahnya bang! Semangat semangat semangat" # 5
+                "kesan": "seruu banget ngobrol sama bang danang",  
+                "pesan": "keep your vibes bangg" # 5
             },
             {
                 "nama": "Farrel Julio Akbar",
@@ -1431,8 +1431,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Lapas",
                 "hobi": "Bebas",
                 "sosmed": "@farel_julio",
-                "kesan": "Keren banget bang, baik, dan asik",  
-                "pesan": "Semangatt kuliahnya bang! Semangat semangat semangat"# 6
+                "kesan": "humble parah, kecee abangnya",  
+                "pesan": "semangat terus bang, damaskus kecee abis"# 6
             },
             {
                 "nama": "Tessa Kania Sagala",
@@ -1442,8 +1442,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Pemda",
                 "hobi": "Menulis",
                 "sosmed": "@tesakanias",
-                "kesan": "Pendiam banget kakaknya, sabar, dan baik",  
-                "pesan": "Semangatt kuliahnya kak! Semangat semangat semangat" # 7
+                "kesan": "kakaknya lumayan pendiam",  
+                "pesan": "semangat terus yaa kak" # 7
             },
             {
                 "nama": "Nabilah Andika Fitriati",
@@ -1453,8 +1453,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Kedaton",
                 "hobi": " ",
                 "sosmed": "@nabilahanftr",
-                "kesan": "Baikk banget dan asik",  
-                "pesan": "Semangatt kuliahnya kak! Semangat semangat semangat" # 8
+                "kesan": "seruu kakaknya",  
+                "pesan": "semangaat terus kak" # 8
             },
             {
                 "nama": "Alvia Asrinda Br.Gintng",
@@ -1464,8 +1464,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Korpri",
                 "hobi": "Nonton Windah",
                 "sosmed": "@alviaginting",
-                "kesan": "Baikk dan asik",  
-                "pesan": "Semangatt kuliahnya kak! Semangat semangat semangat" # 9
+                "kesan": "humble banget",  
+                "pesan": "saya juga suka nonton papa brando kak" # 9
             },
             {
                 "nama": "Dhafin Razaqa Luthfi",
@@ -1475,8 +1475,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Jl. Nangka l",
                 "hobi": "Tidur",
                 "sosmed": "@dhafinrzqa13",
-                "kesan": "Pendiam banget dan asik banget",  
-                "pesan": "Semangatt kuliahnya bang! Semangat semangat semangat" # 10
+                "kesan": "abangnya kalem banget",  
+                "pesan": "semangat terus bang" # 10
             },
             {
                 "nama": "Elia Meylani Simanjuntak",
@@ -1486,8 +1486,8 @@ elif menu == "Departemen SSD":
                 "alamat": "Korpri",
                 "hobi": "Badminton",
                 "sosmed": "@meylanielia",
-                "kesan": "Baik banget, suka senyum, lucu gemes, dan keren bangett",  
-                "pesan": "Semangatt kuliahnya kak! Semangat semangat semangat" # 11
+                "kesan": "baik, asikk kakaknya",  
+                "pesan": "sehat selalu yaa kak" # 11
             },
         ]
         display_images_with_data(gambar_urls, data_list)
