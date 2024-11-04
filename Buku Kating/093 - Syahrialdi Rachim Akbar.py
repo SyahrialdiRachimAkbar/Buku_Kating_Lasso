@@ -378,28 +378,28 @@ elif menu == "Senator":
 elif menu == "Departemen PSDA":
     def psda():
         gambar_urls = [
+            "https://drive.google.com/uc?export=view&id=1QhYQbZRSjD8cH3MxTfvzc7CwU1fusKaT",
+            "https://drive.google.com/uc?export=view&id=1umHN1HC-nIjgoTpiYgBx7h6PCIbQcbnT",
+            "https://drive.google.com/uc?export=view&id=1hnjHpcd3dx2MWmf6N69Axmghq6QCEBQy",
+            "https://drive.google.com/uc?export=view&id=1VL50mNuyFafiocgDSr_29bUyGWyqr2B3",
+            "https://drive.google.com/uc?export=view&id=17K9_2zc6-Rsf2-2_nC47P5ZZ7o9EKjuG",
+            "https://drive.google.com/uc?export=view&id=1a0Pzkm4rTG8noV70AOUNJ8rqchg_Y2kB",
+            "https://drive.google.com/uc?export=view&id=1akjg2c1ljajM6DcKa2ukZOi5hXhIuLxQ",
+            "https://drive.google.com/uc?export=view&id=1BcGifsGFzp-n-Np0_vHzdjFtWFrsp-3d",
+            "https://drive.google.com/uc?export=view&id=1Hj7jVfBwCf-QfIfQfPsJitD_wO-yiZJ_",
+            "https://drive.google.com/uc?export=view&id=1IpRWTdZ2ltDl_YFZxerKBNjY_QzINob2",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1NHRp1_Cw0RDogPgaazqAB6mvvV4CRIgi",
+            "https://drive.google.com/uc?export=view&id=1pes0AOYHK2cHj0-c0Dl3K-f0tgkoRjpY",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1j6vhI2NFHDIwfP8sz5vBDHI98SIfEDXy",
+            "https://drive.google.com/uc?export=view&id=1hNOLPA9tBgVbVM6D2TvuhqjUYAdiodtF",
+            "https://drive.google.com/uc?export=view&id=1kRL09nKNXD7lUWXfuqh5dlRRHOOcGKS4",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
+            "https://drive.google.com/uc?export=view&id=1ezJrfO4w2g_wJxKW_CYQ0SbShXRlicla",
+            "https://drive.google.com/uc?export=view&id=1sHBVfcl350htaAoONguMsv8ppAk6y7KC",
+            "https://drive.google.com/uc?export=view&id=1OWnU5wCaPFIN8rVEgemfIJp-xA9Y6ArE",
+            "https://drive.google.com/uc?export=view&id=17UD_KnS39IqiqXjj0WhmJYaWi7WbQ1TZ",
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_",
         ]
         data_list = [
@@ -520,9 +520,9 @@ elif menu == "Departemen PSDA":
                 "asal": "-",
                 "alamat": "-",
                 "hobi": "-",
-                "sosmed": "@",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":""
             },
             {
                 "nama": "Johannes Krisjon Silitonga",
@@ -531,6 +531,7 @@ elif menu == "Departemen PSDA":
                 "asal": "Tangerang",
                 "alamat": "Jalan lapas",
                 "hobi": "Ngeasprak",
+                "sosmed": "@johanneskrisjon",
                 "kesan": "Kakak ini asik saya suka belajar dengan dia",  
                 "pesan":"semangat terus kuliahnya kakak !!!"
             },
@@ -552,9 +553,9 @@ elif menu == "Departemen PSDA":
                 "asal": "-",
                 "alamat": "-",
                 "hobi": "-",
-                "sosmed": "@ ",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "sosmed": " ",
+                "kesan": "",  
+                "pesan":""
             },
             {
                  "nama": "Presilia",
@@ -591,14 +592,14 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Vanessa Olivia Rose",
-                "nim": "121450108",
+                "nim": "",
                 "umur": "-",
                 "asal": "-",
                 "alamat": "-",
                 "hobi": "-",
-                "sosmed": "@",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":""
             },
             {
                 "nama": "M. Farhan Athaulloh",
@@ -646,14 +647,14 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Syalaisha Andini Putriansyah",
-                "nim": "122450111",
-                "umur": "-",
-                "asal": "-",
-                "alamat": "-",
-                "hobi": "-",
-                "sosmed": "@",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "nim": "",
+                "umur": "",
+                "asal": "",
+                "alamat": "",
+                "hobi": "",
+                "sosmed": "",
+                "kesan": "",  
+                "pesan":""
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -1496,13 +1497,13 @@ elif menu == "Departemen MEDKRAF":
         ]
         data_list = [
             {
-                "nama": "Ahmad Rizky Ramadhani",
-                "nim": "121450027",
-                "umur": "20",
-                "asal": "Tangeang Selatan",
-                "alamat": "Way Kandis (Kobam)",
-                "hobi": "Nangkep bulu babi",
-                "sosmed": "@ahmad.riz45",
+                "nama": " - ",
+                "nim": " - ",
+                "umur": " - ",
+                "asal": " - ",
+                "alamat": " - ",
+                "hobi": " - ",
+                "sosmed": " -   ",
                 "kesan": "  ",  
                 "pesan": "Semangatt kuliahnya bang! Semangat semangat semangat" # 1
             },
