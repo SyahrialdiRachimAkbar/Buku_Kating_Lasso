@@ -321,7 +321,7 @@ elif menu == "Senator":
                 "hobi": "Bernyanyi",
                 "sosmed": "@anissaluthfi_",
                 "kesan": "kagum banget sama public speaking kak luthfiii",  
-                "pesan": "STerima kasih ata ilmunya kak dan emangat terus kak luthfiii!"
+                "pesan": "Terima kasih atas ilmunya kak dan semangat terus kak luthfiii!"
             },
             {
                 "nama": "Rian Bintang Wijaya",
@@ -332,7 +332,7 @@ elif menu == "Senator":
                 "hobi": "Dengerin Ka Luthfi bernyanyi",
                 "sosmed": "@bintangtwinkle",
                 "kesan": "Informasi yang di share bergunaaaa banget",  
-                "pesan": "Terimakasih atas ilmunya bang dan emangatt kuliahnya bang bintang!"
+                "pesan": "Terimakasih atas ilmunya bang dan semangatt kuliahnya bang bintang!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -894,7 +894,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1aCjiAsqD1Nf-ErHaS1pL6KrH5Us6Z4eD", # ka novelia
             "https://drive.google.com/uc?export=view&id=1KoeskJXY__GvmRzC84uEuIlYQhaZ-5d7", # ka ratu
             "https://drive.google.com/uc?export=view&id=1ofMDqeruC6CbF3-RzxIgtTQ6WK3Yeibh", # bg tobias
-            "https://drive.google.com/uc?export=view&id=1e5O7j_xZgZgK6PjMY7E-SIJMht6GaQAn", # ka yo
+            "https://drive.google.com/uc?export=view&id=1e5O7j_xZgZgK6PjMY7E-SIJMht6GaQAn", # ka yohana
             "https://drive.google.com/uc?export=view&id=1jDNxunlxEGJSbdvQbfg3XDZBYysaSFV8", # bg rizky
             "https://drive.google.com/uc?export=view&id=1MnBpCPs67BZXKVBR7QmivbtyMsdup9AA", # bg arafi
             "https://drive.google.com/uc?export=view&id=1exe9-hHo62lmWOBTLhl3r5VJHy1hEN3C", # ka asa
