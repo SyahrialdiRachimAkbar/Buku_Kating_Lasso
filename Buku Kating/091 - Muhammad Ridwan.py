@@ -1306,15 +1306,15 @@ elif menu == "Departemen SSD":
     def ssd():
         gambar_urls = [
             "https://drive.google.com/uc?export=view&id=155vmVehyzEANN6ZHRubqzUc4wfECHww7", # Bang adrian
-            "https://drive.google.com/uc?export=view&id=1M4Fnruo2YoW91jebmL8M2dL9z4-taQqF", # Kak Adisty
+            "https://drive.google.com/uc?export=view&id=1gkSLHQEV2FRRMa46S0zUOld5O_37y2_3", # Kak Adisty
             "https://drive.google.com/uc?export=view&id=1nVlY2BYU8O_uWaKVjRliXQPjh4TfVg3B", # Kak Nabila
-            "https://drive.google.com/uc?export=view&id=1N1W8XV2_R_VFESUc1tuv73Ka6uNmdEpE", # Bang Ahmad
+            "https://drive.google.com/uc?export=view&id=1gYW32MHxsKKFlO0Hc3Sh21OlVNwN7W8n", # Bang Ahmad
             "https://drive.google.com/uc?export=view&id=1AA3dYLmeOkMTHE7F40xZ07VMAEHGX0ew", # Bang Danang
             "https://drive.google.com/uc?export=view&id=1r7pqWHYpPoIxWgURDHHrl5adl6zvR4QY", # Bang Farrel
             "https://drive.google.com/uc?export=view&id=13hqJIYUhi3zgXY_v1Le4Xu_mAFbSlbzE", # Kak Tesa
             "https://drive.google.com/uc?export=view&id=13EmQUdDaWERHTyo-h39_w03q3vyIm0gc", # Kak Nabillah
             "https://drive.google.com/uc?export=view&id=1HdnFxCt25QWLRxyoydtqzsgg9gnSs50U", # Kak Alvia
-            "https://drive.google.com/uc?export=view&id=16snK9xBw3Z4OG2sJaFEXXXCp7lrCSvW_", # Bang Davin
+            "https://drive.google.com/uc?export=view&id=1ceCzBw0eG3pAOqN_rq7FG4163RgAeEh6", # Bang Davin
             "https://drive.google.com/uc?export=view&id=16MdKOXhjXFf3fBwIPAfUxwc9HvrSI-LX", # Kak Elia
         ]
         data_list = [
