@@ -1483,7 +1483,7 @@ elif menu == "Departemen SSD":
                 "hobi": "Badminton",
                 "sosmed": "@meylanielia",
                 "kesan": "lucuu banget dan seruuu",  
-                "pesan": "Selalu bahagia ya ka meyy, semangatttt # 11
+                "pesan": "Selalu bahagia ya ka meyy, semangatttt" # 11
             },
         ]
         display_images_with_data(gambar_urls, data_list)
