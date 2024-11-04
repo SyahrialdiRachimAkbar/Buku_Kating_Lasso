@@ -204,8 +204,8 @@ elif menu == "Baleg":
                 "alamat": "Jl Raden Saleh",
                 "hobi": "Searching GPT",
                 "sosmed": "@trimurniaa_",
-                "kesan": "-",  
-                "pesan":"-"
+                "kesan": "positive vibes banget kak",  
+                "pesan":"happy terus yaa kak"
             },
             {
                 "nama": "Annisa Cahyani Surya",
@@ -215,8 +215,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobi": "Baca buku dan nonton film",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "humbles abis, ngobrol jadi asik banget",  
+                "pesan": "rekomen film yang ngga bosen buat rewatch dong kak"# 1
             },
             {
                 "nama": "Wulan Sabina",
@@ -226,8 +226,8 @@ elif menu == "Baleg":
                 "alamat": "Jl Raden Saleh",
                 "hobi": "Belajar bersama pak tamaro",
                 "sosmed": "@wlsbn0",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"
+                "kesan": "kecee banget",  
+                "pesan":"tutor dapet A dari pak tamaro dong kak"
             },
             {
                 "nama": "Anisa Dini Amalia",
@@ -237,8 +237,8 @@ elif menu == "Baleg":
                 "alamat": "Jati Agung",
                 "hobi": "Ngobrol",
                 "sosmed": "@anisadini10",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "asikk banget",  
+                "pesan":"semoga sukses terus, jangan lupain adek tingkat ya kak"# 1
             },
             {
                 "nama": "Anisa Fitriyani",
@@ -248,8 +248,8 @@ elif menu == "Baleg":
                 "alamat": "Pesawaran",
                 "hobi": "Nonton drakor",
                 "sosmed": "@ansftrynn_",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "seruu parah",  
+                "pesan":"saran drakor dong kak, tapi jangan yang horror"# 1
             },
             {
                 "nama": "Feryadi Yulius",
@@ -259,8 +259,8 @@ elif menu == "Baleg":
                 "alamat": "Way Kandis",
                 "hobi": "Baca buku",
                 "sosmed": "@fer_yulius",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "pasti abang jago ngoding",  
+                "pesan": "ajarin ngoding dong bang"# 1
             },
             {
                 "nama": "Renisha Putri Giani",
@@ -269,9 +269,9 @@ elif menu == "Baleg":
                 "asal": "-",
                 "alamat": "-",
                 "hobi": "-",
-                "sosmed": "@fleurnsh",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "sosmed": "-",
+                "kesan": "-",  
+                "pesan":"-"# 1
             },
             {
                 "nama": "Claudhea Angeliani",
@@ -280,9 +280,9 @@ elif menu == "Baleg":
                 "asal": "-",
                 "alamat": "-",
                 "hobi": "-",
-                "sosmed": "@dylebee",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "sosmed": "-",
+                "kesan": "-",  
+                "pesan":"-"# 1
             },
             {
                 "nama": "Mirzan Yusuf Rabbani",
@@ -291,9 +291,9 @@ elif menu == "Baleg":
                 "asal": "-",
                 "alamat": "-",
                 "hobi": "-",
-                "sosmed": "@myrrinn",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "sosmed": "-",
+                "kesan": "-",  
+                "pesan":"-"# 1
             },
             {
                 "nama": "Dhea Amelia Putri",
@@ -303,8 +303,8 @@ elif menu == "Baleg":
                 "alamat": "Natar",
                 "hobi": "Suka ditipu sama penjual akun canva premium di shopee",
                 "sosmed": "@_.dheamelia",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "tadinya kirain orang teluk kak",  
+                "pesan":"join canva tim gratisan aja kak di yutup banyakk"# 1
             },
             {
                 "nama": "Muhammad Fahrul Aditya",
@@ -314,8 +314,8 @@ elif menu == "Baleg":
                 "alamat": "Sukarame",
                 "hobi": "Badminton, melukis, hiking, dan berenang",
                 "sosmed": "@fhrul.pdf",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "kecee abis bangg",  
+                "pesan": "gass bang main badminton bareng"# 1
             },
             {
                 "nama": "Berliana Enda Putri",
@@ -325,19 +325,19 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobi": "Make up, nonton podcast, dan dengerin musik",
                 "sosmed": "@berlyyanda",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "kesan": "hobi kita samaa kak",  
+                "pesan":"semangat terus kak!"# 1
             },
             {
                 "nama": "Jeremia Susanto",
                 "nim": "122450022",
-                "umur": "20",
-                "asal": "Bandar Lampung",
-                "alamat": "Bandar Lampung",
+                "umur": "",
+                "asal": "",
+                "alamat": "",
                 "hobi": "-",
-                "sosmed": "@jeremia_s_",
-                "kesan": "Kakak ini asik saya suka belajar dengan dia",  
-                "pesan":"semangat terus kuliahnya kakak !!!"# 1
+                "sosmed": "-",
+                "kesan": "-",  
+                "pesan":"-"# 1
             },
         ]
         display_images_with_data(gambar_urls, data_list)
