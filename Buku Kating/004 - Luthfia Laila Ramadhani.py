@@ -131,7 +131,7 @@ if menu == "Kesekjenan":
             },
             {
                 "nama": "Meliza Wulandari",
-                "nim": "121450044",
+                "nim": "121450065",
                 "umur": "21",
                 "asal":"Sumatera Selatan",
                 "alamat": "Kota Baru",
@@ -504,7 +504,7 @@ elif menu == "Departemen PSDA":
             },
             {
                 "nama": "Devyan Loxefal",
-                "nim": "121450128",
+                "nim": "121450148",
                 "umur": "21",
                 "asal": "Duri, Riau",
                 "alamat": "Kobam Pulau Damar",
@@ -613,7 +613,7 @@ elif menu == "Departemen PSDA":
                 "pesan": "Terus semangat dan jangan menyerah" # 19
             },
             {
-                "nama": "Gede Moana",
+                "nama": "Gede Moena",
                 "nim": "121450014",
                 "umur": "21",
                 "asal": "Bekasi",
@@ -1206,7 +1206,7 @@ elif menu == "Departemen Internal":
             },
             {
                 "nama": "Catherine Firdhasari Maulina Sinaga",
-                "nim": "121450071",
+                "nim": "121450072",
                 "umur": "20",
                 "asal": "Sumatera Utara",
                 "alamat": "Airan",
@@ -1618,7 +1618,7 @@ elif menu == "Departemen MEDKRAF":
             },
             {
                 "nama": "Muhammad Kaisar Firdaus",
-                "nim": "122450135",
+                "nim": "121450135",
                 "umur": "21",
                 "asal":"Pesawaran",
                 "alamat": "Pulau Damar Way Kandis",
@@ -1640,7 +1640,7 @@ elif menu == "Departemen MEDKRAF":
             },
             {
                 "nama": "Gymnastiar Al-Khoarizmy",
-                "nim": "122450065",
+                "nim": "122450096",
                 "umur": "20",
                 "asal":"Serang",
                 "alamat": "Lapangan Golf",
