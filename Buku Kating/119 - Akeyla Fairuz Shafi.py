@@ -180,7 +180,7 @@ if menu == "Kesekjenan":
 elif menu == "Baleg":
     def baleg():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka niya
+            "https://drive.google.com/uc?export=view&id=1MmEsY3hcqciG7kSiw2vtPJtzpl5y4a6D", # ka niya
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka annisa cahyani
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka wulan
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka anisa dini
@@ -214,8 +214,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobi": "Baca buku dan nonton film",
                 "sosmed": "@annisacahyanisurya",
-                "kesan": "Wawancaranya seru dan tidak begitu",  
-                "pesan": "Semangat terus ya kak!" # 1
+                "kesan": "Wawancaranya seru dan tidak begitu tegang",  
+                "pesan": "Stay Cool kak" # 1
             },
             {
                 "nama": "Wulan Sabina",
@@ -225,8 +225,8 @@ elif menu == "Baleg":
                 "alamat": "Jl Raden Saleh",
                 "hobi": "Belajar bersama pak tamaro",
                 "sosmed": "@wlsbn0",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya kak!" # 1
+                "kesan": "Sama-sama suka belajar bersama pak tamaro :)",  
+                "pesan": "Jangan pernah takut dalam mengemban tugas kak!" # 1
             },
             {
                 "nama": "Anisa Dini Amalia",
@@ -236,8 +236,8 @@ elif menu == "Baleg":
                 "alamat": "Jati Agung",
                 "hobi": "Ngobrol",
                 "sosmed": "@anisadini10",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya kak!" # 1
+                "kesan": "Kakaknya baik banget",  
+                "pesan": "Terus menjadi orang baik ya kak!" # 1
             },
             {
                 "nama": "Anisa Fitriyani",
@@ -247,8 +247,8 @@ elif menu == "Baleg":
                 "alamat": "Pesawaran",
                 "hobi": "Nonton drakor",
                 "sosmed": "@ansftrynn_",
-                "kesan": " ",  
-                "pesan":  "Semangat terus ya kak!"# 1
+                "kesan": "hobinya unik, btw genrenya apa kak?",  
+                "pesan":  "Tetap nonton drakor ya kak hobinya!"# 1
             },
             {
                 "nama": "Feryadi Yulius",
@@ -258,8 +258,8 @@ elif menu == "Baleg":
                 "alamat": "Way Kandis",
                 "hobi": "Baca buku",
                 "sosmed": "@fer_yulius",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya kak!" # 1
+                "kesan": "hobi baca buku, sesuai bang bisa masuk baleg",  
+                "pesan": "Pertahankan hobinya ya kak, karena buku adalah jembatan ilmu!" # 1
             },
             {
                 "nama": "Renisha Putri Giani",
@@ -302,8 +302,8 @@ elif menu == "Baleg":
                 "alamat": "Natar",
                 "hobi": "Suka ditipu sama penjual akun canva premium di shopee",
                 "sosmed": "@_.dheamelia",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya kak!" # 1
+                "kesan": "Lucu kakaknya bisa sering ditipu penjual akun canva & shopee",  
+                "pesan": "Jangan sampai ketipu lagi ya kak!" # 1
             },
             {
                 "nama": "Muhammad Fahrul Aditya",
@@ -313,8 +313,8 @@ elif menu == "Baleg":
                 "alamat": "Sukarame",
                 "hobi": "Badminton, melukis, hiking, dan berenang",
                 "sosmed": "@fhrul.pdf",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya bang!" # 1
+                "kesan": "Abangnya multitalent, semua hobi di hembat",  
+                "pesan": "Semoga bisa nambah hobinya ya bang!" # 1
             },
             {
                 "nama": "Berliana Enda Putri",
@@ -324,8 +324,8 @@ elif menu == "Baleg":
                 "alamat": "Way Huwi",
                 "hobi": "Make up, nonton podcast, dan dengerin musik",
                 "sosmed": "@berlyyanda",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya kak!" # 1
+                "kesan": "Adat sumbarnya keliatan banget",  
+                "pesan": "Selalu dengarkan podcast yang berbobot ya kak!" # 1
             },
             {
                 "nama": "Jeremia Susanto",
@@ -357,8 +357,8 @@ elif menu == "Senator":
                 "alamat": "Kost Putri Rahayu",
                 "hobi": "Bernyani",
                 "sosmed": "@anissaluthfi_",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya kak!"
+                "kesan": "Public speakingnya bagus banget dan pengalamannya juga keren abis",  
+                "pesan": "Terus jaya sebagai senator ya kak!"
             },
             {
                 "nama": "Rian Bintang Wijaya",
@@ -368,8 +368,8 @@ elif menu == "Senator":
                 "alamat": "Kontrakan kota baru",
                 "hobi": "Dengerin Ka Luthfi bernyanyi",
                 "sosmed": "@bintangtwinkle",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya bang!"
+                "kesan": "Gak kalah keren dengan kak Annisa, public speakingnya juga bagus banget.",  
+                "pesan": "Semoga bisa mengikuti jejak kak Annisa ya bang!"
             },
         ]
         display_images_with_data(gambar_urls, data_list)
@@ -411,8 +411,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Khobam",
                 "hobi": "Travelling",
                 "sosmed": "@ericsonchandra99",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya bang!" # 1
+                "kesan": "Kelihatan seram, tapi abangnya santai dan bisa asik. Dan juga pengalaman abang dalam kepemimpinan banyak banget",  
+                "pesan": "Semoga bisa banyak memimpin agenda lagi ya bang!" # 1
             },
             {
                 "nama": "Celisabeth Claudia Simanjuntak",
@@ -422,8 +422,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kemiling",
                 "hobi": "Bernafas",
                 "sosmed": "@celisabethh_",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya kak!" # 2
+                "kesan": "Kakaknya periang banget",  
+                "pesan": "Tetap menjadi orang yang periang ya kak, orang sekitar kaka butuh orang seperti kakak!" # 2
             },
             {
                 "nama": "Nisrina Nur Afifah",
@@ -433,8 +433,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobi": "Minum kopi",
                 "sosmed": "@afifahhnsrn",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya kak!" # 3
+                "kesan": "Kakaknya keren bisa menjadi ketuplak kaderisasi",  
+                "pesan": "Semoga sukses menjadi ketuplak kaderisasi ya kak sampai akhir!" # 3
             },
             {
                 "nama": "Allya Nurul Islami Pasha",
@@ -444,8 +444,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Gang Perwira Belwis",
                 "hobi": "Ngukur bandar lampung",
                 "sosmed": "@allyaislami_",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya kak!" # 4
+                "kesan": "Terlihat cuek, tapi kakaknya ramah dan bisa foto yang lucu dengan saya",  
+                "pesan": "Jangan kelihatan cuek ya kak!" # 4
             },
             {
                 "nama": "Eksanty Febriana Sugma Islamiaty",
@@ -455,8 +455,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Rajabasa",
                 "hobi": "Ngeroasting orang",
                 "sosmed": "@eksantyfebriana",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya kak!" # 5
+                "kesan": "Kakaknya lucu, dan suka bikin ketawa",  
+                "pesan": "Always be happy ya kak!" # 5
             },
             {
                 "nama": "Farahanum Afifah Ardiansyah",
@@ -466,8 +466,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Sukarame",
                 "hobi": "Baca webtoon",
                 "sosmed": "@farahanumafifahh",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya kak!" # 6
+                "kesan": "Kakaknya random dan juga baik",  
+                "pesan": "Tetap menjadi orang random ya kak, biar seru!" # 6
             },
             {
                 "nama": "Ferdy Kevin Naibaho",
@@ -477,8 +477,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Jl pangeran senopati raya, gerbang barat",
                 "hobi": "Baca buku dan Futsal",
                 "sosmed": "@ferdy_kevin",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya bang!" # 7
+                "kesan": "Abangnya kalem dan sedikit tegang",  
+                "pesan": "Jangan tegang-tegang ya bang!" # 7
             },
             {
                 "nama": "M. Deriansyah Okutra",
@@ -488,8 +488,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Jl. Pagar Alam, Kedaton",
                 "hobi": "Bakar-bakar",
                 "sosmed": "@dransyh_",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya bang!" # 8
+                "kesan": "Abangnya bisa memahami saya dan blang saya aktif dalam wawancara",  
+                "pesan": "Terus jadi orang perhatian ya bang!" # 8
             },
             {
                 "nama": "Oktavia Nurwenda Puspita Sari",
@@ -499,8 +499,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Way Huwi",
                 "hobi": "Ngeliatin tingkah orang",
                 "sosmed": "@_oktavianrwnda_",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya bang!" # 9
+                "kesan": "Kak okta asik banget orangnya dan hobinya mindblowing banget ya kak",  
+                "pesan": "semoga hobinya nambah ya kak hehehe.." # 9
             },
             {
                 "nama": "Devyan Loxefal",
@@ -510,8 +510,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kobam Pulau Damar",
                 "hobi": "Belajar",
                 "sosmed": "@depanloo",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya bang!" # 10
+                "kesan": "Khas boxingnya lucu bang",  
+                "pesan": "Terus menghibur orang dengan ciri khas bang deyvan ya!" # 10
             },
             {
                 "nama": "Ibnu Farhan Al-Ghifari",
@@ -532,8 +532,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Jalan lapas",
                 "hobi": "Ngeasprak",
                 "sosmed": "@johanneskrisjonn",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya bang!" # 12
+                "kesan": "Abangnya santai dan juga baik ke semua orang",  
+                "pesan": "Semangat terus ya bang ngaspraknya, jangan lelah membimbing kami!" # 12
             },
             {
                 "nama": "Kemas Veriandra Ramadhan",
@@ -543,8 +543,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kojo Golf Asri",
                 "hobi": "Ngetik print halo dunia",
                 "sosmed": "@kemasverii",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya bang!" # 13
+                "kesan": "Jago banget ngodingnya bang sesuai dengan hobinya",  
+                "pesan": "Semoga bisa ngajarin terus tentang ngoding ya bang!" # 13
             },
             {
                 "nama": "Leonard Andreas Napitupulu",
@@ -565,8 +565,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Kota Baru",
                 "hobi": "Dengar JPP worship",
                 "sosmed": "@presiliamg",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya kak!" #15
+                "kesan": "Kakaknya cantik ehehe",  
+                "pesan": "Cantik terus ya kak" #15
             },
             {
                 "nama": "Rafa Aqilla Jungjunan",
@@ -576,7 +576,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Belwis",
                 "hobi": "Baca Webtoon",
                 "sosmed": "@rafaaqilla",
-                "kesan": " ",  
+                "kesan": "",  
                 "pesan": "Semangat terus ya kak!" # 16
             },
             {
@@ -620,8 +620,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Korpri Raya",
                 "hobi": "Belajar, Game, Baca Komik",
                 "sosmed": "@gedemoenaa",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya bang!" # 20
+                "kesan": "",  
+                "pesan": "Imbangi hobinya ya bang. Karena agak sulit kalo dilihat :)" # 20
             },
             {
                 "nama": "Jaclin Alcavella",
@@ -631,8 +631,8 @@ elif menu == "Departemen PSDA":
                 "alamat": "Korpri",
                 "hobi": "Berenang",
                 "sosmed": "@jaclinaclcv_",
-                "kesan": " ",  
-                "pesan": "Semangat terus ya kak!" # 21
+                "kesan": "Kakaknya cerita tentang renang, jadi pingin renang",  
+                "pesan": "Jangan keseringan renang ya kak, nanti sakit!" # 21
             },
             {
                 "nama": "Rafly Prabu Darmawan",
