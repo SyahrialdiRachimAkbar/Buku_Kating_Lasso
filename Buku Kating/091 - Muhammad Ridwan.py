@@ -633,9 +633,9 @@ elif menu == "Departemen MIKFES":
             "https://drive.google.com/uc?export=view&id=1c0k95qgwk-0t9IKYoBFj7ZGhSUKnyOEp", # ka syadza
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", 
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", 
-            "https://drive.google.com/uc?export=view&id=1ddULa7v7F8LLWx9NOyNqbAcghnfvn92G", # bg eggi
+            "https://drive.google.com/uc?export=view&id=11OO7IVc7dEigMd-HsTuR9bvEnmZGy8L1", # bg eggi
             "https://drive.google.com/uc?export=view&id=1c-AO7eIJwiVmZCKPq3Opa6_Qgnqn2c6B", # ka febiya
-            "https://drive.google.com/uc?export=view&id=1dTWO53Zd3U1TyHvFmpzkmxvuIZIhEySs", # bg happy
+            "https://drive.google.com/uc?export=view&id=1SqRW3j5095Dy96v0juVd8gP452XKWD1H", # bg happy
             "https://drive.google.com/uc?export=view&id=1d8Ov5oun5Alf7-LtOjBEe9GKbRtqI_bp", # bg randa
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", 
         ]
