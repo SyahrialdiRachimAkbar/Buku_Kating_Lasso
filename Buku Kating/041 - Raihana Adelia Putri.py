@@ -1121,7 +1121,7 @@ elif menu == "Departemen Eksternal":
                 "umur": "20",
                 "asal": "Bogor",
                 "alamat": "Pemda",
-                "hobbi": "Sholawat",
+                "hobi": "Sholawat",
                 "sosmed": "@tria_y062",
                 "kesan": "Seruu dann ramah",  
                 "pesan": "Terimakasihh atas saran ataupun masukan yang diberikan dan semangatt selalu kuliahnya kak!" # 20
