@@ -1139,7 +1139,7 @@ elif menu == "Departemen Internal":
             "https://drive.google.com/uc?export=view&id=1zMmCbgT7n2LjBu__nxgrr0dw9UL8MHj-", # bg ari
             "https://drive.google.com/uc?export=view&id=1zI0Ya0xkJRiWWi7QUcUnrpv6ru8_cQvW", # ka azizah
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka dearni
-            "https://drive.google.com/uc?export=view&id=1zJ6gWyyAjWlCtf1ttwcGIIkxejYJGApH", # ka meira
+            "https://drive.google.com/uc?export=view&id=12tcolDwGvGukvNY6eERa2UiXQoKYWRdu", # ka meira
             "https://drive.google.com/uc?export=view&id=1zJ9NvHo6GODBZ0n8yswBQUT27ngl4CDc", # bg rendi
             "https://drive.google.com/uc?export=view&id=1zXq1Gqo_3oARtgaIGF1FScDmF0-X6Wrk", # ka renta
             "https://drive.google.com/uc?export=view&id=1zLyrDplZOuIZNDDyTKgNq0P4_E3YhTCR", # bg josua
