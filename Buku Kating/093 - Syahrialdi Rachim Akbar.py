@@ -663,26 +663,26 @@ elif menu == "Departemen PSDA":
 elif menu == "Departemen MIKFES":
     def mikfes():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg rafi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka anova
+            "https://drive.google.com/uc?export=view&id=1q_C4dD5SCd8Hc2MyTiR7DN0BqclU45CB", # bg rafi
+            "https://drive.google.com/uc?export=view&id=14rDvTEWiAcoCh6eesf3u-AVTOp1YXoic", # ka anova
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg mujadid
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ahmad sahidin
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg fadhil
+            "https://drive.google.com/uc?export=view&id=1HWNFtFFLoQDlYh7PmUTrtI34UKFrsQ-q", # bg fadhil
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg regi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka syalasisha dina
+            "https://drive.google.com/uc?export=view&id=1dChpcfrDXMoTu91PYXnb94DzWVjM_XYp", # ka syalasisha dina
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg natanael
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg anwar
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka deva
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka dinda
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka marleta
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka rut
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka syadza
+            "https://drive.google.com/uc?export=view&id=104mqkL4_Kv3gZzw7Itk46U_Dg7RTVPRz", # ka dinda
+            "https://drive.google.com/uc?export=view&id=16FXcYi9Tb8X1otwZVibtiSYp2Ex0zcxx", # ka marleta
+            "https://drive.google.com/uc?export=view&id=1lVWqHN3GP-hlz9a8gIwp-eGJIMbWePki", # ka rut
+            "https://drive.google.com/uc?export=view&id=1WR-NJMKSYJJ_hCNAwvGGHTObEuLnc3yE", # ka syadza
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg abdurrahman
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg aditya
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg eggi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka febiya
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg happy
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg randa
+            "https://drive.google.com/uc?export=view&id=1rEB5GVLUqvZVZZ1DALvFh_OsJwoeYW6o", # bg eggi
+            "https://drive.google.com/uc?export=view&id=1JmaCOhgoMYYDS9HOOjHotdpW9xulQTRf", # ka febiya
+            "https://drive.google.com/uc?export=view&id=1olSFqrdqdIlY4PyzgK3qPUTZLeEZfRMs", # bg happy
+            "https://drive.google.com/uc?export=view&id=1C1wyE4CgHv10RqjNbVjqx2mwUgmNKXs4", # bg randa
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka vita
         ]
         data_list = [
@@ -924,26 +924,26 @@ elif menu == "Departemen MIKFES":
 elif menu == "Departemen Eksternal":
     def eksternal():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg yogy
+            "https://drive.google.com/uc?export=view&id=1XpBXVEakgUUYG-KF1CMt9tgF2pqcPwWD", # bg yogy
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka dhita
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka nazwa
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg bastian
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka dea mutia
+            "https://drive.google.com/uc?export=view&id=10TRkDydDIp4n3-MBAZgcWqJIT7h3XRdJ", # ka dea mutia
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka ester
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka natasya
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka novelia
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka ratu
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg tobias
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka yo
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg rizky
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg arafi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka asa
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka chalifia
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg irvan
+            "https://drive.google.com/uc?export=view&id=1PZ5SQ5vyCwl8n_ogiiex9YRQGtBiTcmt", # ka novelia
+            "https://drive.google.com/uc?export=view&id=1ieePOMuqU-YJKaWV9Xsg2GsYlQzo0SYJ", # ka ratu
+            "https://drive.google.com/uc?export=view&id=1a2q5RyPSxtrFE1hIiYqxrGXd6HmESzdm", # bg tobias
+            "https://drive.google.com/uc?export=view&id=1MI7bgO3963cs6SQ9V2OBVzURd3HM5rqN", # ka yo
+            "https://drive.google.com/uc?export=view&id=1MatHOoYt8zOBCg4LKdq2H_XnKailS87D", # bg rizky
+            "https://drive.google.com/uc?export=view&id=10d5dySRo8YONI9xYkDtLXP9lUmDbfODr", # bg arafi
+            "https://drive.google.com/uc?export=view&id=1q67B8Yfzzw8xQOkX5cDGB-5OT69y31D4", # ka asa
+            "https://drive.google.com/uc?export=view&id=10QNNvATgdYbdssai_rnw44ekMWs7dFn3", # ka chalifia
+            "https://drive.google.com/uc?export=view&id=13Jk0nWPbn2QlQOZe0bnikbAnSVGpOpiI", # bg irvan
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka izza
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka khaalishah
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg raid
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka tria
+            "https://drive.google.com/uc?export=view&id=1PGkYEANM41qnJNZDdgirO8PppFR75wg_", # ka khaalishah
+            "https://drive.google.com/uc?export=view&id=1mTcKQL4nIUAWQZf9ZK_zA5VXE5_xGyqo", # bg raid
+            "https://drive.google.com/uc?export=view&id=10qb0aXEUTLtyoCH7SA6e6DBXekvmS7gp", # ka tria
 
 
         ]
