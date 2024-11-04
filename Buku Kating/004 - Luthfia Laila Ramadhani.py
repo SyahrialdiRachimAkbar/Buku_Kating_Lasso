@@ -184,7 +184,7 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1e9vUz9kq62zZnSQhfrqfOq97fCcnn-sn", # ka annisa cahyani
             "https://drive.google.com/uc?export=view&id=1eN6L3z4t3F2szlIoI6-T0fcHVUKow2fx", # ka wulan
             "https://drive.google.com/uc?export=view&id=1dzci07xxxXGleDNF7D8esgfuwsXaS2tA", # ka anisa dini
-            "https://drive.google.com/uc?export=view&id=1e9peUo_wPGGXcvk11tE5gLQzJLOkhGCk", # ka anisa fitri
+            "https://drive.google.com/uc?export=view&id=1FAxzGuBSbG2R_6UTUaOZH2aOQZt9OgeX", # ka anisa fitri
             "https://drive.google.com/uc?export=view&id=1eW3I-EwZIb081TEqRHd0ila_i7amYPoL", # bang fery
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka renisha
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka claudea
@@ -938,7 +938,7 @@ elif menu == "Departemen Eksternal":
             "https://drive.google.com/uc?export=view&id=1um2cydTqVxUiwMCcdX1YyChQG6GfEeVA", # ka yo
             "https://drive.google.com/uc?export=view&id=1vEoDhNgUgc_F-vlYwKWlsYSd1_TPIcHY", # bg rizky
             "https://drive.google.com/uc?export=view&id=1vqc9nZKJUaUyE5vaGhFs_b6t-BIGDG9g", # bg arafi
-            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka asa
+            "https://drive.google.com/uc?export=view&id=1B7W4bOkXYJRRCL73Z4X7yrOavZJMzja-", # ka asa
             "https://drive.google.com/uc?export=view&id=1vxC8tuxwUl20CK4YqENq7Njau9o32KU-", # ka chalifia
             "https://drive.google.com/uc?export=view&id=170gydUYL-FEeAY7opoHyWvAokYkuurtw", # bg irvan
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka izza
