@@ -184,8 +184,8 @@ elif menu == "Baleg":
             "https://drive.google.com/uc?export=view&id=1OzpZrta1hgmTYfcJLf0cIQX6Jh71vstO", # ka niya
             "https://drive.google.com/uc?export=view&id=1v5t6jHLD9_v6DokIJIeHN_Sve8Ihhgnw", # ka annisa cahyani
             "https://drive.google.com/uc?export=view&id=1x6K-b91vISTOXuyvpqXCEMbmiS-lG5Cg", # ka wulan
-            "https://drive.google.com/uc?export=view&id=1dzci07xxxXGleDNF7D8esgfuwsXaS2tA", # ka anisa dini
-            "https://drive.google.com/uc?export=view&id=1e9peUo_wPGGXcvk11tE5gLQzJLOkhGCk", # ka anisa fitri
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka anisa dini
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka anisa fitri
             "https://drive.google.com/uc?export=view&id=1sJhQoXAtbxWYAB7oeYLTA3Y43Jy67Fh8", # bang fery
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka renisha
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka claudea
