@@ -620,7 +620,7 @@ elif menu == "Departemen PSDA":
                 "alamat": "Korpri Raya",
                 "hobi": "Belajar, Game, Baca Komik",
                 "sosmed": "@gedemoenaa",
-                "kesan": "",  
+                "kesan": "Abangnya asik dan juga kece saat wawancara",  
                 "pesan": "Imbangi hobinya ya bang. Karena agak sulit kalo dilihat :)" # 20
             },
             {
