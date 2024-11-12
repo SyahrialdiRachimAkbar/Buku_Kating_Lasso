@@ -377,7 +377,7 @@ elif menu == "Senator":
 elif menu == "Departemen PSDA":
     def psda():
         gambar_urls = [
-            "https://drive.google.com/uc?export=view&id=1GvIodPS1nrvYnshBd5Ll7ObPb5woN1", # bg econ
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg econ
             "https://drive.google.com/uc?export=view&id=19QtrmhfbnkJ0jrr99xUsN55hQ9_PlAFF", # ka abet
             "https://drive.google.com/uc?export=view&id=19a60c--2C6FNLdxuyzLUtKDuSHY4marU", # ka pipah
             "https://drive.google.com/uc?export=view&id=10K4AP0IAQ-CxpSB3b6OkKHscjR_qOCfk", # ka allya
@@ -385,7 +385,7 @@ elif menu == "Departemen PSDA":
             "https://drive.google.com/uc?export=view&id=10biVf1F6rB_GyHc5I3pKPLpgHKVfVyGu", # ka hanum
             "https://drive.google.com/uc?export=view&id=10UQmKhUEUejmj1se868DiBT9464v1O37", # bg ferdy 
             "https://drive.google.com/uc?export=view&id=1105lryHiM7AdCSGsFrIYbWuQCU78l-jp", # bg deri 
-            "https://drive.google.com/uc?export=view&id=10dSmg8CXWSfRR9uHVOrfB3H4qL-SDIRv", # ka okta 
+            "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # ka okta 
             "https://drive.google.com/uc?export=view&id=111AMN1boLxi1JW7u0M3NVpJ5fsNvofBP", # bg deyvan
             "https://drive.google.com/uc?export=view&id=1tBo0l5pxH4N8o3rNk-Iupet4c12OATy_", # bg ibnu farhan blm
             "https://drive.google.com/uc?export=view&id=11405CX4cTD9obkfM4xQEPeeuYBw5KK-J", # bg jo
